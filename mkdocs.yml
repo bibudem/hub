@@ -2,7 +2,7 @@ INHERIT: nav.yml
 
 
 site_name: Le Hub Numérique
-site_url: https://bibudem.github.io/hub
+site_url: https://hub-jade.vercel.app
 copyright: Les bibliothèques UdeM - 2024
 site_author: Les bibliothèques UdeM
 site_description: Documentation
