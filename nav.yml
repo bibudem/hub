@@ -1,0 +1,81 @@
+# Navigation
+
+nav:
+  - Accueil: index.md
+  - Environnement numérique: 
+    - numerique/index.md
+    - Authentification : numerique/authentification.md
+    - Réseau sans fil : numerique/sans-fil.md
+    - Accès hors-campus :
+      - numerique/acces-hors-campus/index.md
+      - Configurer le proxy: numerique/acces-hors-campus/proxy.md
+      - Installer le VPN: numerique/acces-hors-campus/vpn.md
+    - Impression : numerique/impression.md
+    - Numérisation :
+      - numerique/numerisation/index.md
+      - Numérisation de vinyles : numerique/numerisation/vinyles.md
+    - Ordinateurs : numerique/ordinateurs.md
+    - Postes AVA : numerique/postes-ava.md
+    - Postes d'édition : numerique/postes-edition.md
+    - Tablettes iPad : numerique/tablettes.md
+
+    - Logiciels : logiciels/index.md
+      # - Connexion à distance : logiciels/connexion-a-distance.md
+      # - logiciels/office.md
+    - Accessoires en prêt : numerique/accessoires.md
+    - Demande de soutien : numerique/soutien.md
+
+  - Technologies créatives:
+    - creatives/index.md
+    - Impression 3D : 
+      - creatives/impression3d/index.md
+      - Introduction : creatives/impression3d/introduction.md
+      - Prusa i3: creatives/impression3d/prusa.md
+      - Ultimaker 2/S3: creatives/impression3d/ultimaker.md
+      - Elegoo Saturn 3 Ultra : creatives/impression3d/saturn3.md
+      
+
+    - Réalité virtuelle : 
+      - creatives/realite-virtuelle/index.md
+      - Oculus Go : creatives/realite-virtuelle/oculusgo/index.md
+      - Meta Quest 3 : creatives/realite-virtuelle/metaquest3/index.md
+      - Catalogue des expériences : creatives/realite-virtuelle/catalogue.md
+    
+    - Électroniques : 
+      - creatives/electroniques/index.md
+      - Arduino : creatives/electroniques/arduino/index.md
+      - Raspberry Pi : creatives/electroniques/raspberrypi/index.md
+      - Internet des Objets : creatives/electroniques/ido/index.md
+      - Pièces électroniques : creatives/electroniques/inventaire.md
+
+    - Découpeuse : creatives/decoupeuse/index.md
+    
+    - Art textile : creatives/textile.md
+
+    - Programmation : creatives/programmation.md
+
+    - Réalisations : realisations/index.md
+    
+  - Médias numériques:
+    - medias/index.md
+
+    - Audio : 
+      - medias/audio/index.md
+      - Studio audio : medias/audio/studio.md
+      - Montage audio : medias/audio/montage.md
+      - Guide : medias/audio/rodecasterpro.md
+
+    - Vidéo :
+      - medias/video/index.md
+      - Studio vidéo : medias/video/studio.md
+      - Montage : medias/video/montage.md
+
+    - Édition :
+      - medias/edition/index.md
+    
+    - Infographie :
+      - medias/infographie/index.md
+    
+    - Visualisation de données : 
+      - medias/visualisation/index.md
+    

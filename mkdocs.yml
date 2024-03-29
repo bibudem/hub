@@ -1,0 +1,181 @@
+INHERIT: nav.yml
+
+
+site_name: Le Hub Numérique
+site_url: https://bibudem.github.io/hub
+copyright: Les bibliothèques UdeM - 2024
+site_author: Les bibliothèques UdeM
+site_description: Documentation
+
+repo_name: bibudem/creanum
+
+theme:
+  name: material
+  custom_dir: overrides
+  language : fr
+  favicon: assets/favbib.svg
+  logo: assets/logobib.svg
+  features:
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    # - navigation.expand
+    - navigation.path
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+    - content.code.copy
+    - content.tabs.link
+    # - navigation.prune
+    - navigation.indexes
+
+  palette:
+     # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple
+      accent: 
+      toggle:
+        icon: material/weather-night 
+        name: Passer au mode sombre
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: amber
+      accent: 
+      toggle:
+        icon: material/weather-sunny
+        name: Passer au mode clair
+
+  font :
+    text : Inter
+    code: Fragment Mono
+
+extra_css:
+  - stylesheets/extra.css
+
+
+extra_javascript:
+  - https://secretariatgeneral.umontreal.ca/udem_consentement_temoins.js
+  - javascripts/extra.js
+  - https://unpkg.com/hyperscript.org@0.9.12
+
+
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      lang: fr
+  - tags
+      # listings_toc: true
+      # tags_file: tags.md
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true
+  - optimize
+  # - typeset
+  - glightbox: # Plugin zoom image
+      touchNavigation: true
+      skip_classes:
+        - skip-lightbox
+  - git-revision-date-localized: # Paramètres de la date de modification en se basant sur le dernier commit
+      enabled: !ENV [CI, false]
+      type: timeago
+      locale: fr
+      fallback_to_build_date: true
+  - table-reader :
+      select_readers:
+        - read_csv
+
+# Paramètres de markdown extensions, pour en savoir plus : https://facelessuser.github.io/pymdown-extensions/
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      auto_append: 
+      - includes/abbreviations.md
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+# Paramètres de la table des matières
+
+  - toc:
+      permalink: true
+      permalink_title: Permalien vers cette section
+      toc_depth: 2
+
+  - pymdownx.tabbed:
+      alternate_style: true 
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+
+# Analytics
+
+extra:
+  generator: false
+  analytics: 
+    provider: google
+    property: XXXXXXXXXXX
+    feedback:
+      title: L'information sur cette page vous a-t-elle été utile? 
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Cette page a été utile
+          data: 1
+          note: >-
+            Merci pour votre rétroaction!
+        - icon: material/thumb-down-outline
+          name: Cette page pourrait être améliorée
+          data: 0
+          note: >- 
+            Merci pour votre rétroaction! Aidez-nous à améliorer la page en utilisant ce
+            <a href="..." target="_blank" rel="noopener">formulaire</a>.
+
+# Réseaux sociaux
+
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/bibudem/
+      name: Github des bibliothèques UdeM
+
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/bibudem
+      name: Les Bibliothèques UdeM sur Twitter
+
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/bibudem
+      name: Les Bibliothèques UdeM sur Facebook
+
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<creanum@bib.umontreal.ca>
+      name: Courriel

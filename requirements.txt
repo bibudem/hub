@@ -1,0 +1,7 @@
+CairoSVG==2.7.1
+mkdocs-git-revision-date-localized-plugin==1.2.4
+mkdocs-glightbox==0.3.7
+mkdocs-minify-plugin==0.8.0
+mkdocs-table-reader-plugin==2.1.0
+Pillow==9.5.0
+pngquant==1.0.7
