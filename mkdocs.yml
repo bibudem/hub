@@ -85,7 +85,6 @@ plugins:
       skip_classes:
         - skip-lightbox
   - git-revision-date-localized: # Paramètres de la date de modification en se basant sur le dernier commit
-      enabled: !ENV [CI, false]
       type: timeago
       locale: fr
       fallback_to_build_date: true
