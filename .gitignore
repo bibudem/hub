@@ -2,3 +2,4 @@ venv
 .venv
 .cache
 .DS_Store
+.github
