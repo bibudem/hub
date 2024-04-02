@@ -43,8 +43,3 @@ Pour lancer un aperçu en local :
 ``` sh
 mkdocs serve
 ```
-
-## Note
-### Github Pages
-À chaque *Push*, le site se génère automatiquement grâce au *workflow* qui se trouve dans le dossier .github/workflows/ci.yml
-et devient accessible sur Github Pages : [bibudem.github.io/hub](https://bibudem.github.io/hub). Le GH_TOKEN est configuré pour générer le site avec la version *Insiders* automatiquement.
