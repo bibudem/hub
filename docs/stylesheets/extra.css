@@ -21,6 +21,7 @@
   --bib-tab-color: 0 0 0 1px rgba(0, 0, 0, 0.1);
   --md-code-backdrop: #d35757;
   --bib-background-header-top: #0b113a;
+  --bib-background-menu-top: #0057ac;
 }
 :root, [data-md-color-scheme="slate"] {
   --md-default-bg-color: #1e1e21;
@@ -159,7 +160,7 @@
 
 .md-nav {
   font-size: .7rem;
-  line-height: 2;
+  line-height: 1.8;
 }
 
 /* menu en haut */
@@ -177,7 +178,7 @@
 }
 .md-tabs {
   /* color: #181818 ; */
-  /* background-color: #0057ac; */
+  background-color: var(--bib-background-menu-top);
   line-height: 1;
   /* font-weight: 600; */
   }
