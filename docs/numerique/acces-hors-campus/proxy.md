@@ -9,8 +9,7 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
 
 === "macOS"
 
-    !!! Warning "Recommendation"
-        Utilisateur d'une version macOS ultérieur à 13 : il est recommandé d'utiliser le navigateur Chrome ou Firefox.
+    !!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
 
     1. Cliquer sur l'icône Wi-Fi en haut à droite de l'écran.
     2. Cliquer **Réglages Wi-Fi** (ou **Préférences réseau**). Si un cadenas fermé s’affiche en bas à gauche, cliquer pour le débarrer avec le mot de passe du compte administrateur de votre ordinateur.
@@ -20,23 +19,54 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
     5. Activer **Configuration de serveur mandataire automatique**.
     6. Dans la case URL, taper au complet et sans espace `http://proxy.umontreal.ca` ![Fenêtre macOS pour activer le serveur mandataire](../images/proxy-macos.png)
     7. Cliquer sur **OK** ensuite **Appliquer**.
-    8. Tester la configuration Proxy avec son navigateur internet à l'adresse [http://testproxy.umontreal.ca](http://testproxy.umontreal.ca)
-    9.  Si une fenêtre s'affiche au milieu de l'écran, cliquer **Préférences**.
-    10. S'authentifier avec son code d'accès et UNIP / mot de passe.
-
-    Le message `Votre configuration Proxy est fonctionnelle` devrait s'afficher.
 
     Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
 
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D5VeqdvUNdM?si=B9KGpraq8qG1N-y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 === "Windows"
 
-    ceci 
+    === "Windows 10"
+        1. Cliquer sur le bouton **Démarrer**, puis sur **Paramètres**
+        2. Cliquer sur **Réseau et internet**
+        3. Cliquer sur **Proxy**
+        4. Activer seulement **Utiliser un script d'installation**
+        ![Fenêtre Windows 10 pour activer le serveur mandataire](../images/proxy-win10-adresse.png)
+        5. Dans **Adresse du script**, taper sans espace `http://proxy.umontreal.ca`
+        6. Cliquer sur **Enregistrer**
+
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dk1oUdLo84Y?si=YmrEseW783rcbQNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    === "Windows 11"
+        7. Cliquer sur le bouton **Démarrer**, puis sur **Paramètres**
+        8.  Cliquer sur **Réseau & Internet**
+        9.  Cliquer sur **Proxy**
+        10. Dans **Utiliser un script d'installation**, cliquer **Configurer**
+        11. Activer **Utiliser un script de configuration**
+        12. Dans **Adresse du script**, taper sans espace `http://proxy.umontreal.ca`
+        ![Fenêtre Windows 11 pour activer le serveur mandataire](../images/proxy-w11-utiliser-script.jpg)
+        13. Cliquer sur **Enregistrer**
+
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IApth7W-yzw?si=hL5dUYtCGjHqpRrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "iOS"
+    !!! Warning "la configuration du Proxy sur iOS est disponible pour les connexions Wi-Fi seulement, pas cellulaire"
+    1. Sélectionner **Réglages** → **Wi-Fi** → cliquer sur le **i** à côté du réseau sans-fil.
+    2. Dans la section du bas **Serveur mendataire HTTP**, sélectionner **Configurer le serveur mandataire**
+    3. Sélectionner **Automatique** et entrer cet URL sans espace : `http://proxy.umontreal.ca` 
+    4. Appuyer sur **Enregistrer**
 
 === "Android"
 
 
+
+------------------
+
+## Tester la configuration
+
+1. À l'aide d'un navigateur web, aller à l’adresse [testproxy.umontreal.ca](https://testproxy.umontreal.ca)
+2. À la fenêtre d'authentification, entrer ses informations d'authentification (code d'accès et UNIP / mot de passe)
+3. Le message `Votre configuration Proxy est fonctionnelle` devrait s’afficher.
 
 ------------------
 

@@ -13,8 +13,6 @@ const gBIB_DEV = window.location.hostname.toLowerCase() !== "bibudem.github.io" 
 
 window.addEventListener("DOMContentLoaded", _ => {
     bibExternalLinks();
-    var splide = new Splide( '.splide' );
-    splide.mount();
 });
 
 function bibAddClassToElement(className, element, elementName) {
