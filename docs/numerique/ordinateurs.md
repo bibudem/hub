@@ -4,7 +4,7 @@ glightbox: false
 ---
 
 # Ordinateurs
-![](images/clavier.jpg)
+![](images/ordinateurs.jpg)
 ## Libre-service
 Des ordinateurs en libre-service sont mis à la disposition de toutes les personnes utilisatrices. Ils sont accessibles avec le code d'accès et UNIP / mot de passe.
 

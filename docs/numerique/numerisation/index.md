@@ -1,9 +1,10 @@
 ---
 icon : material/book-refresh-outline
+glightbox: false
 ---
 
 # Numérisation
-
+![](../images/numeriseur.jpg)
 Un service de numérisation gratuit est offert sur certains ordinateurs des bibliothèques munis d'un numériseur.
 
 ## Disponibilité :fontawesome-solid-location-dot:
