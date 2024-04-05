@@ -13,7 +13,7 @@ icon: material/network-outline
 
 ---
 
-# Accès hors-campus aux ressources électroniques
+# Accès hors campus aux ressources électroniques
 
 ![](../images/hors-campus.jpg)
 

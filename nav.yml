@@ -6,7 +6,7 @@ nav:
     - numerique/index.md
     - Authentification : numerique/authentification.md
     - Réseau sans fil : numerique/sans-fil.md
-    - Accès hors-campus :
+    - Accès hors campus :
       - numerique/acces-hors-campus/index.md
       - Configurer le proxy: numerique/acces-hors-campus/proxy.md
       - Installer le VPN: numerique/acces-hors-campus/vpn.md

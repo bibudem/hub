@@ -15,7 +15,7 @@ L'offre logicielle disponible sur les ordinateurs des bibliothèques de l'Univer
 
 Description des icônes :
 
-- :simple-opensourceinitiative: : Doté d'un code source ouvert.
+- :simple-opensourceinitiative: : Logiciel libre.
 - :green_circle: : Disponible en téléchargement.
 - :material-network: : Accessible à distance.
 
