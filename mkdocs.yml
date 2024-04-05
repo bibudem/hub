@@ -163,13 +163,13 @@ extra:
 # Réseaux sociaux
 
   social:
-    - icon: fontawesome/brands/github 
-      link: https://github.com/bibudem/
-      name: Github des bibliothèques UdeM
+    - icon: fontawesome/brands/youtube 
+      link: https://www.youtube.com/@BibliothequesUdeM
+      name: YouTube des bibliothèques UdeM
 
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/bibudem
-      name: Les Bibliothèques UdeM sur Twitter
+      name: Les Bibliothèques UdeM sur X (Twitter)
 
     - icon: fontawesome/brands/facebook
       link: https://facebook.com/bibudem
