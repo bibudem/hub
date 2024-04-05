@@ -30,6 +30,6 @@ Préalables :
 
 [:material-check-network-outline:{ .lg .middle } **Configurer le serveur mandataire (*proxy*)**](../acces-hors-campus/proxy.md){ .md-button .md-button--primary .md-button--stretch }
 
-[:material-check-network-outline:{ .lg .middle } **Installer le VPN**](#){ .md-button .md-button--primary .md-button--stretch }
+[:material-check-network-outline:{ .lg .middle } **Installer le VPN**](../acces-hors-campus/vpn.md){ .md-button .md-button--primary .md-button--stretch }
 
 </div>

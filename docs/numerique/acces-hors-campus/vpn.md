@@ -88,9 +88,16 @@ Le VPN permet d’accéder aux ressources de l’intranet universitaire ainsi qu
 ## Dépannage
 
 === "macOS"
+    Si vous obtenez le message d’erreur `Impossible d’ouvrir le fichier PulseSecureAppLauncher.mpkg, car Apple ne peut pas vérifier s’il contient des logiciels malveillants.` :
+
+    - 1ère solution : Glisser l'icône `PulseSecureAppLauncher.mpkg` dans le dossier Bureau et lancer l'application.
+    - 2ème solution : Ouvrir **Préférences Système** → **Sécurité et confidentialité** → **Général** → **Ouvrir quand même**.
 
 
 === "Windows"
+
+    1. Lors de l'installation, si plus rien ne se passe, redémarrer votre ordinateur, relancer la page [vpn.umontreal.ca/campus](https://vpn.umontreal.ca/campus) et cliquer à nouveau sur le bouton **Démarrer**.
+    2. Essayer dans un autre navigateur.
 
 === "iOS"
 
@@ -100,19 +107,18 @@ Le VPN permet d’accéder aux ressources de l’intranet universitaire ainsi qu
 
 === "macOS"
 
-    1. Ouvrir **Préférences Système**.
-    2. Cliquer sur **Profil**.
-    3. Sélectionner **Pulse Secure**.
-    4. Cliquer sur **-**.
-    5. Confirmer la désinstallation.
+    1. Cliquer sur l'icône Pulse Secure (en haut à droite) et quitter l'application.
+    2. Aller à **Finder** → **Applications** → Clic droit sur **Pulse Secure** → Placer dans la corbeille.
+    3. Cliquer **No** à **save configuration**.
+    4. Vider la corbeille.
 
 === "Windows"
     
-    1. Ouvrir **Panneau de configuration**.
-    2. Cliquer sur **Programmes et fonctionnalités**.
-    3. Sélectionner **Pulse Secure**.
-    4. Cliquer sur **Désinstaller**.
-    5. Confirmer la désinstallation.
+    1. Cliquer le bouton Démarrer, puis Paramètres
+    2. Cliquer Applications
+    3. Sélectionner tous les items Pulse Secure puis Désinstaller
+    4. Cliquer Oui pour redémarrer si demandé
+    5. Redémarrer l’ordinateur
 
 === "iOS"
     
