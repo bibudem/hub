@@ -84,7 +84,7 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
 ## Photocopie
 
 1. Déposer le document sur la glace d’exposition (ou dans le chargeur de documents).
-2. S’authentifier sur l’imprimante avec le code d’accès (ex. ab12345 ou p1234567) et UNIP / mot de passe.
+2. S’authentifier sur l’imprimante avec le code d’accès et UNIP / mot de passe.
 3. Cliquer **Copier** en haut de l’écran.
 4. Cliquer **Départ**.
 

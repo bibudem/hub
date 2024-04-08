@@ -33,6 +33,7 @@ theme:
     - content.tabs.link
     # - navigation.prune
     - navigation.indexes
+    - content.footnote.tooltips
 
   palette:
      # Palette toggle for light mode
@@ -69,6 +70,10 @@ plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
       lang: fr
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
   - tags
       # listings_toc: true
       # tags_file: tags.md
@@ -91,6 +96,7 @@ plugins:
   - table-reader :
       select_readers:
         - read_csv
+
 
 # Paramètres de markdown extensions, pour en savoir plus : https://facelessuser.github.io/pymdown-extensions/
 
@@ -123,6 +129,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - footnotes
 
 # Paramètres de la table des matières
 

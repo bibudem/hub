@@ -32,12 +32,12 @@ Les tablettes sont prêtées avec étui, mallette, fil USB et chargeur.
 
 <div class="grid cards" markdown>
 
-[Guide d'utilisation de l'iPad](https://support.apple.com/fr-ca/guide/ipad/welcome/ipados){ .md-button .md-button--stretch target="_blank"} 
+[Guide d'utilisation de l'iPad](https://support.apple.com/fr-ca/guide/ipad/welcome/ipados){ .md-button .md-button--stretch } 
 
 [Accès sans fil pour iOS](sans-fil.md){ .md-button .md-button--stretch}
 
-[Configuration du serveur mandataire (proxy) sur iOS](acces-hors-campus/proxy.md#ios){ .md-button .md-button--stretch}
+[Configuration du serveur mandataire (proxy) sur iOS](acces-hors-campus/proxy.md){ .md-button .md-button--stretch}
 
-[Installation du VPN sur iOS](acces-hors-campus/vpn.md#ios){ .md-button .md-button--stretch}
+[Installation du VPN sur iOS](acces-hors-campus/vpn.md){ .md-button .md-button--stretch}
 
 </div>

@@ -1,5 +1,5 @@
 ---
-title : Accès hors-campus #! Important : c'est ce qui va s'afficher en version mobile, puisque le titre est long et risque de dépasser.
+title : Accès hors campus #! Important : c'est ce qui va s'afficher en version mobile, puisque le titre est long et risque de dépasser.
 
 hide:
   - footer

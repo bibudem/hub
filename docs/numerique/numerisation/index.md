@@ -2,6 +2,8 @@
 icon : material/book-refresh-outline
 glightbox: false
 toc_depth: 4
+search:
+  boost: 2
 ---
 
 # Numérisation
@@ -43,9 +45,7 @@ Le Service d'Impression de l'UdeM offre également un service payant de numéris
 
 ----------------------
 
-## Aide
-
-### Numérisation petit format avec Epson Scan
+## Numérisation petit format avec Epson Scan
 
 1. Placer l’image à numériser sur la vitre du numériseur, en haut à gauche
 2. Cliquer sur le bouton **Windows** → **Numérisation** → **EPSON Scan**
@@ -55,7 +55,7 @@ Le Service d'Impression de l'UdeM offre également un service payant de numéris
 6. Cliquer sur **Numériser** de la fenêtre de gauche, choisir ensuite l’emplacement où enregistrer le document, le format de l’image (PDF, JPEG...) et cliquer sur **OK**.
 7. Enregistrer le document.
 
-### Numérisation de livres avec Zeta
+## Numérisation de livres avec Zeta
 
 1. Insérer la clé USB à droite en haut de l’écran (disponible pour emprunt au comptoir de prêt).
 2. Déposer le livre sur le plateau avec le dos du livre au centre et ouvrir aux pages à numériser.
@@ -71,7 +71,7 @@ Le Service d'Impression de l'UdeM offre également un service payant de numéris
 
 !!! Info "Pour plus d’information sur les options d’enregistrement et de numérisation, appuyer sur **Aide** au bas de l’écran."
 
-### Numérisation au format PDF avec Adobe Acrobat Pro
+## Numérisation au format PDF avec Adobe Acrobat Pro
 
 1. Placer le document à numériser sur la vitre du numériseur (face vers le bas).
 2. Cliquer sur le bouton **Windows** → **Adobe Acrobat Pro**
@@ -83,7 +83,7 @@ Le Service d'Impression de l'UdeM offre également un service payant de numéris
 6. Si la numérisation de toutes les pages est terminée, cliquer sur **OK**. Sinon, placer la prochaine page dans le numériseur et sélectionner **Numériser davantage de pages** → **OK**
 7. Sauvegarder le document PDF sous le nom désiré en cliquant sur **Fichier** → **Enregistrer**.
 
-### Reconnaissance optique de caractères (OCR)
+## Reconnaissance optique de caractères (OCR)
 
 1. Ouvrir un fichier PDF avec Acrobat Pro.
 2. Utiliser la reconnaissance optique de caractères
@@ -93,8 +93,6 @@ Le Service d'Impression de l'UdeM offre également un service payant de numéris
 6. Patienter durant le traitement.
 
     !!! Info "Pour enregistrer au format Word : Cliquez sur **Fichier** > **Exporter vers** > **Microsoft Word** > **Document Word**."
-
-
 
 --------------------
 

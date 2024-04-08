@@ -1,5 +1,7 @@
 ---
 icon : material/check-network-outline
+search:
+  boost: 2
 ---
 
 # Installer le VPN

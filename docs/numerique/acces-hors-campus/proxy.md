@@ -1,5 +1,7 @@
 ---
 icon : material/check-network-outline
+search:
+  boost: 2
 ---
 # Configurer le serveur mandataire (*proxy*)
 
@@ -77,7 +79,7 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
     - [Vérifier si une panne ou un arrêt de service est signalé par les TI](https://ti.umontreal.ca/etat-des-services/) (Technologies de l'information).
     - Si la fenêtre d'authentification au Proxy réapparaît de façon répétitive, valider les informations d'authentification en se branchant sur le portail à l'adresse MonUdeM.umontreal.ca
     - Pour les navigateurs Edge et Internet Explorer, s'assurer d'inscrire "sim\" devant le code d'accès (exemple : sim\ab12345 ou sim\p1234567)
-    - [Effacer la mémoire cache de votre navigateur Internet](../acces-hors-campus/depannage.md#chrome)
+    - [Effacer la mémoire cache de votre navigateur Internet](#chrome)
 
     Le temps de tester, désactiver s'il y a lieu :
 

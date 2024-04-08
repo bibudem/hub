@@ -1,6 +1,7 @@
 ---
 hide : 
     - toc
+    - footer
 icon : material/account-key-outline
 glightbox: false
 ---

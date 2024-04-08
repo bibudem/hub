@@ -4,8 +4,6 @@ icon : material/cable-data
 hide:
   - footer
   - toc
-search:
-  exclude: true
 glightbox: false
 
 ---
