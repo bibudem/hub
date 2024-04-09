@@ -1,6 +1,8 @@
 ---
 glightbox: false
 icon : material/printer-outline
+
+custom_footer: true
 ---
 
 # Impression
@@ -99,3 +101,5 @@ Pour obtenir de l’aide supplémentaire avec l’impression, contacter le Servi
 - [sium.umontreal.ca/soutien-technique.html](sium.umontreal.ca/soutien-technique.html)
 - Téléphone : 514 343-6410
 - Courriel : <sium@sea.umontreal.ca>
+
+

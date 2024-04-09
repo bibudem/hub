@@ -308,3 +308,37 @@
   text-decoration: underline;
   opacity: 0.8;
 }
+
+
+
+/* Conteneur du footer personnalisé */
+.custom-footer {
+  display: flex;
+  justify-content: space-between; /* Pour répartir uniformément */
+  width: 100%; /* Prendre toute la largeur de la page */
+  padding: 0; /* Aucun padding interne */
+}
+
+/* Liens du footer */
+.footer-link {
+  width: 25%; /* Chaque lien prend 25% de la largeur du conteneur */
+  display: flex;
+  justify-content: center; /* Centre le SVG dans le lien */
+}
+
+/* Images SVG */
+.footer-link img {
+  width: 100%; /* Prendre toute la largeur du lien */
+  height: auto; /* Garder les proportions */
+}
+
+/* Pour les appareils mobiles */
+@media (max-width: 768px) {
+  .custom-footer {
+      flex-direction: column;
+  }
+
+  .footer-link {
+      width: 100%; /* Chaque lien prend maintenant toute la largeur */
+  }
+}
