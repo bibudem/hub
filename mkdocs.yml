@@ -74,17 +74,6 @@ plugins:
         - stemmer
         - stopWordFilter
         - trimmer
-  - tags
-      # listings_toc: true
-      # tags_file: tags.md
-  - minify:
-      minify_html: true
-      minify_js: true
-      minify_css: true
-      htmlmin_opts:
-          remove_comments: true
-  - optimize
-  # - typeset
   - glightbox: # Plugin zoom image
       touchNavigation: true
       skip_classes:
@@ -96,6 +85,16 @@ plugins:
   - table-reader :
       select_readers:
         - read_csv
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true
+
+  - optimize
+  # - typeset
+  
 
 
 # Paramètres de markdown extensions, pour en savoir plus : https://facelessuser.github.io/pymdown-extensions/
