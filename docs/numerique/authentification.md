@@ -14,9 +14,10 @@ L'authentification par code d'accès et UNIP / mot de passe est nécessaire pour
 
 <div class="grid cards" markdown>
 
-[Wiki des Technologies de l'information (TI)](https://wiki.umontreal.ca/x/HJeUBw){ .md-button .md-button--primary .md-button--stretch target="_blank"} 
+[Wiki des Technologies de l'information (TI)](https://wiki.umontreal.ca/x/HJeUBw){ .md-button .md-button--primary .md-button--stretch } 
+<!-- [Wiki des Technologies de l'information (TI)](https://wiki.umontreal.ca/x/HJeUBw){ .md-button .md-button--primary .md-button--stretch target="_blank"}  -->
 
-[Code d'accès ou UNIP / mot de passe oublié?](https://ti.umontreal.ca/offre-de-services/services-par-categorie/comptes-et-mots-de-passe/authentification-code-dacces-unip/){ .md-button .md-button--stretch .md-button--primary target="_blank"}
+[Code d'accès ou UNIP / mot de passe oublié?](https://ti.umontreal.ca/offre-de-services/services-par-categorie/comptes-et-mots-de-passe/authentification-code-dacces-unip/){ .md-button .md-button--stretch .md-button--primary }
 
-[L'authentification à deux facteurs (A2F)](https://wiki.umontreal.ca/pages/viewpage.action?pageId=184126772){ .md-button .md-button--primary .md-button--stretch target="_blank"}
+[L'authentification à deux facteurs (A2F)](https://wiki.umontreal.ca/pages/viewpage.action?pageId=184126772){ .md-button .md-button--primary .md-button--stretch }
 </div>
