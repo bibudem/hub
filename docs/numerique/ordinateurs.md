@@ -3,6 +3,9 @@ icon : material/laptop
 glightbox: false
 hide : 
     - toc
+
+custom_footer: true
+svgs: ["clavarder"]
 ---
 
 # Ordinateurs

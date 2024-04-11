@@ -310,35 +310,36 @@
 }
 
 
-
-/* Conteneur du footer personnalisé */
+/* Footer personnalisé pour l'aide (voir custom_footer.html dans overrides) */
 .custom-footer {
+  width: 100%; /* Prend la pleine largeur de son conteneur parent */
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
-  justify-content: space-between; /* Pour répartir uniformément */
-  width: 100%; /* Prendre toute la largeur de la page */
-  padding: 0; /* Aucun padding interne */
+  justify-content: center;
+  align-items: center;
 }
 
-/* Liens du footer */
 .footer-link {
-  width: 25%; /* Chaque lien prend 25% de la largeur du conteneur */
   display: flex;
-  justify-content: center; /* Centre le SVG dans le lien */
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 auto; /* Empêche le redimensionnement automatique */
 }
 
-/* Images SVG */
 .footer-link img {
-  width: 100%; /* Prendre toute la largeur du lien */
-  height: auto; /* Garder les proportions */
+  height: 50px; /* Hauteur fixe */
+  width: auto; /* Largeur ajustée automatiquement */
 }
 
-/* Pour les appareils mobiles */
 @media (max-width: 768px) {
   .custom-footer {
       flex-direction: column;
+      max-width: 100%; /* Pleine largeur sur les petits écrans */
   }
 
   .footer-link {
-      width: 100%; /* Chaque lien prend maintenant toute la largeur */
+      width: 100%; /* Pleine largeur en vue mobile */
+      margin: 0; /* Pas de marge en mode mobile */
   }
 }

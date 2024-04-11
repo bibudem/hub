@@ -1,13 +1,13 @@
 INHERIT: nav.yml
 
 
-site_name: Le Hub Numérique
+site_name: Expérience numérique
 site_url: https://hub-jade.vercel.app
 copyright: Les bibliothèques UdeM - 2024
 site_author: Les bibliothèques UdeM
 site_description: Documentation
 
-repo_name: bibudem/creanum
+repo_name: bibudem/hub
 
 theme:
   name: material

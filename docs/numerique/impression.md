@@ -1,8 +1,8 @@
 ---
 glightbox: false
 icon : material/printer-outline
-
 custom_footer: true
+svgs: ["clavarder","telephone"]
 ---
 
 # Impression
