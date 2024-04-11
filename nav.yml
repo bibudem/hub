@@ -2,28 +2,28 @@
 
 nav:
   - Accueil: index.md
-  - Environnement numérique: 
-    - numerique/index.md
-    - Authentification : numerique/authentification.md
-    - Réseau sans fil : numerique/sans-fil.md
+  - Ressources informatiques : 
+    - informatique/index.md
+    - Authentification : informatique/authentification.md
+    - Réseau sans fil : informatique/sans-fil.md
     - Accès hors campus :
-      - numerique/acces-hors-campus/index.md
-      - Configurer le proxy: numerique/acces-hors-campus/proxy.md
-      - Installer le VPN: numerique/acces-hors-campus/vpn.md
-    - Impression : numerique/impression.md
+      - informatique/acces-hors-campus/index.md
+      - Configurer le proxy: informatique/acces-hors-campus/proxy.md
+      - Installer le VPN: informatique/acces-hors-campus/vpn.md
+    - Impression : informatique/impression.md
     - Numérisation :
-      - numerique/numerisation/index.md
-      - Numérisation de vinyles : numerique/numerisation/vinyles.md
-    - Ordinateurs : numerique/ordinateurs.md
-    - Postes AVA : numerique/postes-ava.md
-    - Postes d'édition : numerique/postes-edition.md
-    - Tablettes iPad : numerique/tablettes.md
+      - informatique/numerisation/index.md
+      - Numérisation de vinyles : informatique/numerisation/vinyles.md
+    - Ordinateurs : informatique/ordinateurs.md
+    - Postes AVA : informatique/postes-ava.md
+    - Postes d'édition : informatique/postes-edition.md
+    - Tablettes iPad : informatique/tablettes.md
 
     - Logiciels : logiciels/index.md
       # - Connexion à distance : logiciels/connexion-a-distance.md
       # - logiciels/office.md
-    - Accessoires en prêt : numerique/accessoires.md
-    - Demande de soutien : numerique/soutien.md
+    - Accessoires en prêt : informatique/accessoires.md
+    - Demande de soutien : informatique/soutien.md
 
   - Technologies créatives:
     - creatives/index.md
@@ -56,7 +56,7 @@ nav:
 
     - Réalisations : realisations/index.md
     
-  - Médias numériques:
+  - Production médias:
     - medias/index.md
 
     - Audio : 
