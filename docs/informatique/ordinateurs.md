@@ -11,7 +11,7 @@ svgs: ["clavarder"]
 # Ordinateurs
 ![](images/ordinateurs.jpg)
 ## Libre-service
-Des ordinateurs en libre-service sont mis à la disposition de toutes les personnes utilisatrices. Ils sont accessibles avec le code d'accès et UNIP / mot de passe.
+Des ordinateurs en libre-service sont mis à la disposition de toutes les personnes utilisatrices. Ils sont accessibles avec le code d'accès et mot de passe.
 
 [Consulter la liste des logiciels offerts](../logiciels/index.md){ .md-button .md-button--primary}
 

@@ -68,7 +68,7 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
 ## Tester la configuration
 
 1. À l'aide d'un navigateur web, aller à l’adresse [testproxy.umontreal.ca](https://testproxy.umontreal.ca)
-2. À la fenêtre d'authentification, entrer ses informations d'authentification (code d'accès et UNIP / mot de passe)
+2. À la fenêtre d'authentification, entrer ses informations d'authentification (code d'accès et mot de passe)
 3. Le message `Votre configuration Proxy est fonctionnelle` devrait s’afficher.
 
 ------------------

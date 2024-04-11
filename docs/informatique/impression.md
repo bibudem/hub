@@ -23,14 +23,14 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
 === "En ligne"
 
     1. Ouvrir le [**Compte électronique d'impression**](https://sium.umontreal.ca/compte-cei.html).
-    2. S’authentifier avec son code d'accès et son UNIP / mot de passe.
+    2. S’authentifier avec son code d'accès et son mot de passe.
     3. Dans le menu de gauche, cliquer **Utiliser carte de crédit** ou **utiliser une carte prépayée** (en vente à la librairie).
     4. Suivre les instructions.
 
 === "En argent comptant (borne de chargement)"
 
     1. Appuyer sur ++ctrl+alt+del++
-    2. S’authentifier avec son code d'accès et UNIP / mot de passe
+    2. S’authentifier avec son code d'accès et mot de passe
     3. Insérer la monnaie
 
     [Trouver une borne de chargement](https://sium.umontreal.ca/bornes.html)
@@ -45,7 +45,7 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
 
     1. Ouvrir le [**Compte électronique d'impression**](https://sium.umontreal.ca/compte-cei.html)
     2. Sélectionner **Sur le campus** (ordinateur personnel)
-    3. S’authentifier avec son code d'accès et son UNIP / mot de passe
+    3. S’authentifier avec son code d'accès et son mot de passe
     4. Dans le menu de gauche, cliquer **Impression Web**
     5. Cliquer **Envoyer un travail**
     6. Sélectionner le nom de l’imprimante (ex. Noir Recto Verso Web)
@@ -74,7 +74,7 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
 
 [Localisation des imprimantes libre-service](https://sium.umontreal.ca/imprimantes.html)
 
-1. S’authentifier sur l'imprimante avec son code d'accès et son UNIP / mot de passe
+1. S’authentifier sur l'imprimante avec son code d'accès et son mot de passe
 2. Appuyer sur **PaperCut** en haut de l’écran
 3. Sélectionner le document
 4. Appuyer **Imprimer**
@@ -86,7 +86,7 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
 ## Photocopie
 
 1. Déposer le document sur la glace d’exposition (ou dans le chargeur de documents).
-2. S’authentifier sur l’imprimante avec le code d’accès et UNIP / mot de passe.
+2. S’authentifier sur l’imprimante avec le code d’accès et mot de passe.
 3. Cliquer **Copier** en haut de l’écran.
 4. Cliquer **Départ**.
 

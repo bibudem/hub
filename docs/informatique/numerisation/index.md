@@ -35,7 +35,7 @@ Le Service d'Impression de l'UdeM offre également un service payant de numéris
 [Localiser les imprimantes publiques multifonctions]()
 
 1. Déposer le document sur la glace d’exposition (ou dans le chargeur de documents, 35 feuilles maximum)
-2. S’authentifier sur l’imprimante avec son code d’accès et UNIP / mot de passe.
+2. S’authentifier sur l’imprimante avec son code d’accès et mot de passe.
 3. Cliquer **Suivant** après avoir pris connaissance des crédits d’impression au dossier.
 4. Cliquer **Envoi personnel (E-mail)** en haut de l’écran
 5. Cliquer **Départ**

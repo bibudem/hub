@@ -15,18 +15,18 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
 
 === "UdeM avec cryptage"
 
-    Le réseau sans fil **UdeM avec cryptage** est à privilégier. En plus de bénéficier d'une sécurité accrue, il permet l'accès aux ressources électroniques des bibliothèques et l'impression. Vous pouvez y accéder grâce à votre code d'accès et votre UNIP / mot de passe.
+    Le réseau sans fil **UdeM avec cryptage** est à privilégier. En plus de bénéficier d'une sécurité accrue, il permet l'accès aux ressources électroniques des bibliothèques et l'impression. Vous pouvez y accéder grâce à votre code d'accès et votre mot de passe.
     === "macOS"
         1. Sélectionner le réseau sans fil : UdeM avec cryptage
         2. Entrer les informations suivantes :
               - Identité : Votre code d’accès
-              - Mot de passe : Votre UNIP / mot de passe
+              - Mot de passe : Votre mot de passe
   
     === "Windows"
         1. Sélectionner le réseau sans fil : UdeM avec cryptage
         2. Entrer les informations suivantes :
               - Identité : Votre code d’accès
-              - Mot de passe : Votre UNIP / mot de passe
+              - Mot de passe : Votre mot de passe
 
     === "iOS"
         1. Dans le menu des applications, sélectionner **Réglages**.
@@ -47,7 +47,7 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
             | Certificat CA | (non spécifié) ou ne pas valider ou ne pas vérifier|
             |Identité | Votre code d’accès (ex. ab12345 ou p1234567)|
             |Anonyme | le laisser vide|
-            |Mot de passe | Votre UNIP / mot de passe|
+            |Mot de passe | Votre mot de passe|
 
         === "Version 11 ou ultérieur"
             |Champ | Information |
@@ -60,7 +60,7 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
             | Domaine | umontreal.ca |
             | Identité | Votre code d’accès (ex. ab12345 ou p1234567) |
             | Anonyme | le laisser vide |
-            | Mot de passe  | Votre UNIP / mot de passe |
+            | Mot de passe  | Votre mot de passe |
 
     === "Chromebook"
         |Champ | Information |
@@ -70,13 +70,13 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
         |CA certificate | (non spécifié) ou ne pas valider ou ne pas vérifier|
         |Identité | Votre code d’accès (ex. ab12345 ou p1234567)|
         |Anonyme | le laisser vide |
-        |Mot de passe | Votre UNIP / mot de passe|
+        |Mot de passe | Votre mot de passe|
 
 === "Eduroam"
 
     Le réseau sans fil **eduroam** est disponible pour les visiteurs d’un autre établissement participant qui souhaitent se brancher sur le réseau sans fil de l'UdeM. 
 
-    La communauté UdeM en visite ailleurs peuvent se brancher à ce réseau en utilisant le courriel comme code d'accès et le UNIP / mot de passe.
+    La communauté UdeM en visite ailleurs peuvent se brancher à ce réseau en utilisant le courriel comme code d'accès et le mot de passe.
 
     === "Visiteurs à l'UdeM"
         | Université | Code d’accès (exemple) | Mot de passe (exemple) |
@@ -99,7 +99,7 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
             Si vous ne réussissez pas à vous authentifier au réseau Eduroam, veuillez contacter votre établissement pour vérifier vos informations.
     === "Communauté UdeM en visite ailleurs"
         1. Se brancher au réseau sans fil eduroam
-        2. S’authentifier avec votre adresse courriel UdeM (ex. prenom.nom@umontreal.ca) et votre UNIP / mot de passe.
+        2. S’authentifier avec votre adresse courriel UdeM (ex. prenom.nom@umontreal.ca) et votre mot de passe.
 
 
 === "UdeM-Visiteurs"
@@ -128,7 +128,7 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
 
 ## Dépannage
 
-En cas de difficultés avec le réseau sans fil UdeM avec cryptage (par exemple, après un changement de UNIP / mot de passe), oublier ou retirer le réseau et s’y brancher à nouveau. Si présent, faire de même pour **eduroam**, **UdeM non securisé** et **UdeM-Visiteurs**.
+En cas de difficultés avec le réseau sans fil UdeM avec cryptage (par exemple, après un changement de mot de passe), oublier ou retirer le réseau et s’y brancher à nouveau. Si présent, faire de même pour **eduroam**, **UdeM non securisé** et **UdeM-Visiteurs**.
 
 === "macOS"
 
