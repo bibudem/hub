@@ -182,6 +182,6 @@ extra:
       link: https://facebook.com/bibudem
       name: Les Bibliothèques UdeM sur Facebook
 
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:<creanum@bib.umontreal.ca>
-      name: Courriel
+    # - icon: material/email
+    #   link: mailto:<creanum@bib.umontreal.ca>
+    #   name: Courriel
