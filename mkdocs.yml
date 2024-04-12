@@ -64,6 +64,7 @@ extra_javascript:
   - https://secretariatgeneral.umontreal.ca/udem_consentement_temoins.js
   - javascripts/extra.js
   - https://unpkg.com/hyperscript.org@0.9.12
+  - javascripts/clarity.js
 
 
 plugins:
