@@ -7,10 +7,11 @@
   <h1>{{ page.title | d(config.site_name, true)}}</h1>
 {% endif %}
 {{ page.content }}
+{% include "custom_footer.html" %}
 {% include "partials/source-file.html" %}
 
 <!-- Custom footer -->
-{% include "custom_footer.html" %}
+
 
 
 {% include "partials/feedback.html" %}

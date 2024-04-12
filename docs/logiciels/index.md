@@ -9,7 +9,7 @@ glightbox: false
 
 # Logiciels 
 
-![](../numerique/images/logiciels.jpg)
+![](../informatique/images/logiciels.jpg)
 
 L'offre logicielle disponible sur les ordinateurs des bibliothèques de l'Université de Montréal va des navigateurs Internet les plus populaires, à la suite bureautique Microsoft Office, en passant par plusieurs logiciels spécialisés. Ici-bas, la liste non-exhaustive des logiciels offerts à la communauté de l'Université de Montréal.
 

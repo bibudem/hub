@@ -53,9 +53,10 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
     8. Cliquer **Parcourir** afin de sélectionner le fichier.
     9. Cliquer **Envoyer**.
 
-    !!! Alert "Attention"
-        - Les fichiers sont imprimés en entier.
-        - Notez aussi qu’il n’est pas possible de configurer l’impression à plusieurs feuilles ou diapositives par page.
+    Note :
+    
+    - Les fichiers sont imprimés en entier. 
+    - Il n’est pas possible de configurer l’impression à plusieurs feuilles ou diapositives par page avec cette méthode.
 
 === "Avec un ordinateur des bibliothèques"
 
@@ -66,7 +67,7 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
 
     (Image)
 
-!!! Alert "Les impressions lancées restent en mémoire 24 heures avant d'être supprimées."
+Les impressions lancées restent en mémoire 24 heures avant d'être supprimées.
 
 ---------------------------------------
 
@@ -79,8 +80,8 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
 3. Sélectionner le document
 4. Appuyer **Imprimer**
 
-!!! Warning "Les documents envoyés au format A2, A3, A4 ne s’afficheront pas."
-    
+Les documents envoyés au format A2, A3, A4 ne s’afficheront pas.
+
 ---------------------------------------
 
 ## Photocopie

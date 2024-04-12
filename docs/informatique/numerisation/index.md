@@ -92,7 +92,7 @@ Le Service d'Impression de l'UdeM offre également un service payant de numéris
 5. Cliquer Reconnaître le texte.
 6. Patienter durant le traitement.
 
-    !!! Info "Pour enregistrer au format Word : Cliquez sur **Fichier** > **Exporter vers** > **Microsoft Word** > **Document Word**."
+Pour enregistrer au format Word : Cliquer sur **Fichier** > **Exporter vers** > **Microsoft Word** > **Document Word**.
 
 --------------------
 
