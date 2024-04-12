@@ -52,18 +52,20 @@
   
 /* Taille du logo  */
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
-  height: 2.4rem;
+  /* height: 2.4rem; */
   /* width: auto; */
 }
 
 .md-header__title {
-  flex-grow: 1;
+
+
+  /* flex-grow: 1;
   font-size: 1rem;
   height: 1.6rem;
-  line-height: 2.4rem;
+  line-height: 2.4rem; */
 }
 
-.md-main__inner.md-grid {
+/* .md-main__inner.md-grid {
 
     max-width: 60rem;
 }
@@ -71,7 +73,7 @@
 .md-grid {
 
   max-width: 60rem;
-}
+} */
 
   .md-copyright #udem_cookie_consent_toggle {
     display: inline-block;
@@ -268,9 +270,9 @@
 }
 
 @media screen and (max-width: 1220px) {
-  .md-header__topic {
+  /* .md-header__topic {
       margin: -0.4rem;
-  }
+  } */
 }
 
 .md-tabs__link svg {

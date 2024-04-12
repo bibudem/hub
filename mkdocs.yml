@@ -14,7 +14,7 @@ theme:
   custom_dir: overrides
   language : fr
   favicon: assets/favbib.svg
-  logo: assets/logobib.svg
+  logo: assets/smallbib.svg
   features:
     # - navigation.instant
     # - navigation.instant.prefetch
