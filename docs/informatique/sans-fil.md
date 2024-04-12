@@ -3,11 +3,10 @@ hide :
     - toc
 icon : material/wifi-cog
 glightbox: false
+cover : sans-fil.jpg
 ---
 
 # Réseau sans fil
-
-![](images/sans-fil.jpg)
 
 L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus pour répondre à vos besoins de connectivité.
 
@@ -23,17 +22,17 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
               - Mot de passe : Votre mot de passe
   
     === "Windows"
-        1. Sélectionner le réseau sans fil : UdeM avec cryptage
-        2. Entrer les informations suivantes :
+        3. Sélectionner le réseau sans fil : UdeM avec cryptage
+        4. Entrer les informations suivantes :
               - Identité : Votre code d’accès
               - Mot de passe : Votre mot de passe
 
     === "iOS"
-        1. Dans le menu des applications, sélectionner **Réglages**.
-        2. Sélectionner **Wi-Fi**.
-        3. Assurez-vous que l’interrupteur soit activé (de couleur VERTE).
-        4. Entrer vos informations d'authentification et appuyer sur le bouton **Rejoindre**.
-        5. À la fenêtre **Certificat**, appuyer sur le bouton **Se fier**.
+        5. Dans le menu des applications, sélectionner **Réglages**.
+        6. Sélectionner **Wi-Fi**.
+        7. Assurez-vous que l’interrupteur soit activé (de couleur VERTE).
+        8. Entrer vos informations d'authentification et appuyer sur le bouton **Rejoindre**.
+        9. À la fenêtre **Certificat**, appuyer sur le bouton **Se fier**.
    
         Le branchement au réseau sans fil UdeM avec cryptage est complété.
 

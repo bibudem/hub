@@ -1,15 +1,14 @@
 ---
 icon : material/cable-data
-
 hide:
   - footer
   - toc
 glightbox: false
+cover : accessoires.jpg
 
 ---
 
 # Accessoires
-![](images/accessoires.jpg)
 
 Vous manquez de batterie? Votre ordinateur a besoin d'un adaptateur?
 N'hésitez pas à nous demander, nous avons peut-être ce qu'il vous faut!

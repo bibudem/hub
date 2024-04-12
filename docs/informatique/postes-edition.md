@@ -3,11 +3,10 @@ icon : material/movie-open-edit
 glightbox : false
 hide : 
     - toc
+cover : edition.jpg
 ---
 
 # Postes d'édition
-
-![](images/edition.jpg)
 
 Nos postes d'édition numérique offrent la possibilité de créer, éditer et publier de la production vidéo, sonore et graphique. Nous offrons toute une gamme de logiciels spécialisés, comme la suite Adobe Creative Cloud.
  

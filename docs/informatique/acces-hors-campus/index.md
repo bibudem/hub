@@ -10,12 +10,11 @@ search:
 glightbox: false
 
 icon: material/network-outline
-
+cover : hors-campus.jpg
 ---
 
 # Accès hors campus aux ressources électroniques
 
-![](../images/hors-campus.jpg)
 
 La majorité des ressources électroniques (périodiques, bases de données et données numériques) offertes par les bibliothèques UdeM consistent en des abonnements payants régis par des contrats de licences et dont l'utilisation est réservée à la communauté UdeM.
 

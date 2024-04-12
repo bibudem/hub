@@ -3,10 +3,10 @@ hide :
     - toc
 icon : material/tablet
 glightbox: false
+cover : ipad.jpg
 ---
 
 # Tablettes iPad en prêt
-![](images/ipad.jpg)
 
 Nous offrons un service de prêt de tablettes iPad pour la communauté UdeM. Vous avez également la possibilité d'ajouter vos propres applications en utilisant votre identifiant Apple ID.
 

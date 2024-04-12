@@ -2,7 +2,7 @@
 
 nav:
   - Accueil: index.md
-  - Ressources informatiques : 
+  - Ressources informatiques :
     - informatique/index.md
     - Authentification : informatique/authentification.md
     - Réseau sans fil : informatique/sans-fil.md

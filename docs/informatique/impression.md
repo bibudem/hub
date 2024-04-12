@@ -3,11 +3,11 @@ glightbox: false
 icon : material/printer-outline
 custom_footer: true
 svgs: ["clavarder","telephone"]
+cover : imprimante.jpg
 ---
 
 # Impression
 
-![](images/imprimante.jpg)
 Le Service d'Impression de l'UdeM (SIUM) offre des services d'impression, de photocopie et de numérisation dans les bibliothèques de l'UdeM, accessibles depuis les ordinateurs publics ou les appareils personnels.
 
 Ce service est payant.
@@ -54,7 +54,7 @@ Le compte électronique d'impression permet d'ajouter des fonds ou de demander u
     9. Cliquer **Envoyer**.
 
     Note :
-    
+
     - Les fichiers sont imprimés en entier. 
     - Il n’est pas possible de configurer l’impression à plusieurs feuilles ou diapositives par page avec cette méthode.
 
