@@ -34,6 +34,7 @@ theme:
     # - navigation.prune
     - navigation.indexes
     - content.footnote.tooltips
+    - content.tooltips
 
   palette:
      # Palette toggle for light mode
