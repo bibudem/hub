@@ -2,19 +2,19 @@
 icon : material/record-circle-outline
 tags :
     - Toutes les bibliothèques
+cover : vinyle.jpg
 ---
 
 # Numérisation de vinyles
 
-![](../images/vinyle.jpg)
 La Bibliothèque de musique offre plusieurs équipements spécialisés pour l’écoute et la numérisation de disques vinyle. L’espace de numérisation de disques vinyle est accessible sans réservation, et est situé près de la salle B-287-7. Les personnes souhaitant numériser des disques vinyle doivent apporter leur propre ordinateur portable pour convertir sous format numérique (MP3 ou WAV) les pistes audios de disques vinyle (format analogique).
 
 ------------------
 
 ## Équipement de numérisation audio
 
-- Table tournante [Audio-Technica AT-LP120XUSB](https://www.audio-technica.com/en-ca/at-lp120xusb):octicons-link-external-16: avec branchement USB.
-- Casques d’écoute [Sony MDR7506](https://pro.sony/en_CA/products/headphones/mdr-7506):octicons-link-external-16: et [Sennheiser HD 280 Pro](https://www.sennheiser.com/en-in/catalog/products/headphones/hd-280-pro/hd-280-pro-506845):octicons-link-external-16: (disponible au comptoir de prêt)
+- Table tournante [Audio-Technica AT-LP120XUSB](https://www.audio-technica.com/en-ca/at-lp120xusb) avec branchement USB.
+- Casques d’écoute [Sony MDR7506](https://pro.sony/en_CA/products/headphones/mdr-7506) et [Sennheiser HD 280 Pro](https://www.sennheiser.com/en-in/catalog/products/headphones/hd-280-pro/hd-280-pro-506845) (disponible au comptoir de prêt)
 -------------------
 
 ## Guide d'utilisation
