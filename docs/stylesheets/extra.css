@@ -355,3 +355,9 @@
   margin: 1.25em 0 0;
   text-align: center;
 }
+
+
+.md-path__item:last-child .md-path__link {
+  pointer-events: none; /* Empêche les interactions de la souris */
+  color: inherit;      /* Garde la couleur originale au survol */
+}

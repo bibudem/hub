@@ -1,0 +1,34 @@
+{#- This file was automatically generated - do not edit -#}
+{% import "partials/path-item.html" as item with context %}
+{% if page.meta and page.meta.hide %}
+  {% set hidden = "hidden" if "path" in page.meta.hide %}
+{% endif %}
+{% set depth = page.ancestors | length %}
+{% if nav.homepage %}
+  {% set depth = depth + 1 %}
+{% endif %}
+{% if depth > 1 %}
+  <nav class="md-path" aria-label="{{ lang.t('nav') }}" {{ hidden }}>
+    <ol class="md-path__list">
+      {% if nav.homepage %}
+        {{ item.render(nav.homepage) }}
+      {% endif %}
+      {% set last_title = "" %}
+      {% for nav_item in page.ancestors | reverse %}
+        {# Vérifie si le titre de l'ancêtre est identique à celui de la page actuelle #}
+        {% if nav_item.title != page.title %}
+          {% if nav_item.title != last_title %}
+            {{ item.render(nav_item) }}
+            {% set last_title = nav_item.title %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {# Ajouter la page actuelle comme dernier élément du fil d'Ariane, seulement si différente #}
+      {% if page.title != last_title %}
+        <li class="md-path__item">
+          <span class="md-path__link">{{ page.title }}</span>
+        </li>
+      {% endif %}
+    </ol>
+  </nav>
+{% endif %}
