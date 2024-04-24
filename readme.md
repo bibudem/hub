@@ -1,6 +1,6 @@
 # Le Hub Numérique
 
-
+[https://hub-jade.vercel.app/](hub-jade.vercel.app)
 
 Le site utilise le SSG Mkdocs avec le thème [Material for Mkdocs](https://github.com/squidfunk/mkdocs-material). Le texte est rédigé en Markdown. La version *Insiders* est utilisée ici pour avoir plus de fonctionnalités. [En savoir plus](https://squidfunk.github.io/mkdocs-material/insiders/).
 
@@ -33,10 +33,10 @@ pip install mkdocs-material
 
 ## Aperçu local
 
-Si vous voulez lancer un aperçu en local, il faut désactiver certains plugins de la version *Insiders* dans les fichiers de configuration. Certaines caractéristiques ne peuvent pas se générer en local sans la version *Insiders*, comme le *Card grids*, le *Anchor links*, *Navigation path*, etc. et peuvent être désactiver en les mettant en commentaires dans le fichier mkdocs.yml :
+Si vous voulez lancer un aperçu en local, il faut désactiver certains plugins de la version *Insiders* dans les fichiers de configuration. Certaines caractéristiques ne peuvent pas se générer en local sans la version *Insiders*, comme le *Card grids*, le *Anchor links*, *Navigation path*, etc. Certains éléments peuvent être désactivés en les mettant en commentaires dans le fichier mkdocs.yml :
 
 ``` yaml
-# - blog
+# - optimize
 ```
 
 Pour lancer un aperçu en local : 
