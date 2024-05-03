@@ -1,6 +1,6 @@
 # Le Hub Numérique
 
-[https://hub-jade.vercel.app/](hub-jade.vercel.app)
+[https://hub-jade.vercel.app/](https://hub-jade.vercel.app)
 
 Le site utilise le SSG Mkdocs avec le thème [Material for Mkdocs](https://github.com/squidfunk/mkdocs-material). Le texte est rédigé en Markdown. La version *Insiders* est utilisée ici pour avoir plus de fonctionnalités. [En savoir plus](https://squidfunk.github.io/mkdocs-material/insiders/).
 
