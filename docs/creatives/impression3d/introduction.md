@@ -8,10 +8,6 @@ search:
 
 # Introduction à l'impression 3D
 
-!!! note "Votre contribution est la bienvenue!"
-    Cette page est en constante évolution. Si vous aussi vous voulez contribuer à son amélioration, consultez [la section Communauté](../communaute/index.md).
-
-
 ## Qu’est-ce que l’impression 3D?
 
 L’impression 3D consiste à reproduire un objet à partir d’un modèle en 3D conçu par ordinateur. Cet objet tridimensionnel est créé par un dépôt successif de couches de matériaux.

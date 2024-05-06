@@ -30,9 +30,13 @@ nav:
     - Impression 3D : 
       - creatives/impression3d/index.md
       - Introduction : creatives/impression3d/introduction.md
-      - Prusa i3: creatives/impression3d/prusa.md
-      - Ultimaker 2/S3: creatives/impression3d/ultimaker.md
-      - Elegoo Saturn 3 Ultra : creatives/impression3d/saturn3.md
+      - Imprimantes :
+        - Prusa i3: creatives/impression3d/prusa.md
+        - Ultimaker 2/S3: creatives/impression3d/ultimaker.md
+        - Elegoo Saturn 3 Ultra : creatives/impression3d/saturn3.md
+        - Stylos 3D : creatives/impression3d/stylos.md
+      - Modèles 3D : creatives/impression3d/modeles.md
+     
       
 
     - Réalité virtuelle : 
