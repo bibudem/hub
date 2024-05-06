@@ -115,3 +115,5 @@ Le contenu personnel (liens visités, mots-clés, etc.) sera effacé du casque u
 La durée estimée d’utilisation est de 1,5 à 2 heures pour des applications gourmandes en énergie (exemple : jeu vidéo) et de 2 à 2,5 heures pour de la vidéo simple.
 
 Le temps de recharge est estimé à 3 heures.
+
+<iframe src="https://bibumontreal.h5p.com/content/1292264559332642598/embed" aria-label="DT - Test 360" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://bibumontreal.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
