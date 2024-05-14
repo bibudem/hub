@@ -36,22 +36,22 @@ theme:
     - content.footnote.tooltips
     - content.tooltips
 
-  palette:
-     # Palette toggle for light mode
-    - scheme: default
-      primary: deep purple
-      accent: 
-      toggle:
-        icon: material/weather-night 
-        name: Passer au mode sombre
+  # palette:
+  #    # Palette toggle for light mode
+  #   - scheme: default
+  #     primary: deep purple
+  #     accent: 
+  #     toggle:
+  #       icon: material/weather-night 
+  #       name: Passer au mode sombre
 
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: amber
-      accent: 
-      toggle:
-        icon: material/weather-sunny
-        name: Passer au mode clair
+  #   # Palette toggle for dark mode
+  #   - scheme: slate
+  #     primary: amber
+  #     accent: 
+  #     toggle:
+  #       icon: material/weather-sunny
+  #       name: Passer au mode clair
 
   font :
     text : Inter
