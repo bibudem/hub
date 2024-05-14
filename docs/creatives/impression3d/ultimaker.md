@@ -6,15 +6,11 @@ search:
 
 # Ultimaker
 
-!!! note "Votre contribution est la bienvenue!"
-    Cette page est en constante évolution. Si vous aussi vous voulez contribuer à son amélioration, consultez [la section Communauté](../communaute/index.md).
+!!! info "Avant de faire votre première impression, lisez l'[introduction à l'impression 3D](introduction.md)"
 
-!!! info "Important"
-    Avant de faire votre première impression, lisez l'[introduction à l'impression 3D](introduction.md)
+## 1 - Présentation de l'imprimante
 
-## Présentation de l'imprimante
-
-![Ultimaker S3 à la Bibliothèque des sciences](../assets/images/ultimakerS3-photo.webp)
+![Ultimaker S3 à la Bibliothèque des sciences](../images/ultimakerS3-photo.webp)
 
 | Ultimaker S3||
 |-----|-----|
@@ -27,7 +23,7 @@ search:
 |Impression multi-filament|	Possible grâce aux deux extrudeurs|
 |Logiciel de découpe (*slicer*)|	Cura|
 
-L’imprimante Ultimaker S3 est prête à l’emploi aussitôt sortie de sa boite. L’avantage de cette imprimante 3D est qu’elle ne nécessite pas de calibrage poussé : il n’est pas nécessaire de régler la hauteur de la première couche, contrairement à la [Prusa MK3S+](prusa.md). Tous ces réglages se font automatiquement par l’imprimante.
+L’imprimante Ultimaker S3 est prête à l’emploi aussitôt sortie de sa boite. L’avantage de cette imprimante 3D est qu’elle ne nécessite pas de calibration poussée : il n’est pas nécessaire de régler la hauteur de la première couche, contrairement à la [Prusa MK3S+](prusa.md). Tous ces réglages se font automatiquement par l’imprimante.
 
 Le bloc d’extrusion est monté sur deux axes (X et Y). Le plateau est monté sur l’axe Z. Le volume d’impression est protégé des quatre côtés, ce qui rend l’impression moins sensible aux courants d’air et aux changements de température soudains.
 
@@ -49,7 +45,7 @@ Le *feeder* se trouve à l’arrière de l’imprimante et le filament passe par
 |Thérèse-Gouin-Décarie| 1 |
 |Santé| 1 |
 
-## Configuration Cura
+## 2 - Configuration Cura
 
 ### Logiciel de découpe Ultimaker Cura
 
@@ -71,47 +67,47 @@ Compatible avec : Windows, Mac OS et Linux
 5. Dans Add a printer, cliquez sur **Add a non-networked printer** et sélectionnez **Ultimaker S3**. 
 6. Dans What’s New, cliquez sur **Skip** et enfin dans Release Notes, cliquez sur **Finish**.
 
-## **Changement de filament**
+## 3 - Changement de filament
 
-!!! Warning " "
-    Diamètre des filaments de l'Ultimaker : **2.85mm**
+!!! Warning "Diamètre des filaments de l'Ultimaker : **2.85mm**"
+    Les filaments de 1.75mm ne sont pas compatibles avec l'Ultimaker.
 
 ### Accéder au menu
 
 Accédez au menu de l’icône imprimante, ensuite, cliquez sur PLA.
-![Menu de changement de filament](../assets/images/ultimaker_filament01.jpg)
-![Menu de changement de filament suite](../assets/images/ultimaker_filament02.jpg)
+![Menu de changement de filament](../images/ultimaker_filament01.jpg)
+![Menu de changement de filament suite](../images/ultimaker_filament02.jpg)
 
 Choisissez **Modifier** s’il y a une bobine déjà installée, ou Insérer s’il n’y a aucune bobine.
-![Changement de filament étape 1](../assets/images/ultimaker_filament03.jpg)
+![Changement de filament étape 1](../images/ultimaker_filament03.jpg)
 
 La buse chauffe afin d’atteindre la température de fusion et extraire facilement le filament. Soyez prêt à guider la sortie du filament et de l'enrouler sur la bobine pour éviter la formation de nœuds.
-![Changement de filament étape 2](../assets/images/ultimaker_filament04.jpg)
+![Changement de filament étape 2](../images/ultimaker_filament04.jpg)
 
 Si en tirant délicatement le filament, il reste coincé, soulevez la languette afin de le libérer du mécanisme du (*)feeder(*). N'oubliez pas de remettre la languette à sa place par la suite.
-![Changement de filament étape 2 suite](../assets/images/ultimaker_filament05.jpg)
+![Changement de filament étape 2 suite](../images/ultimaker_filament05.jpg)
 
 Retirez la bobine et s'assurant de mettre le filament dans un trou de la bobine pour qu'il n'y ai pas de noeud. 
 Placez la bobine dans sac ziplock avec un sachet de gel de silica, puis mettez le sac dans sa boite correspondante.
-![Changement de filament étape 2 fin](../assets/images/ultimaker_filament06.jpg)
+![Changement de filament étape 2 fin](../images/ultimaker_filament06.jpg)
 
 Installez la nouvelle bobine, l’extrémité du filament doit venir d’en bas. Coupez l'extrémité du filament en biseau si ce n'est pas déjà fait. Mettez le filament dans le trou prévu à cet effet et poussez légèrement. L’imprimante va détecter le filament et le tirer très lentement vers le tube. Si l’imprimante ne détecte pas le filament, levez la languette vers le haut et poussez le filament jusqu’à ce que vous le voyiez au début du tube, puis rabaissez la languette.
-![Changement de filament étape 3](../assets/images/ultimaker_filament07.jpg)
+![Changement de filament étape 3](../images/ultimaker_filament07.jpg)
 
 Confirmez dans l’écran que le filament est en place.
-![Changement de filament étape 3 suite](../assets/images/ultimaker_filament08.jpg)
-![Changement de filament étape 3 fin](../assets/images/ultimaker_filament09.jpg)
+![Changement de filament étape 3 suite](../images/ultimaker_filament08.jpg)
+![Changement de filament étape 3 fin](../images/ultimaker_filament09.jpg)
 
 Indiquez quel type de matériel a été mis (dans notre cas, du PLA).
-![Changement de filament étape 4](../assets/images/ultimaker_filament10.jpg)
-![Changement de filament étape 4 suite](../assets/images/ultimaker_filament11.jpg)
+![Changement de filament étape 4](../images/ultimaker_filament10.jpg)
+![Changement de filament étape 4 suite](../images/ultimaker_filament11.jpg)
 
 L’imprimante va tirer le filament jusqu’à l’extrudeur et commencer à faire une purge de la couleur précédente. Une fois que la couleur change, confirmez sur l’écran.
-![Changement de filament étape 5](../assets/images/ultimaker_filament12.jpg)
-![Changement de filament étape 5 suite](../assets/images/ultimaker_filament13.jpg)
-![Changement de filament étape 5 fin](../assets/images/ultimaker_filament14.jpg)
+![Changement de filament étape 5](../images/ultimaker_filament12.jpg)
+![Changement de filament étape 5 suite](../images/ultimaker_filament13.jpg)
+![Changement de filament étape 5 fin](../images/ultimaker_filament14.jpg)
 
-## **Première impression avec l’Ultimaker**
+## 4 - Première impression avec l’Ultimaker
 
 Pour changer la langue de l’interface, cliquez sur **Préférences** > **Configurer Cura** et dans l’onglet **Général**, choisir la langue de votre choix. 
 
@@ -136,27 +132,27 @@ Pour ajouter un modèle .STL, il existe plusieurs moyens :
 
 ### Échelle et taille
 
-![Icône déplacement de Cura](../assets/images/ultimaker_move.png)
+![Icône déplacement de Cura](../images/ultimaker_move.png)
 Permet de déplacer les objets sur le plateau d’impression.
 
-![Icône échelle de Cura](../assets/images/ultimaker_scale.png)
+![Icône échelle de Cura](../images/ultimaker_scale.png)
 Permet de modifier l’échelle du modèle selon un axe précis ou dans son entièreté.
 
-![Icône rotation de Cura](../assets/images/ultimaker_rotation.png)
+![Icône rotation de Cura](../images/ultimaker_rotation.png)
 Permet d’effectuer une rotation du modèle.
 
-![Icône symétrie de Cura](../assets/images/ultimaker_symetrie.png)
+![Icône symétrie de Cura](../images/ultimaker_symetrie.png)
 Permet de permuter le modèle de manière symétrique (effet miroir).
 
-![Icône avancé de Cura](../assets/images/ultimaker_avance.png)
+![Icône avancé de Cura](../images/ultimaker_avance.png)
 Permet l’utilisation de paramètres avancés.
 
-![Icône support de Cura](../assets/images/ultimaker_support.png)
+![Icône support de Cura](../images/ultimaker_support.png)
 Permet de générer manuellement des zones sans support.
 
 ### Réglages
 
-![ultimaker.webp](../assets/images/ultimaker_reglages.png)
+![ultimaker.webp](../images/ultimaker_reglages.png)
 
 1. **Imprimante** : Assurez-vous que le bon modèle est sélectionné. Dans les ateliers de l’Université de Montréal, on retrouve généralement des Ultimaker S3. ([voir la liste des équipements par bibliothèque ici](https://www.notion.so/fada784ac8a648128846afe7c75818cc)). 
 2. **Filament** (extrudeur 1) : Sélectionnez **Generic PLA***.* Cette configuration contient les valeurs de température de l’extrudeur et du plateau (par défaut : 215°C pour l’extrudeur, 60°C pour le plateau).
@@ -186,7 +182,7 @@ Pour l’Ultimaker, il faut imbiber une lingette de nettoyant à vitre et nettoy
 - L’imprimante chargera les fichiers. Naviguez vers le nom de votre fichier et appuyez sur le bouton. Un fichier nouvellement ajouté devrait se trouver en haut de la liste.
 - Il est important de surveiller les premières couches de l’impression afin de s’assurer que le modèle adhère au plateau.
 
-## Pour en savoir plus
+## 5 - Pour en savoir plus
 
 [Ultimaker Cura](https://support.ultimaker.com/hc/en-us/sections/360003548339-Ultimaker-Cura){:target="_blank"}
 
@@ -196,7 +192,7 @@ Sauf indications contraires, les contenus de ce wiki créé par les [Bibliothèq
 
 ![https://i.creativecommons.org/l/by/4.0/88x31.webp](https://i.creativecommons.org/l/by/4.0/88x31.webp)
 
-## Ressources
+### Ressources
 
 [Loading materials on the Ultimaker S5](https://support.ultimaker.com/hc/en-us/articles/360011427140){:target="_blank"}
 

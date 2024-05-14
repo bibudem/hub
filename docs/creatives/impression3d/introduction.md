@@ -8,13 +8,13 @@ search:
 
 # Introduction à l'impression 3D
 
-## Qu’est-ce que l’impression 3D?
+## 1 - Qu’est-ce que l’impression 3D?
 
 L’impression 3D consiste à reproduire un objet à partir d’un modèle en 3D conçu par ordinateur. Cet objet tridimensionnel est créé par un dépôt successif de couches de matériaux.
 
 À partir d’un modèle numérique conçu en 3D, un logiciel qu’on appelle *Slicer* découpe le modèle en plusieurs couches selon un paramétrage choisi. L’extrudeur de l’imprimante chauffe le plastique et vient le déposer couche par couche en suivant les instructions établies par le *Slicer*. Un système de ventilation refroidit instantanément le plastique déposé pour le solidifier. C’est ce qu’on appelle la fabrication additive. 
 
-## Matériaux
+## 2 - Matériaux
 
 ### PLA (acide polylactique)
 
@@ -42,7 +42,7 @@ L'alcool polyvinylique est un polymère synthétique soluble dans l'eau. Il perm
 
 Les températures recommandées sont sauvegardées dans le logiciel de découpe, mais aussi inscrites sur les bobines de filament. Les températures recommandées pour la fusion du PLA se situent entre 190°C et 230°C et le plateau chauffe entre 50°C et 70°C pour maximiser l’adhésion de l’objet.
 
-## Entreposage des filaments
+## 3 - Entreposage des filaments
 
 Le bon stockage des bobines de filament est important, puisqu’à l’air libre, le filament a tendance à absorber l’eau de l’air (l’hydroscopie), ce qui peut causer des problèmes lors de l’impression.
 
@@ -55,7 +55,7 @@ Le bon stockage des bobines de filament est important, puisqu’à l’air libre
 Lorsqu’une bobine de filament a absorbé trop d’humidité on peut utiliser le séchoir à filament selon les spécifications recommandé par type de filament.
 
 <figure markdown>
-  ![Temps de séchage recommandé](../assets/images/temperature-impression3d.webp){ width="600" }
+  ![Temps de séchage recommandé](../images/temperature-impression3d.webp){ width="600" }
   <figcaption>temps de séchage recommandé.  </figcaption>
   [Source ](https://www.printdry.com/wp-content/uploads/2020/09/PrintDry_Filament-Dryer_manual_1908_1.pdf){:target="_blank"}
 </figure>
@@ -71,10 +71,10 @@ Lorsqu’une bobine de filament a absorbé trop d’humidité on peut utiliser l
 
     [What Effect Does Moisture Have on 3D Printer Filament Storage? (And how to fix it) ](https://blog.gotopac.com/2018/03/01/how-3d-printer-filament-storage-cabinets-instantly-improve-3d-print-part-quality/){:target="_blank"}
 
-## Les grandes étapes
+## 4 - Les grandes étapes
 
 <figure markdown>
-  ![Les grandes étapes de l'impression 3D](../assets/images/etape-impression-3d.webp){ width="600" }
+  ![Les grandes étapes de l'impression 3D](../images/etape-impression-3d.webp){ width="600" }
   <figcaption>Les grandes étapes de l'impression 3D (cliquez sur l'image pour agrandir)</figcaption>
 </figure>
 
@@ -82,28 +82,24 @@ Lorsqu’une bobine de filament a absorbé trop d’humidité on peut utiliser l
 
 La première étape vers l’impression 3D, c’est de chercher un modèle 3D… ou le concevoir!
 
-- Depuis Internet
+- Depuis Internet : [Où trouver des modèles 3D?](modeles.md)
 
-[Où trouver des modèles 3D?](modeles.md)
-
-- Modéliser votre propre pièce
-
-Vous pouvez aussi modéliser vos propres modèles 3D en utilisant un logiciel de modélisation. Chaque logiciel a ses points forts et ses faiblesses.
-
-Voici une page expliquant quelques principes de modélisation importants pour l’impression 3D. Les fonctions sont celles d’une ancienne version de Blender, mais elles sont toujours utilisées dans la version actuelle : [Tutoriel Blender ](https://www.sculpteo.com/fr/tutoriel/tutoriel-blender/){:target="_blank"}
+- Modéliser votre propre pièce : Vous pouvez aussi modéliser vos propres modèles 3D en utilisant un logiciel de modélisation. Chaque logiciel a ses points forts et ses faiblesses. Voici une page expliquant quelques principes de modélisation importants pour l’impression 3D. Les fonctions sont celles d’une ancienne version de Blender, mais elles sont toujours utilisées dans la version actuelle : [Tutoriel Blender ](https://www.sculpteo.com/fr/tutoriel/tutoriel-blender/){:target="_blank"}
 
 ### Découpe du modèle
 
 Le logiciel de découpe, ou *Slicer*, permet de découper en plusieurs couches un fichier 3D en **.STL** ou **.OBJ** selon des paramètres choisi, comme la hauteur de la couche, le remplissage, les supports, etc. Une fois le modèle découpé, il est possible de visualiser couche par couche les mouvements de l’extrudeur afin de vérifier que l’impression se déroulera sans problème, par exemple en vérifiant qu’il n’y a pas de dépôt de plastique dans le vide. Le logiciel exporte par la suite un fichier **.GCODE** contenant une suite d'instruction à l'imprimante afin de matérialiser le modèle. Ce fichier doit être enregistrer sur le périphérique de stockage qui sera branché à l’imprimante 3D (carte SD pour la Prusa et clé USB pour l’Ultimaker)..
 
-<figure markdown>
-  ![Étape de découpe dans le logiciel](../assets/images/etape-slicer-impression-3d.webp){ width="600" }
-  <figcaption>Modèle 3D .stl ou .obj - Découpage du modèle - Fichier .gcode - Impression de l’objet (cliquez sur l'image pour agrandir)</figcaption>
-</figure>
+``` mermaid
+graph LR
+    A[Modèle 3D .stl ou .obj] --> B[Découpage du modèle]
+    B --> C[Fichier .gcode]
+    C --> D[Impression de l’objet]
+```
 
 Il existe plusieurs logiciels de découpe, la plupart sont libre et à code source ouvert. 
 
-Les entreprises de fabrication d'imprimante 3D proposent leurs propres logiciels de découpe afin d'offrir des fonctionnalités propres à leurs imprimantes. Certaines utilisent .GCODE comme extension du fichier de sortie, d'autres dans un format propriétaire. 
+Les entreprises de fabrication d'imprimante 3D proposent leurs propres logiciels de découpe afin d'offrir des fonctionnalités propres à leurs imprimantes. Certaines utilisent **.GCODE** comme extension du fichier de sortie, d'autres dans un format propriétaire. 
 
 ### Utilisation des profils
 
@@ -112,7 +108,7 @@ Les profils sont un ensemble de paramètres prédéfinis dans le *Slicer*. Ils p
 #### Épaisseur
 
 <figure markdown>
-  ![Une vue macro de trois impressions 3D](../assets/images/epaisseur-impression-3d.webp){ width="600" }
+  ![Une vue macro de trois impressions 3D](../images/epaisseur-impression-3d.webp){ width="600" }
   <figcaption>de gauche à droite : 0.05mm, 0.20mm et 0.30mm. </figcaption> [Source ](https://www.hubs.com/knowledge-base/impact-layer-height-3d-print/)
 </figure>
 
@@ -121,7 +117,7 @@ Les profils sont un ensemble de paramètres prédéfinis dans le *Slicer*. Ils p
 L’épaisseur d’une couche est habituellement de 0,2 mm. Il est possible de descendre jusqu’à 0,1 mm si l’objet est très détaillé ou s’il subira des forces parallèles aux couches. Si tel est le cas, il est recommandé de revoir le sens d’impression pour que les forces soient exercées perpendiculairement aux couches d’impressions. Notez que la durée d’impression sera deux fois plus longue à 0,1 mm qu’à 0,2 mm.
 
 <figure markdown>
-  ![Hauteur de la couche](../assets/images/hauteur-couche.webp){ width="600" }
+  ![Hauteur de la couche](../images/hauteur-couche.webp){ width="600" }
   <figcaption>Hauteur de la couche</figcaption>
 </figure>
 
@@ -130,7 +126,7 @@ L’épaisseur d’une couche est habituellement de 0,2 mm. Il est possible de d
 Le remplissage agit sur la solidité et, dans une moindre mesure, sur la vitesse d’impression et la souplesse d’un objet. En effet, le PLA n’est pas suffisamment flexible pour supporter la déformation. Le remplissage s’exprime en pourcentage. Une valeur typique se situe entre 5% et 20%. Il est possible d’imprimer sans remplissage (0%), ou entièrement plein (100%) selon les cas. Il existe aussi différents motifs de remplissage. Ils ont chacun leurs avantages.
 
 <figure markdown>
-  ![Différents remplissage d'une impression 3D](../assets/images/remplissage.webp){ width="600" }
+  ![Différents remplissage d'une impression 3D](../images/remplissage.webp){ width="600" }
   <figcaption>À gauche un remplissage à 40% avec le motif Grille (Grid) et à droite un remplissage à 20% avec le motif Nid d’abeille (Honeycomb)</figcaption>
 </figure>
 
@@ -148,7 +144,7 @@ Le remplissage agit sur la solidité et, dans une moindre mesure, sur la vitesse
 Le support est utilisé pour imprimer les porte-à-faux. L’impression doit obligatoirement avoir une surface de contact pour se déposer. Pour la première couche il s’agit du plateau, pour les couches suivantes il s’agit de la couche précédente. Si le matériau se dépose dans le vide, il faut créer un support. Le support peut également être utilisé pour augmenter la surface de contact de l’objet sur le plateau et éviter un décollement.
 
 <figure markdown>
-  ![Des pièces imprimées en 3D avec et sans support](../assets/images/support.webp){ width="600" }
+  ![Des pièces imprimées en 3D avec et sans support](../images/support.webp){ width="600" }
   <figcaption>À gauche, une pièce sans support. À droite, une pièce avec du support (en jaune)</figcaption>
 </figure>
 
@@ -166,11 +162,11 @@ Le support est utilisé pour imprimer les porte-à-faux. L’impression doit obl
 Si le plastique n’adhère pas au plateau, l’impression va échouer et en plus de gaspiller du matériau, cela risque d’abîmer l’imprimante. Pour que le filament reste fixé au plateau durant l’impression, une bordure de quelques millimètres de largeur, le *brim*, permet de maximiser la surface de contact, et donc améliore l’adhérence de la matière sur le plateau. Il s’agit d’une couche qui est facilement détachable une fois l’impression terminée. 
 
 <figure markdown>
-  ![Pièce dans le logiciel de découpe avec un brim](../assets/images/brim-impression3d.webp){ width="600" }
+  ![Pièce dans le logiciel de découpe avec un brim](../images/brim-impression3d.webp){ width="600" }
   <figcaption>En vert, le *brim* et en jaune, la pièce à imprimer.</figcaption>
 </figure>
 
-## Avant l’impression
+## 5 - Avant l’impression
 
 ### Nettoyage
 
@@ -186,7 +182,7 @@ Nettoyer le dépôt de filament qu’il peut y avoir sur la buse avec une petite
 - Bloquez le bout du filament dans un des trous de la bobine afin d’éviter de mêler les filaments entre eux.
 - Coupez en diagonale le bout du filament que vous allez utiliser avec une pince coupante afin de faciliter l’introduction du filament dans le trou prévu à cet effet.
 
-## Pendant l’impression
+## 6 - Pendant l’impression
 
 Une fois l’impression lancée, il est important de surveiller les premières couches pour s’assurer que la pièce ne se décolle pas du plateau.
 
@@ -201,7 +197,7 @@ Si vous remarquez que les premières couches se décollent du plateau, ou que la
 - Ne pas déplacer l’imprimante pendant l’impression.
 - Ne surtout pas toucher le plateau ou la buse ou tout autre élément chauffant.
 
-## Après l’impression
+## 7 - Après l’impression
 
 Une fois l’impression terminée, le plateau commencera à refroidir petit à petit jusqu’à atteindre la température de la pièce. Il est bien plus facile d’enlever la pièce une fois le plateau froid. N’utilisez pas de spatule ou d’objet en métal pour retirer votre impression du plateau. Évitez aussi de toucher au plateau afin de le laisser le plus propre possible.
 
@@ -224,5 +220,5 @@ Il existe plusieurs méthodes pour peaufiner votre impression. En voici quelques
     [3.3. Cleaning the PEI spring steel print sheet for proper adhesion ](https://projects.ttlexceeded.com/3dprinting_mk3_bed_cleaning.html#bed-cleaning-procedure){:target="_blank"}
 
 !!!info "Livres disponibles aux bibliothèques en lien avec le sujet"
-    ![The 3d printing handbook](../assets/images/livre-impression3d-1.webp){ align=left width=200}
+    ![The 3d printing handbook](../images/livre-impression3d-1.webp){ align=left width=200}
     [Redwood, B., Schöffer Filemon, & Garret, B. (2017). The 3d printing handbook : technologies, design and applications. 3D Hubs B.V. ](https://umontreal.on.worldcat.org/v2/oclc/1019921213){:target="_blank"}

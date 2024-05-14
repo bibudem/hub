@@ -2,6 +2,14 @@
 
 nav:
   - Accueil: index.md
+  - Espaces : 
+    - espaces/index.md
+    - Amphithéâtre : espaces/amphitheatre.md
+    - Ateliers de fabrication numérique : espaces/ateliers.md
+    - Laboratoire de visualisation : espaces/labo-visualisation.md
+    - Studios d'enregistrement vidéo : espaces/studios-video.md
+    - Studios d'enregistrement audio : espaces/studios-audio.md
+
   - Ressources informatiques :
     - informatique/index.md
     - Authentification : informatique/authentification.md
@@ -16,7 +24,6 @@ nav:
       - Numérisation de vinyles : informatique/numerisation/vinyles.md
     - Ordinateurs : informatique/ordinateurs.md
     - Postes AVA : informatique/postes-ava.md
-    - Postes d'édition : informatique/postes-edition.md
     - Tablettes iPad : informatique/tablettes.md
 
     - Logiciels : logiciels/index.md
@@ -36,6 +43,7 @@ nav:
         - Elegoo Saturn 3 Ultra : creatives/impression3d/saturn3.md
         - Stylos 3D : creatives/impression3d/stylos.md
       - Modèles 3D : creatives/impression3d/modeles.md
+      - Réparation première couche : creatives/impression3d/premiere-couche.md
      
       
 
@@ -62,7 +70,7 @@ nav:
     
   - Production médias:
     - medias/index.md
-
+    - Postes d'édition : medias/postes-edition.md
     - Audio : 
       - medias/audio/index.md
       - Studio audio : medias/audio/studio.md

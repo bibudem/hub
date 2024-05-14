@@ -8,7 +8,7 @@ search:
 
 !!! info "Avant de faire votre première impression, lisez l'[introduction à l'impression 3D](introduction.md)"
 
-## Présentation de l'imprimante
+## Présentation
 
 ![Prusa i3 Mk3s+ à la Bibliothèque des sciences](../images/prusa-photo.webp)
 
@@ -23,7 +23,7 @@ search:
 |Impression multi-filament|	Possible en modifiant le gcode, ou en ajoutant le module MMU2S|
 |Logiciel de découpe (*slicer*)|	PrusaSlicer|
 
-Chaque imprimante a été montée par l'équipe. Toutes les parties en plastique ont été fabriquées par des imprimantes 3D, de sorte que ces pièces peuvent facilement être remplacées. Ce principe est appelé RepRap. 
+Chaque imprimante a été montée par l'équipe des bibliothèques et quelques unes par la commaunauté étudiante. Toutes les parties en plastique ont été fabriquées par des imprimantes 3D, de sorte que ces pièces peuvent facilement être remplacées. Ce principe est appelé RepRap. 
 
 Le bloc d’extrusion est monté sur deux axes (X et Z), le plateau est monté sur l’axe Y.
 Le plateau d’impression est une feuille magnétique texturée. La première couche de l’impression aura une texture granuleuse.
