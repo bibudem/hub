@@ -123,7 +123,7 @@ Clic droit = translation de la caméra
 
 ### Échelle et taille
 
-![video](videos/prusa-dimension.mp4)
+<div style="position: relative; padding-bottom: 60.948081264108346%; height: 0;"><iframe src="https://www.loom.com/embed/29067cbd8b81407e8654aa351f4e1bae?sid=4e94255e-4769-4d11-8cb3-324126842408" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Redimensionnez la pièce en utilisant la fonction **Redimensionner** (menu de droite). Vous pouvez aussi changer les valeurs de l’échelle et de la taille à droite de l’écran. 
 
@@ -148,7 +148,7 @@ Le logiciel passe en mode aperçu. Vous pouvez basculer entre ce mode et celui d
 
 Vous pouvez visualiser couche par couche votre impression ainsi que le déplacement de la tête d’impression.
 
-![video](videos/prusa-couche.mp4)
+<div style="position: relative; padding-bottom: 60.948081264108346%; height: 0;"><iframe src="https://www.loom.com/embed/ab9b7c819ce14d368849dd36c28d04c9?sid=1af70922-02c7-4f59-afd9-2af3720c1ec6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Si jamais vous changez un réglage, la pièce disparait de l’écran. Vous devez soit revenir à la vue d’édition 3D ou découper la pièce à nouveau. 
 
