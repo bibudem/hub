@@ -94,7 +94,7 @@ plugins:
       htmlmin_opts:
           remove_comments: true
 
-  - optimize
+  # - optimize
   # - typeset
   
 
