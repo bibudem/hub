@@ -54,7 +54,7 @@ theme:
   #       name: Passer au mode clair
 
   font :
-    text : Inter
+    text : Figtree
     code: Fragment Mono
 
 extra_css:
@@ -66,6 +66,7 @@ extra_javascript:
   - javascripts/extra.js
   - https://unpkg.com/hyperscript.org@0.9.12
   - javascripts/clarity.js
+  - https://bibumontreal.h5p.com/js/h5p-resizer.js
 
 
 plugins:

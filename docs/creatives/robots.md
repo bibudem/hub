@@ -14,7 +14,8 @@ Pour plus d'information sur l'utilisation des robots, consulter le guide Le num√
 
 ## Liste des robots
 
-[Blue-Bot (2014)](https://umontreal.on.worldcat.org/oclc/1047528364?_gl=1*1lt3bt8*_ga*NDkwNjAwMjE2LjE2OTY5MDQ4NTM.*_ga_V8J6YFFD4F*MTcxMzk3NjU0Ni4xOTguMS4xNzEzOTc2OTU5LjAuMC4w), Blue-Bot version 2 (2018)
+[Blue-Bot (2014)](https://umontreal.on.worldcat.org/oclc/1047528364?_gl=1*1lt3bt8*_ga*NDkwNjAwMjE2LjE2OTY5MDQ4NTM.*_ga_V8J6YFFD4F*MTcxMzk3NjU0Ni4xOTguMS4xNzEzOTc2OTU5LjAuMC4w), 
+Blue-Bot version 2 (2018)
 Dash
 Ozobot bit 2016, Ozobot bit 2018
 Souris robot Code & Go
