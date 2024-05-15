@@ -6,11 +6,10 @@ hide :
 glightbox: false
 
 icon : material/printer-3d-nozzle-outline
+cover : impression3d.jpg
 ---
 
 # Impression 3D
-
-![](../images/impression3d.jpg)
 
 Les bibliothèques de l'Université de Montréal met à la disposition de la communauté UdeM plusieurs imprimantes 3D. Vous pouvez utiliser ces technologies pour créer des prototypes, des modèles, des pièces uniques et bien plus encore.
 

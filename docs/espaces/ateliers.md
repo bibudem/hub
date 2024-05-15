@@ -3,6 +3,7 @@ icon : material/printer-3d
 glightbox: false
 search:
   boost: 2
+cover : ateliers.jpg
 ---
 
 # Ateliers de fabrication

@@ -3,6 +3,7 @@ icon : material/podcast
 glightbox: false
 search:
   boost: 2
+cover : studiolsh.jpg
 ---
 
 # Studios d'enregistrement audio
