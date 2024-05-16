@@ -33,17 +33,8 @@ Le bloc d’extrusion et doté de deux extrudeurs permettant d’imprimer facile
 
 Le *feeder* se trouve à l’arrière de l’imprimante et le filament passe par un tube pour être acheminé à l’extrudeur.  
 
-!!! info Ressources en ligne
+!!! info "Ressources en ligne"
     [Site officiel Ultimaker](https://ultimaker.com/3d-printers/s-series/ultimaker-s3/){:target="_blank"}
-    
-### Localisation
-
-| Bibliothèque | Nombre |
-|---|---|
-|Sciences | 1 |
-|Mathématiques et informatique | 1 |
-|Thérèse-Gouin-Décarie| 1 |
-|Santé| 1 |
 
 ## 2 - Configuration Cura
 
@@ -53,7 +44,7 @@ Lien vers le téléchargement : [https://ultimaker.com/fr/software/ultimaker-cur
 
 Version utilisée dans ce tutoriel : 5.1.1
 
-Compatible avec : Windows, Mac OS et Linux
+Compatible avec : Windows, macOS et Linux
 
 !!! Warning "Compatibilité"
     Le logiciel **n'est pas encore entièrement compatible** avec la puce M1 d'Apple. (nov 2021) [Consultez le support Ultimaker pour en savoir plus.] (https://support.ultimaker.com/hc/en-us/articles/360018141480)
@@ -184,22 +175,10 @@ Pour l’Ultimaker, il faut imbiber une lingette de nettoyant à vitre et nettoy
 
 ## 5 - Pour en savoir plus
 
-[Ultimaker Cura](https://support.ultimaker.com/hc/en-us/sections/360003548339-Ultimaker-Cura){:target="_blank"}
+- [Ultimaker Cura](https://support.ultimaker.com/hc/en-us/sections/360003548339-Ultimaker-Cura){:target="_blank"}
 
-[Blog sur l'impression 3D | Ultimaker](https://ultimaker.com/fr/learn/blog){:target="_blank"}
+- [Blog sur l'impression 3D | Ultimaker](https://ultimaker.com/fr/learn/blog){:target="_blank"}
 
-Sauf indications contraires, les contenus de ce wiki créé par les [Bibliothèques UdeM](http://bib.umontreal.ca) sont sous [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- [Loading materials on the Ultimaker S5](https://support.ultimaker.com/hc/en-us/articles/360011427140){:target="_blank"}
 
-![https://i.creativecommons.org/l/by/4.0/88x31.webp](https://i.creativecommons.org/l/by/4.0/88x31.webp)
-
-### Ressources
-
-[Loading materials on the Ultimaker S5](https://support.ultimaker.com/hc/en-us/articles/360011427140){:target="_blank"}
-
-[Change the Ultimaker S5 configuration](https://support.ultimaker.com/hc/en-us/articles/360011544619-Change-the-Ultimaker-S5-configuration){:target="_blank"}
-
-Sauf indications contraires, les contenus de ce wiki créé par les [Bibliothèques UdeM](http://bib.umontreal.ca) sont sous [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-![https://i.creativecommons.org/l/by/4.0/88x31.webp](https://i.creativecommons.org/l/by/4.0/88x31.webp)
-
-![Bleu-UdeM_monde-RGB.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc389c51-3dde-442e-8e16-7c65c58b4505/Bleu-UdeM_monde-RGB.webp)
+- [Change the Ultimaker S5 configuration](https://support.ultimaker.com/hc/en-us/articles/360011544619-Change-the-Ultimaker-S5-configuration){:target="_blank"}

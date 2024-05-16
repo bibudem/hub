@@ -21,23 +21,30 @@ Que vous soyez novice ou expérimenté, vous pouvez bénéficier de :
 
 --------
 
-??? Note "Disponibilité des imprimantes 3D"
+## Disponibilité des imprimantes 3D
 
-    Les imprimantes 3D sont disponibles dans les bibliothèques suivantes :
+Les imprimantes 3D sont disponibles dans les bibliothèques suivantes :
 
-    | Bibliothèque | Emplacement | Modèle |
-    |--|--|--|
-    | Mathématiques et informatique | Atelier de fabrication numérique, local A-x | Prusa i3 MK3s+, Ultimaker S3 |
-    | Sciences | Atelier de fabrication numérique, local A-x | Prusa i3 MK3s+, Ultimaker S3 |
-    | Thérèse-Gouin-Décarie | Atelier de fabrication numérique, local A-x | Prusa i3 MK3s+, Ultimaker 2 et S3, Elegoo Saturn 3 Ultra |
-    | Santé | 7ème étage, en face du comptoir de référence. | Ultimaker S3 |
+### Bibliothèque mathématiques et informatique
+- [Atelier de fabrication numérique](../../espaces/ateliers.md), local A-x
+- Modèle : Prusa i3 MK3s+, Ultimaker S3
+### Bibliothèque des sciences
+- [Atelier de fabrication numérique](../../espaces/ateliers.md), local A-x
+- Modèle : Prusa i3 MK3s+, Ultimaker S3
+### Bibliothèque Thérèse-Gouin-Décarie
+- [Atelier de fabrication numérique](../../espaces/ateliers.md), local A-x
+- Modèle : Prusa i3 MK3s+, Ultimaker 2 & S3, Elegoo Saturn 3 Ultra
+### Bibliothèque de la santé
+- 7ème étage, en face du comptoir de référence.
+- Modèle : Ultimaker S3
 
-??? Note "Informations complémentaires"
-    - Pour utiliser les imprimantes 3D, vous pouvez suivre une formation ou prendre un rendez-vous pour une consultation. Pour plus d'informations, consultez la section [Formations](formations.md).
-    - Pour obtenir de l'aide ou des conseils, vous pouvez contacter un membre de l'équipe des ateliers de fabrication numérique de votre bibliothèque par courriel ou en personne.
-    - L'impression 3D est un service gratuit offert par les bibliothèques uniquement pour les membres de la communauté UdeM.
-    - Pour connaître les règles d'utilisation des imprimantes 3D, consultez la section [Règles d'utilisation](regles.md).
-  
+---------
+
+### Informations complémentaires
+- Pour utiliser les imprimantes 3D, vous pouvez suivre une formation ou prendre un rendez-vous pour une consultation. Pour plus d'informations, consultez la section [Formations](formations.md).
+- Pour obtenir de l'aide ou des conseils, vous pouvez contacter un membre de l'équipe des ateliers de fabrication numérique de votre bibliothèque par courriel ou en personne.
+- L'impression 3D est un service gratuit offert par les bibliothèques uniquement pour les membres de la communauté UdeM.
+- Pour connaître les règles d'utilisation des imprimantes 3D, consultez la section [Règles d'utilisation](regles.md).
 ---------
 
 <div class="grid cards" markdown>

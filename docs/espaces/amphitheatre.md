@@ -3,6 +3,8 @@ icon : material/projector
 glightbox: false
 search:
   boost: 2
+
+cover : amphi.jpg
 ---
 
 # Amphithéâtre

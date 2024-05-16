@@ -42,11 +42,12 @@ nav:
         - Prusa i3: creatives/impression3d/prusa.md
         - Ultimaker 2/S3: creatives/impression3d/ultimaker.md
         - Elegoo Saturn 3 Ultra : creatives/impression3d/saturn3.md
-        - Stylos 3D : creatives/impression3d/stylos.md
-      - Modèles 3D : creatives/impression3d/modeles.md
-      - Réparation première couche : creatives/impression3d/premiere-couche.md
+        # - Stylos 3D : creatives/impression3d/stylos.md
+      - Modélisation 3D : creatives/impression3d/modeles3d.md
+      - Trucs et techniques : 
+        - Réparation première couche : creatives/impression3d/premiere-couche.md
+        - Mettre en pause une impression : creatives/impression3d/impression-pause.md
      
-      
 
     - Réalité virtuelle : 
       - creatives/realite-virtuelle/index.md
@@ -91,4 +92,10 @@ nav:
     
     - Visualisation de données : 
       - medias/visualisation/index.md
+
+  - À propos :
+    - L'équipe : a-propos/equipe.md
+    - Contribuer : a-propos/contribuer.md
+    - Accessibilité : a-propos/accessibilite.md
+    - Politiques : a-propos/politiques.md
     
