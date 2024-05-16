@@ -1,5 +1,6 @@
 ---
 hide : toc
+glightbox: false
 ---
 
 # L'équipe
