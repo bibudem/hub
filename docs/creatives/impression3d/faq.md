@@ -19,13 +19,13 @@ hide : toc
     L'impression est gratuite pour la communauté UdeM. 
     
 ??? question "J'ai une impression qui dure plus longtemps que les heures d'ouverture de la bibliothèque. Que faire ?" 
-    Vous devez en faire la demande par courriel à CreaNum@bib.umontreal.ca et un membre de l'équipe évaluera la demande. 
+    Vous devez en faire la demande par courriel à tech@bib.umontreal.ca et un membre de l'équipe évaluera la demande. 
     
 ??? question "Combien de fois puis-je imprimer un même objet?"
     Les ateliers sont des lieux d'initiation à l'impression 3D, où le prototypage est encouragé. Vous pouvez réimprimer un objet en modifiant les paramètres nécessaires si le résultat n'est pas celui attendu. N'ayez pas honte de vos échecs, et laissez-les dans l'atelier afin qu'ils puissent profiter aux suivants. Aucune production en série ne sera tolérée.
     
 ??? question "Je suis un membre du corps enseignant. Puis-je réserver une imprimante 3D pour un cours ?"
-    Vous devez en faire la demande par courriel à CreaNum@bib.umontreal.ca et un membre de l'équipe évaluera la demande.
+    Vous devez en faire la demande par courriel à tech@bib.umontreal.ca et un membre de l'équipe évaluera la demande.
     
 ??? question "Est-ce possible d'imprimer avec plusieurs couleurs ?"
     Oui ! L'imprimante Ultimaker S3 permet d'imprimer avec deux couleurs en même temps. Il faut préparer l'impression en conséquence. 
@@ -49,7 +49,7 @@ hide : toc
     Pas de panique! Si l'impression échoue, c'est généralement dû au modèle et son découpage (manque de support, complexe, etc) ou à un défaut de l'imprimante (calibration de l'axe Z, filament mal introduit dans le *feeder*, etc). Avisez un membre de l'équipe pour obtenir de l'aide. 
     
 ??? question "Est-ce que je peux imprimer avec mon propre filament ?"
-    Vous devez en faire la demande par courriel à CreaNum@bib.umontreal.ca et un membre de l'équipe évaluera la demande. 
+    Vous devez en faire la demande par courriel à tech@bib.umontreal.ca et un membre de l'équipe évaluera la demande. 
     
 ??? question "J'ai une question qui n'est pas sur la liste."
     N'hésitez pas à la poser à un membre de [notre équipe](https://www.notion.so/5dae1fe35bfe4929968d9f070707d005) sur place ou [par courriel](https://www.notion.so/Nous-joindre-33f9bd7c0c67457da83396c179ccb487).

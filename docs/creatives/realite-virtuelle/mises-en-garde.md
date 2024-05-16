@@ -30,4 +30,4 @@ Une grande précaution est à prendre pour les lentilles afin d'éviter les rayu
 
 # Besoin d'aide ?
 
-Si vous désirez une initiation sur le fonctionnement du casque, n'hésitez pas à prendre contact avec le personnel de la bibliothèque où vous avez emprunté le casque ou à nous écrire à creanum@bib.umontreal.ca.
+Si vous désirez une initiation sur le fonctionnement du casque, n'hésitez pas à prendre contact avec le personnel de la bibliothèque où vous avez emprunté le casque ou à nous écrire à tech@bib.umontreal.ca.

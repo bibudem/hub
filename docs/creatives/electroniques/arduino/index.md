@@ -1,5 +1,5 @@
 ---
-icon : simple/arduino
+
 ---
 
 # Arduino 

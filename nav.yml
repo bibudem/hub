@@ -2,6 +2,7 @@
 
 nav:
   - Accueil: index.md
+
   - Espaces : 
     - espaces/index.md
     - Amphithéâtre : espaces/amphitheatre.md
@@ -10,6 +11,9 @@ nav:
     - Laboratoires informatiques : espaces/labo-info.md
     - Studios vidéo : espaces/studios-video.md
     - Studios audio : espaces/studios-audio.md
+
+
+
 
   - Ressources informatiques :
     - informatique/index.md
@@ -98,4 +102,3 @@ nav:
     - Contribuer : a-propos/contribuer.md
     - Accessibilité : a-propos/accessibilite.md
     - Politiques : a-propos/politiques.md
-    

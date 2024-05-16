@@ -66,4 +66,4 @@ Des ordinateurs sont mis à votre disposition avec une suite de logiciel pour fa
 
 
 ## Besoin d'aide?
-N'hésitez pas à réserver une plage horaire avec un membre de notre équipe si vous avez besoin de soutien pendant ou après l'enregistrement. Vous pouvez aussi nous joindre par courriel : creanum@bib.umontreal.ca
+N'hésitez pas à réserver une plage horaire avec un membre de notre équipe si vous avez besoin de soutien pendant ou après l'enregistrement. Vous pouvez aussi nous joindre par courriel : tech@bib.umontreal.ca

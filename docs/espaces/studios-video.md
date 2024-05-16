@@ -15,13 +15,13 @@ Les studios d'enregistrement sont ouverts du lundi au vendredi de 9h à 17h et l
 
 À votre arrivée, présentez-vous au bureau de référence du 2e étage afin que le personnel puisse vous déverrouiller le studio.
 
-### Studio de la Bibliothèque des lettres et sciences humaines (BLSH)
-Pavillon Samuel-Bronfman, 2e étage, local 2076-5. [Obtenir un itinéraire](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
+### :octicons-location-16: Studio de la Bibliothèque des lettres et sciences humaines (BLSH)
+Pavillon Samuel-Bronfman, 2e étage, local 2076-5. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
 
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à la BLSH**](https://calendrier.bib.umontreal.ca/space/21911){ .md-button .md-button--primary }
 
-### Studio de la Bibliothèque Thérèse-Gouin-Décarie (TGD)
-Pavillon Marie-Victorin, 2e étage, local G-305-12. [Obtenir un itinéraire](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
+### :octicons-location-16: Studio de la Bibliothèque Thérèse-Gouin-Décarie (TGD)
+Pavillon Marie-Victorin, 2e étage, local G-305-12. [Voir sur la carte](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
 
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à Thérèse-Gouin-Décarie**](https://calendrier.bib.umontreal.ca/space/27038){ .md-button .md-button--primary }
 

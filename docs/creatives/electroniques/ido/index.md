@@ -1,5 +1,5 @@
 ---
-icon : material/network
+
 ---
 
 # IoT

@@ -23,23 +23,23 @@ Ce sont des espaces d’expérimentation et de partage qui rassemblent une commu
 
 Les ateliers de fabrication sont accessibles à toute la communauté UdeM, soit les communautés étudiante, d'enseignement, de recherche, ainsi que le personnel de l'UdeM. L'horaire affiché est sujet à changement en fonction de la disponibilité du personnel.
 
-### Atelier de la Bibliothèque des sciences
-Campus MIL, Aile A, Salle A-1553, 1er étage. [Obtenir un itinéraire](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
+### :octicons-location-16: Atelier de la Bibliothèque des sciences
+Campus MIL, Aile A, Salle A-1553, 1er étage. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
 
 - Lundi : 8 h à 17 h
 - Mardi au vendredi : 8 h à 21 h
 - Samedi et dimanche: 10 h à 17 h
 
-### Atelier de la Bibliothèque de mathématiques et informatique
-Pavillon André-Aisenstadt, 2e étage, local 2215. [Obtenir un itinéraire](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
+### :octicons-location-16: Atelier de la Bibliothèque de mathématiques et informatique
+Pavillon André-Aisenstadt, 2e étage, local 2215. [Voir sur la carte](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
 
 - Lundi, mardi et mercredi : 8 h à 21 h
 - Jeudi et vendredi : 8 h à 18 h
 - Samedi et dimanche: 10 h à 17 h
 
 
-### Atelier de la Bibliothèque Thérèse-Gouin-Décarie
-Pavillon Marie-Victorin, 2e étage. [Obtenir un itinéraire](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
+### :octicons-location-16: Atelier de la Bibliothèque Thérèse-Gouin-Décarie
+Pavillon Marie-Victorin, 2e étage. [Voir sur la carte](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
 
 - Lundi au vendredi: 8 h à 22 h
 - Samedi : 11 h à 17 h
@@ -76,4 +76,4 @@ En plus des consultations, des formations ainsi que des activités sont offertes
 
 ### Bibliothèque Thérèse-Gouin-Décarie
 
-<iframe src="https://bibumontreal.h5p.com/content/1292266434691659678/embed" aria-label="Bibliothèque Thérèse-Gouin-Décarie - Atelier de fabrication numérique" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://bibumontreal.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://bibumontreal.h5p.com/content/1292266434691659678/embed" aria-label="Bibliothèque Thérèse-Gouin-Décarie - Atelier de fabrication" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://bibumontreal.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>

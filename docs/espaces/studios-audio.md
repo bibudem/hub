@@ -15,15 +15,15 @@ Les studios d'enregistrement audio des bibliothèques offrent des équipements d
 Les studios d'enregistrement audio sont réservés à la communauté UdeM et sont gratuits. 
 Les membres de la communauté UdeM peuvent inviter des non-membres à participer, mais seuls les membres peuvent réserver les studios et obtenir des services de consultation et de soutien technique.
 
-### Studio de la Bibliothèque des lettres et sciences humaines (BLSH)
+### :octicons-location-16: Studio de la Bibliothèque des lettres et sciences humaines (BLSH)
 
-- Pavillon Samuel-Bronfman, 2e étage, local 2076-5. [Obtenir un itinéraire](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
+- Pavillon Samuel-Bronfman, 2e étage, local 2076-5. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
 - À votre arrivée, présentez-vous au bureau de référence du 2e étage afin que le personnel puisse vous déverrouiller le studio.
 
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à la BLSH**](https://calendrier.bib.umontreal.ca/space/21911){ .md-button .md-button--primary }
 
-### Studio de la Bibliothèque des sciences  
-- Campus MIL, Aile A, local A-1553 [Obtenir un itinéraire](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
+### :octicons-location-16: Studio de la Bibliothèque des sciences  
+- Campus MIL, Aile A, local A-1553 [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
 - À votre arrivée, présentez-vous à l'accueil de la bibliothèque afin de récupérer la clé.
 
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à la Bibliothèque des sciences**](https://calendrier.bib.umontreal.ca/space/21911){ .md-button .md-button--primary }

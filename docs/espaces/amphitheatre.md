@@ -9,14 +9,15 @@ cover : amphi.jpg
 
 # Amphithéâtre
 
-l'amphithéâtre offre un espace moderne et équipé pour la projection de films, avec une capacité de 35 places et un projecteur 4K cinéma pour une qualité d'image optimale.
+l'amphithéâtre offre un espace moderne et équipé pour la projection de films, avec une capacité de 35 places et un projecteur 4K cinéma pour une qualité d'image optimale. l'amphithéâtre est réservé à la communauté UdeM et son utilisation est gratuite.
 
 ## Localisation et accès
 
-l'amphithéâtre est réservé à la communauté UdeM et son utilisation est gratuite. Les membres de la communauté UdeM peuvent inviter des non-membres à assister aux événements, mais seuls les membres peuvent réserver l'amphithéâtre et bénéficier des services de consultation et de soutien technique.
+:octicons-location-16: Bibliothèque des lettres et sciences humaines (BLSH), Pavillon Samuel-Bronfman, 2e étage, local 2076-5. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
 
-- Bibliothèque des lettres et sciences humaines (BLSH), Pavillon Samuel-Bronfman, 2e étage, local 2076-5. [Obtenir un itinéraire](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
-- À votre arrivée, présentez-vous au bureau de référence du 2e étage afin que le personnel puisse vous déverrouiller l'amphithéâtre.
+À votre arrivée, présentez-vous au bureau de référence du 2e étage afin que le personnel puisse vous déverrouiller l'amphithéâtre.
+
+ Les membres de la communauté UdeM peuvent inviter des non-membres à assister aux événements, mais seuls les membres peuvent réserver l'amphithéâtre et bénéficier des services de consultation et de soutien technique.
 
 [:material-calendar-month:{ .lg .middle } **Réserver l'amphithéâtre**](https://calendrier.bib.umontreal.ca/space/21911){ .md-button .md-button--primary }
 

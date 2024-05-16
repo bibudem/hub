@@ -1,5 +1,5 @@
 ---
-icon : simple/raspberrypi
+
 ---
 
 # Raspberry Pi

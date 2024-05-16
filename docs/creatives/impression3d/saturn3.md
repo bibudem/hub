@@ -15,7 +15,7 @@
 
 ### Localisation
 
-Bibliothèque Thérèse-Gouin-Décarie, Atelier de fabrication numérique, 2e étage.
+Bibliothèque Thérèse-Gouin-Décarie, Atelier de fabrication, 2e étage.
 
 ## 2 - Découpe avec Chitubox
 

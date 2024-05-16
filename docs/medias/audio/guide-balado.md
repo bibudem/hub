@@ -44,7 +44,7 @@ Avez-vous entendu parler des audiogrammes? C’est une vidéo avec un extrait so
 
 ## :material-share: Partager votre création
 
-Nous serions ravis d’écouter votre création et de la mettre en avant dans la section [Projets et réalisations](https://www.notion.so/4d7f8d411822420cb72c0fc93236767e). Vous aurez aussi l’occasion d’y découvrir les productions enregistrées dans nos studios par la communauté UdeM. N’hésitez pas à nous partager le lien sur [creanum@bib.umontreal.ca](https://www.notion.so/Nous-joindre-33f9bd7c0c67457da83396c179ccb487)
+Nous serions ravis d’écouter votre création et de la mettre en avant dans la section [Projets et réalisations](https://www.notion.so/4d7f8d411822420cb72c0fc93236767e). Vous aurez aussi l’occasion d’y découvrir les productions enregistrées dans nos studios par la communauté UdeM. N’hésitez pas à nous partager le lien sur [tech@bib.umontreal.ca](https://www.notion.so/Nous-joindre-33f9bd7c0c67457da83396c179ccb487)
 
 ## :material-help-rhombus: Besoin d’aide?
 
