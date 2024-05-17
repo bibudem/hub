@@ -1,3 +1,6 @@
+
+INHERIT: person.yml
+
 # Navigation
 
 nav:

@@ -1,6 +1,13 @@
 ---
 search:
   boost: 2
+
+personnes:
+  - jeremy
+  - indiana
+  - jason
+  - yan
+  - melanie
 ---
 
 # Prusa i3 Mk3s+

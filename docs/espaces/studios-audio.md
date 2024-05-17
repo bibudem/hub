@@ -4,6 +4,10 @@ glightbox: false
 search:
   boost: 2
 cover : studiolsh.jpg
+
+personnes:
+  - guy
+  - melanie
 ---
 
 # Studios d'enregistrement audio

@@ -361,3 +361,43 @@
   pointer-events: none; /* Empêche les interactions de la souris */
   color: inherit;      /* Garde la couleur originale au survol */
 }
+
+
+/* ------------------- */
+/* Bloc personne */
+
+#person-info-wrapper {
+  clear: both;
+  border-radius: 5px;
+  margin-top: 1em;
+}
+
+.persons-details {
+  display: flex;
+  flex-direction: column;
+  margin-right:15px;
+}
+
+.person-detail {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-top:10px;
+
+}
+
+.person-photo {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.person-detail p {
+  margin: 0;
+}
+
+.person-detail a {
+  color: inherit; 
+}

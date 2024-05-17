@@ -3,6 +3,10 @@ icon : material/movie-open
 glightbox: false
 search:
   boost: 2
+
+personnes:
+  - guy
+
 ---
 
 # Studios d'enregistrement vidéo

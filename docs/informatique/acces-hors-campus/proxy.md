@@ -3,6 +3,10 @@ icon : material/check-network-outline
 search:
   boost: 2
 
+personnes : 
+    - eric
+    - thierry
+    - wassif
 ---
 # Configurer le serveur mandataire (*proxy*)
 
