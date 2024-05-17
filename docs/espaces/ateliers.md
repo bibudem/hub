@@ -20,7 +20,7 @@ Ce sont des espaces d’expérimentation et de partage qui rassemblent une commu
 
 ## Localisation et accès
 
-Les ateliers de fabrication sont accessibles à toute la communauté UdeM, soit les communautés étudiante, d'enseignement, de recherche, ainsi que le personnel de l'UdeM. L'horaire affiché est sujet à changement en fonction de la disponibilité du personnel.
+Les ateliers de fabrication sont accessibles à toute la communauté UdeM. L'horaire affiché est sujet à changement en fonction de la disponibilité du personnel.
 
 ### :octicons-location-16: Atelier de la Bibliothèque des sciences
 Campus MIL, Aile A, Salle A-0724.4 (à côté du comptoir d'accueil) [Voir sur la carte](https://maps.app.goo.gl/BwmR9ty8qfqYiKAK7).
@@ -30,7 +30,7 @@ Campus MIL, Aile A, Salle A-0724.4 (à côté du comptoir d'accueil) [Voir sur l
 - Samedi et dimanche: 10 h à 17 h
 
 ### :octicons-location-16: Atelier de la Bibliothèque de mathématiques et informatique
-Pavillon André-Aisenstadt, 2e étage, local 2215. [Voir sur la carte](https://maps.app.goo.gl/jJ4E8nj2TeAJJc3C7).
+Pavillon André-Aisenstadt, 2e étage, local 2432. [Voir sur la carte](https://maps.app.goo.gl/jJ4E8nj2TeAJJc3C7).
 
 - Lundi, mardi et mercredi : 8 h à 21 h
 - Jeudi et vendredi : 8 h à 18 h
