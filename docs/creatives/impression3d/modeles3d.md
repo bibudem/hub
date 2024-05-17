@@ -44,6 +44,8 @@ Ce logiciel de modélisation de la compagnie Autodesk existe en version payante 
 
 ![Interface du logiciel Fusion 360](../images/fusion360.png)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Izh99EnGLGw?si=8j24WWbEMVnVKnv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### SculptGL
 
 - [SculptGL en ligne](https://stephaneginier.com/sculptgl/)
