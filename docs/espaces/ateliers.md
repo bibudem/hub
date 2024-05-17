@@ -44,7 +44,7 @@ Pavillon Marie-Victorin, 2e étage. [Voir sur la carte](https://maps.app.goo.gl/
 - Samedi : 11 h à 17 h
 - Dimanche : fermé
 
-!!! Note "Une imprimante 3D est également disponible à la Bibliothèque de la santé en accès libre."
+!!! Note "Une imprimante 3D est également disponible à la Bibliothèque de la santé en accès libre. Pour plus d'informations, consultez la section [Impression 3D](../creatives/impression3d/index.md#bibliotheque-de-la-sante)."
 
 ## Documentation et équipements
 

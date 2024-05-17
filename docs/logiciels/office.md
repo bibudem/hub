@@ -1,7 +1,3 @@
-<!-- ---
-hide:
-  - navigation
---- -->
 
  <button onclick="history.back(); return false" class="md-button md-button--primary">:octicons-arrow-left-16: Page précédente</button>
 
@@ -22,7 +18,7 @@ L’utilisation des logiciels ne sera plus possible lorsque le membre de la comm
 - [En téléchargement](#téléchargement-et-installation).
 - Accès à distance.
 
-## Installation :green_circle: 
+## Installation
 
 !!! Warning "Il est recommandé de désinstaller toutes les versions d'Office installées dans votre ordinateur avant le téléchargement d'Office 365 ProPlus."
 

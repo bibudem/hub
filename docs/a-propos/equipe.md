@@ -162,7 +162,7 @@ glightbox: false
 
 ### Guy Blondeau, technicien soutien laboratoire de médiatisation
 
-:octicons-location-16: Bibliothèque lettre et sciences humaines
+:octicons-location-16: Bibliothèque lettres et sciences humaines
 
 :octicons-mail-16: guy.blondeau@umontreal.ca
 

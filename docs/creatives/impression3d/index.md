@@ -34,7 +34,7 @@ Les imprimantes 3D sont disponibles dans les bibliothèques suivantes :
 ### :octicons-location-16: Bibliothèque Thérèse-Gouin-Décarie
 - [Atelier de fabrication](../../espaces/ateliers.md), local A-x. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8)
 - Modèle : Prusa i3 MK3s+, Ultimaker 2 & S3, Elegoo Saturn 3 Ultra
-### :octicons-location-16: Bibliothèque de la santé. 
+### :octicons-location-16: Bibliothèque de la santé
 - 7ème étage, en face du comptoir de référence. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8)
 - Modèle : Ultimaker S3
 
