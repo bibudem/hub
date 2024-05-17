@@ -36,7 +36,7 @@ function bibExternalLinks() {
         if (a.href === "" || regex.test(a.href)) {
             return;
         }
-        // a.setAttribute("target", "_blank");
+        a.setAttribute("target", "_blank");
 
         bibAddClassToElement(className, a, a.href);
     });
