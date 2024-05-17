@@ -159,7 +159,7 @@ extra:
     provider: google
     property: XXXXXXXXXXX
     feedback:
-      title: L'information sur cette page vous a-t-elle été utile? 
+      title: Cette page vous a été utile? 
       ratings:
         - icon: material/thumb-up-outline
           name: Cette page a été utile

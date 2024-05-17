@@ -12,12 +12,7 @@ cover : logiciels.jpg
 
 L'offre logicielle disponible sur les ordinateurs des bibliothèques de l'Université de Montréal va des navigateurs Internet les plus populaires, à la suite bureautique Microsoft Office, en passant par plusieurs logiciels spécialisés. Ici-bas, la liste non-exhaustive des logiciels offerts à la communauté de l'Université de Montréal.
 
-Description des icônes :
-
-- :simple-opensourceinitiative: : Logiciel libre.
-- :green_circle: : Disponible en téléchargement.
-- :material-network: : Accessible à distance.
-
+<!-- 
 <div style="display:flex">
   <input class="input-search"
     id="search"
@@ -95,7 +90,7 @@ Filtrer par catégorie :
 
 
 
-</div>
+</div> -->
 
 {{ read_csv('docs/logiciels/logiciels.csv') }}
 

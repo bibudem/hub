@@ -1,66 +1,66 @@
-﻿"Nom","Catégorie","Description"
-"Abbyy FineReader","Accessibilité","Reconnaissance optique de caractères"
-"[Adobe Acrobat Pro](acrobat.md) :material-network:","Bureautique","Création et modification de fichiers PDF"
-"[Adobe After Effects](adobe.md) :material-network:","Création et édition","Effets spéciaux et animation"
-"[Adobe Animate](adobe.md) :material-network:","Création et édition","Animation"
-"[Adobe Audition](adobe.md) :material-network:","Création et édition","Montage et mixage audio"
-"[Adobe Character Animator](adobe.md) :material-network:","Création et édition","Animation de personnages"
-"[Adobe Encoder](adobe.md) :material-network:","Création et édition","Compression vidéo"
-"[Adobe Illustrator](adobe.md):material-network:","Création et édition","Dessin vectoriel"
-"[Adobe InCopy](adobe.md) :material-network:","Bureautique","Traitement de texte"
-"[Adobe InDesign](adobe.md) :material-network:","Création et édition","Mise en page"
-"[Adobe Lightroom & Lightroom Classic](adobe.md) :material-network:","Création et édition","Retouche photo"
-"[Adobe Photoshop](adobe.md) :material-network:","Création et édition","Retouche photo et création graphique"
-"[Adobe Premiere Pro](adobe.md) :material-network:","Création et édition","Montage vidéo"
-"[Adobe Premiere Rush](adobe.md) :material-network:","Création et édition","Montage vidéo"
-"Anaconda :simple-opensourceinitiative: :green_circle:","Traitement de données","Distribution de Python"
-"[ArcGIS & ArcGIS Pro](arcgis.md) :green_circle: :material-network:","Système dʼinformation géographique","Cartographie"
-"[Antidote](antidote.md) :material-network:","Correction grammaticale et orthographique",
-"AutoCAD","Bureautique","Logiciel de conception assistée par ordinateur (CAO)"
-"Balabolka","Accessibilité","Synthèse vocale"
-"Beyond 20/20","Analyse de données","Analyse de données statistiques"
-"[Bureau à distance](bureaudistance.md) :green_circle:","Accessibilité","Accès à distance aux ordinateurs"
-"Caris Easy View","Système dʼinformation géographique","Visualisation de données géographiques"
-"[ChemDraw](chemdraw.md) :green_circle:","Sciences","Dessin de structures chimiques"
-"CmapTools","Visualisation de données","Cartes conceptuelles"
-"DaVinci Resolve :green_circle:","Création et édition","Montage vidéo et correction colorimétrique"
-"Dragon Naturally Speaking","Accessibilité","Reconnaissance vocale"
-"Duxbury Braille Translator","Accessibilité","Traduction de texte en braille"
-"[EndNote](endnote.md) :green_circle:","Gestion bibliographique","Gestion de références bibliographiques"
-"Finale NotePad","Création et édition","Édition de partitions musicales"
-"Gaussian 16","Sciences","Calculs de chimie quantique"
-"[Gimp 2](gimp.md) :simple-opensourceinitiative: :green_circle:","Création et édition","Édition d'images"
-"[Google Earth Pro](earthpro.md) :green_circle:","Système dʼinformation géographique","Visualisation de la Terre"
-"HyperChem","Sciences","Modélisation moléculaire"
-"Inkscape :simple-opensourceinitiative: :green_circle:","Création et édition","Dessin vectoriel"
-"JabRef","Gestion bibliographique","Gestion de références bibliographiques"
-"JAWS","Accessibilité","Lecteur d'écran pour les personnes aveugles ou malvoyantes"
-"Krita :simple-opensourceinitiative: :green_circle:","Création et édition","Dessin et peinture numérique"
-"Lexibar LP5","Accessibilité","Clavier virtuel pour les personnes avec des besoins spécifiques"
-"[Mathematica](mathematica.md) :green_circle:","Traitement de données","Calcul formel et symbolique"
-"Meshroom :simple-opensourceinitiative:","Création et édition","Reconstruction 3D à partir de photos"
-"[Microsoft Access](office.md) :green_circle:","Bureautique","Gestion de bases de données relationnelles"
-"[Microsoft Excel](office.md) :green_circle:","Bureautique","Tableur pour la gestion de données et calculs"
-"[Microsoft Office 365](office.md) :green_circle:","Bureautique","Suite bureautique en ligne"
-"[Microsoft OneDrive](office.md) :green_circle:","Bureautique","Stockage en ligne et partage de fichiers"
-"[Microsoft Powerpoint](office.md) :green_circle:","Bureautique","Présentation et création de diaporamas"
-"[Microsoft Teams](office.md) :green_circle:","Bureautique","Plateforme de communication et de collaboration"
-"[Microsoft Word](office.md) :green_circle:","Bureautique","Traitement de texte pour la création de documents"
-"MuseScore","Création et édition","Composition musicale et notation"
-"Natural Reader","Accessibilité","Synthèse vocale"
-"OpenRefine :simple-opensourceinitiative: :green_circle:","Traitement de données","Nettoyage et transformation de données"
-"[OneNote](office.md):green_circle:","Bureautique","Prise de notes et organisation"
-"Publisher :green_circle:","Bureautique","Création de publications et de supports marketing"
-"PyMOL","Sciences","Visualisation et analyse de structures moléculaires en 3D"
-"QTGrace","Traitement de données","Création et édition de graphiques scientifiques"
-"QDA Miner","Traitement de données","Analyse de données qualitatives"
-"QGIS :simple-opensourceinitiative: :green_circle:","Système dʼinformation géographique","Cartographie et analyse spatiale"
-"R & R Studio :green_circle:","Analyse statistique","Environnement de développement intégré (IDE) pour R"
-"Reaper","Création et édition","Enregistrement audio multipiste et production musicale"
-"SAS :material-network:","Analyse statistique","Logiciel d'analyse de données statistiques"
-"STATA :material-network:","Analyse statistique","Logiciel d'analyse statistique pour la recherche et les études"
-"TexMaker","Bureautique","Éditeur LaTeX pour la création de documents scientifiques"
-"WordStat 8","Traitement de données","Analyse de texte pour la recherche qualitative"
-"Zotero :green_circle:","Gestion bibliographique","Gestionnaire de références bibliographiques"
-"Zoom :green_circle:","Communication","Plateforme de visioconférence"
-"Zoomtext","Accessibilité","Logiciel d'agrandissement d'écran et de lecture pour les personnes malvoyantes"
+Nom,Catégorie,Description,Logiciel Libre,Disponible en téléchargement,Accès à Distance
+Abbyy FineReader,Accessibilité,Reconnaissance optique de caractères,❌,❌,❌
+[Adobe Acrobat Pro](acrobat.md) ,Bureautique,Création et modification de fichiers PDF,❌,❌,✅
+[Adobe After Effects](adobe.md) ,Création et édition,Effets spéciaux et animation,❌,❌,✅
+[Adobe Animate](adobe.md) ,Création et édition,Animation,❌,❌,✅
+[Adobe Audition](adobe.md) ,Création et édition,Montage et mixage audio,❌,❌,✅
+[Adobe Character Animator](adobe.md) ,Création et édition,Animation de personnages,❌,❌,✅
+[Adobe Encoder](adobe.md) ,Création et édition,Compression vidéo,❌,❌,✅
+[Adobe Illustrator](adobe.md),Création et édition,Dessin vectoriel,❌,❌,✅
+[Adobe InCopy](adobe.md) ,Bureautique,Traitement de texte,❌,❌,✅
+[Adobe InDesign](adobe.md) ,Création et édition,Mise en page,❌,❌,✅
+[Adobe Lightroom & Lightroom Classic](adobe.md) ,Création et édition,Retouche photo,❌,❌,✅
+[Adobe Photoshop](adobe.md) ,Création et édition,Retouche photo et création graphique,❌,❌,✅
+[Adobe Premiere Pro](adobe.md) ,Création et édition,Montage vidéo,❌,❌,✅
+[Adobe Premiere Rush](adobe.md) ,Création et édition,Montage vidéo,❌,❌,✅
+Anaconda ,Traitement de données,Distribution de Python,❌,✅,❌
+[ArcGIS & ArcGIS Pro](arcgis.md)  ,Système dʼinformation géographique,Cartographie,❌,❌,✅
+[Antidote](antidote.md) ,Correction grammaticale et orthographique,,❌,❌,✅
+AutoCAD,Bureautique,Logiciel de conception assistée par ordinateur (CAO),❌,❌,✅
+Balabolka,Accessibilité,Synthèse vocale,❌,❌,✅
+Beyond 20/20,Analyse de données,Analyse de données statistiques,❌,❌,❌
+[Bureau à distance](bureaudistance.md) ,Accessibilité,Accès à distance aux ordinateurs,❌,❌,✅
+Caris Easy View,Système dʼinformation géographique,Visualisation de données géographiques,❌,❌,✅
+[ChemDraw](chemdraw.md) ,Sciences,Dessin de structures chimiques,❌,❌,✅
+CmapTools,Visualisation de données,Cartes conceptuelles,❌,❌,✅
+DaVinci Resolve ,Création et édition,Montage vidéo et correction colorimétrique,❌,✅,❌
+Dragon Naturally Speaking,Accessibilité,Reconnaissance vocale,❌,❌,❌
+Duxbury Braille Translator,Accessibilité,Traduction de texte en braille,❌,❌,❌
+[EndNote](endnote.md) ,Gestion bibliographique,Gestion de références bibliographiques,❌,❌,✅
+Finale NotePad,Création et édition,Édition de partitions musicales,❌,❌,❌
+Gaussian 16,Sciences,Calculs de chimie quantique,❌,❌,❌
+[Gimp 2](gimp.md)  ,Création et édition,Édition d'images,❌,✅,❌
+[Google Earth Pro](earthpro.md) ,Système dʼinformation géographique,Visualisation de la Terre,✅,❌,❌
+HyperChem,Sciences,Modélisation moléculaire,❌,❌,❌
+Inkscape  ,Création et édition,Dessin vectoriel,❌,✅,❌
+JabRef,Gestion bibliographique,Gestion de références bibliographiques,❌,❌,❌
+JAWS,Accessibilité,Lecteur d'écran pour les personnes aveugles ou malvoyantes,❌,❌,❌
+Krita  ,Création et édition,Dessin et peinture numérique,❌,✅,❌
+Lexibar LP5,Accessibilité,Clavier virtuel pour les personnes avec des besoins spécifiques,❌,❌,❌
+[Mathematica](mathematica.md) ,Traitement de données,Calcul formel et symbolique,❌,❌,✅
+Meshroom ,Création et édition,Reconstruction 3D à partir de photos,❌,✅,❌
+[Microsoft Access](office.md) ,Bureautique,Gestion de bases de données relationnelles,❌,❌,✅
+[Microsoft Excel](office.md) ,Bureautique,Tableur pour la gestion de données et calculs,❌,❌,✅
+[Microsoft Office 365](office.md) ,Bureautique,Suite bureautique en ligne,❌,❌,✅
+[Microsoft OneDrive](office.md) ,Bureautique,Stockage en ligne et partage de fichiers,❌,❌,✅
+[Microsoft Powerpoint](office.md) ,Bureautique,Présentation et création de diaporamas,❌,❌,✅
+[Microsoft Teams](office.md) ,Bureautique,Plateforme de communication et de collaboration,❌,❌,✅
+[Microsoft Word](office.md) ,Bureautique,Traitement de texte pour la création de documents,❌,❌,✅
+MuseScore,Création et édition,Composition musicale et notation,❌,❌,❌
+Natural Reader,Accessibilité,Synthèse vocale,❌,❌,✅
+OpenRefine  ,Traitement de données,Nettoyage et transformation de données,✅,✅,❌
+[OneNote](office.md),Bureautique,Prise de notes et organisation,❌,❌,✅
+Publisher ,Bureautique,Création de publications et de supports marketing,❌,❌,✅
+PyMOL,Sciences,Visualisation et analyse de structures moléculaires en 3D,❌,❌,❌
+QTGrace,Traitement de données,Création et édition de graphiques scientifiques,❌,❌,❌
+QDA Miner,Traitement de données,Analyse de données qualitatives,❌,❌,❌
+QGIS  ,Système dʼinformation géographique,Cartographie et analyse spatiale,❌,✅,❌
+R & R Studio ,Analyse statistique,Environnement de développement intégré (IDE) pour R,❌,✅,✅
+Reaper,Création et édition,Enregistrement audio multipiste et production musicale,❌,❌,✅
+SAS ,Analyse statistique,Logiciel d'analyse de données statistiques,❌,❌,✅
+STATA ,Analyse statistique,Logiciel d'analyse statistique pour la recherche et les études,❌,❌,✅
+TexMaker,Bureautique,Éditeur LaTeX pour la création de documents scientifiques,❌,❌,✅
+WordStat 8,Traitement de données,Analyse de texte pour la recherche qualitative,❌,❌,✅
+Zotero ,Gestion bibliographique,Gestionnaire de références bibliographiques,✅,❌,❌
+Zoom ,Communication,Plateforme de visioconférence,✅,❌,❌
+Zoomtext,Accessibilité,Logiciel d'agrandissement d'écran et de lecture pour les personnes malvoyantes,✅,❌,❌
