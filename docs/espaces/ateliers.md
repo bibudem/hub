@@ -8,30 +8,29 @@ cover : ateliers.jpg
 
 # Ateliers de fabrication
 
-(suggestion de nom : Fabricathèque)
-
 Les ateliers de fabrication offrent à la communauté la possibilité de développer de nouvelles compétences, de comprendre et de s’approprier de nouvelles technologies dans un environnement rassembleur.
 
 Ce sont des espaces d’expérimentation et de partage qui rassemblent une communauté de pratique. On y trouve notamment les technologies liées à :
 
-- l'impression 3D;
-- la numérisation 3D;
-- les systèmes embarqués comme Raspberry Pi, Arduino et l’Internet des Objets;
-- la couture, avec une machine à coudre et une brodeuse numérique.
+- L'impression et la numérisation 3D;
+- L'électronique comme les Raspberry Pi, Arduino et l’Internet des Objets;
+- La couture, avec une machine à coudre et une brodeuse numérique;
+- La découpe vinyle;
+- Et bien plus encore!
 
 ## Localisation et accès
 
 Les ateliers de fabrication sont accessibles à toute la communauté UdeM, soit les communautés étudiante, d'enseignement, de recherche, ainsi que le personnel de l'UdeM. L'horaire affiché est sujet à changement en fonction de la disponibilité du personnel.
 
 ### :octicons-location-16: Atelier de la Bibliothèque des sciences
-Campus MIL, Aile A, Salle A-1553, 1er étage. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
+Campus MIL, Aile A, Salle A-0724.4 (à côté du comptoir d'accueil) [Voir sur la carte](https://maps.app.goo.gl/BwmR9ty8qfqYiKAK7).
 
 - Lundi : 8 h à 17 h
 - Mardi au vendredi : 8 h à 21 h
 - Samedi et dimanche: 10 h à 17 h
 
 ### :octicons-location-16: Atelier de la Bibliothèque de mathématiques et informatique
-Pavillon André-Aisenstadt, 2e étage, local 2215. [Voir sur la carte](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
+Pavillon André-Aisenstadt, 2e étage, local 2215. [Voir sur la carte](https://maps.app.goo.gl/jJ4E8nj2TeAJJc3C7).
 
 - Lundi, mardi et mercredi : 8 h à 21 h
 - Jeudi et vendredi : 8 h à 18 h
@@ -39,7 +38,7 @@ Pavillon André-Aisenstadt, 2e étage, local 2215. [Voir sur la carte](https://m
 
 
 ### :octicons-location-16: Atelier de la Bibliothèque Thérèse-Gouin-Décarie
-Pavillon Marie-Victorin, 2e étage. [Voir sur la carte](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
+Pavillon Marie-Victorin, 2e étage. [Voir sur la carte](https://maps.app.goo.gl/t8GE4RdMBEJiHJtd8).
 
 - Lundi au vendredi: 8 h à 22 h
 - Samedi : 11 h à 17 h
@@ -63,10 +62,10 @@ Vous pouvez réserver une consultation de 30 minutes avec un ou une membre de l�
 Pour toute question ou demande particulière, n'hésitez pas à nous écrire à tech@bib.umontreal.ca
 
 ## Casiers
-Des casiers sont disponibles gratuitement pour entreposer vos projets en cours. Pour utiliser un casier, demandez une clé au comptoir d’accueil des bibliothèques.
+Des casiers sont disponibles gratuitement pour entreposer vos projets en cours à la Bibliothèque des sciences et la Bibliothèque Thérèse-Gouin-Décarie. Pour utiliser un casier, demandez une clé au comptoir d’accueil des bibliothèques.
 
-## Activités et formations
-En plus des consultations, des formations ainsi que des activités sont offertes aux ateliers. Pour plus de détails et pour les dates de ces activités, consultez le [calendrier des formations des Bibliothèques](https://bib.umontreal.ca/formations/calendrier).
+## Formations
+Des formations sont offertes aux ateliers. Pour plus de détails et pour les dates de ces activités, consultez le [calendrier des formations des Bibliothèques](https://bib.umontreal.ca/formations/calendrier).
 
 ## Visite 360
 

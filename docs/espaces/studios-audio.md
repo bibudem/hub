@@ -17,13 +17,13 @@ Les membres de la communauté UdeM peuvent inviter des non-membres à participer
 
 ### :octicons-location-16: Studio de la Bibliothèque des lettres et sciences humaines (BLSH)
 
-- Pavillon Samuel-Bronfman, 2e étage, local 2076-5. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
+- Pavillon Samuel-Bronfman, 2e étage, local 2076-2. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
 - À votre arrivée, présentez-vous au bureau de référence du 2e étage afin que le personnel puisse vous déverrouiller le studio.
 
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à la BLSH**](https://calendrier.bib.umontreal.ca/space/21911){ .md-button .md-button--primary }
 
 ### :octicons-location-16: Studio de la Bibliothèque des sciences  
-- Campus MIL, Aile A, local A-1553 [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8).
+- Campus MIL, Aile A, local A-1549 [Voir sur la carte](https://maps.app.goo.gl/BwmR9ty8qfqYiKAK7).
 - À votre arrivée, présentez-vous à l'accueil de la bibliothèque afin de récupérer la clé.
 
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à la Bibliothèque des sciences**](https://calendrier.bib.umontreal.ca/space/21911){ .md-button .md-button--primary }

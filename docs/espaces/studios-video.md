@@ -21,7 +21,7 @@ Pavillon Samuel-Bronfman, 2e étage, local 2076-5. [Voir sur la carte](https://m
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à la BLSH**](https://calendrier.bib.umontreal.ca/space/21911){ .md-button .md-button--primary }
 
 ### :octicons-location-16: Studio de la Bibliothèque Thérèse-Gouin-Décarie (TGD)
-Pavillon Marie-Victorin, 2e étage, local G-305-12. [Voir sur la carte](https://maps.app.goo.gl/8nPFjk3nD4bDCcou5).
+Pavillon Marie-Victorin, 2e étage, local G-305-12. [Voir sur la carte](https://maps.app.goo.gl/t8GE4RdMBEJiHJtd8).
 
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à Thérèse-Gouin-Décarie**](https://calendrier.bib.umontreal.ca/space/27038){ .md-button .md-button--primary }
 
