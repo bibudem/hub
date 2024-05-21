@@ -39,3 +39,5 @@ Ce service de soutien, qui est optionnel, est réservé aux membres de la commun
 Pour toute question ou demande particulière, n'hésitez pas à nous écrire à tech@bib.umontreal.ca.
 
 ## Visite 360
+
+<iframe src="https://bibumontreal.h5p.com/content/1292277650474974088/embed" aria-label="BLSH - Amphithéâtre" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://bibumontreal.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>

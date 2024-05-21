@@ -10,13 +10,10 @@ nav:
     - espaces/index.md
     - Amphithéâtre : espaces/amphitheatre.md
     - Ateliers de fabrication : espaces/ateliers.md
-    - Laboratoire de visualisation : espaces/labo-visualisation.md
     - Laboratoires informatiques : espaces/labo-info.md
-    - Studios vidéo : espaces/studios-video.md
+    - Laboratoire de visualisation : espaces/labo-visualisation.md
     - Studios audio : espaces/studios-audio.md
-
-
-
+    - Studios vidéo : espaces/studios-video.md
 
   - Ressources informatiques :
     - informatique/index.md

@@ -1,0 +1,23 @@
+<div id="person-info-wrapper">
+  {% if page and page.meta and page.meta.personnes %}
+  <div id="person-info">
+    <label class="md-nav__title">
+      <span class="md-nav__icon md-icon"></span>
+      Personnel des bibliothèques
+    </label>
+    <div class="persons-details">
+      {% for person_id in page.meta.personnes %}
+        {% set person = config.extra.personnes[person_id] %}
+        {% if person %}
+          <div class="person-detail">
+            <img src="{{ person.photo }}" alt="Person Photo" class="person-photo">
+            <p><a href="{{ person.page }}" class="md-nav__link">{{ person.name }}</a></p>
+          </div>
+        {% else %}
+          <p>Personne non trouvée : {{ person_id }}</p>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</div>
