@@ -26,7 +26,7 @@ Que vous soyez novice ou expérimenté, vous pouvez bénéficier de :
 Les imprimantes 3D sont disponibles dans les bibliothèques suivantes :
 
 ### :octicons-location-16: Bibliothèque mathématiques et informatique
-- [Atelier de fabrication](../../espaces/ateliers.md), local A-x. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8)
+- [Atelier de fabrication](../../espaces/ateliers.md), local 2432. [Voir sur la carte](https://maps.app.goo.gl/FHefa6pkavN4qBug6)
 - Modèle : Prusa i3 MK3s+, Ultimaker S3
 ### :octicons-location-16: Bibliothèque des sciences
 - [Atelier de fabrication](../../espaces/ateliers.md), local A-x. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8)
