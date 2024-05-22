@@ -54,3 +54,7 @@ Pour toute question ou demande particulière, n'hésitez pas à nous écrire à 
 En plus des consultations, des formations sont offertes aux studios. Pour les détails et les dates, consultez le [calendrier des formations des Bibliothèques](https://bib.umontreal.ca/formations/calendrier).
 
 ## Visite 360
+
+### Bibliothèque des lettres et sciences humaines (BLSH)
+
+<iframe src="https://bibumontreal.h5p.com/content/1292278507800175298/embed" aria-label="BLSH - Studio d'enregistrement audio" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://bibumontreal.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
