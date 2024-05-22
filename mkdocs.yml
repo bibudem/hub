@@ -58,14 +58,14 @@ theme:
     code: Fragment Mono
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/css/extra.css
 
 
 extra_javascript:
   - https://secretariatgeneral.umontreal.ca/udem_consentement_temoins.js
   - javascripts/extra.js
   - https://unpkg.com/hyperscript.org@0.9.12
-  - javascripts/clarity.js
+  - assets/js/clarity.js
   - https://bibumontreal.h5p.com/js/h5p-resizer.js
 
 
