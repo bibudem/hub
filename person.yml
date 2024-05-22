@@ -2,42 +2,42 @@ extra:
   personnes:
     jeremy:
       name: Jérémy Prime
-      photo: /assets/img/person/jeremy.jpg
+      photo: /docs/assets/images/equipe/jeremy.jpg
       page: /a-propos/equipe/#jeremy-prime-technicien-en-documentation
     indiana:
       name: Indiana Delsart
-      photo: /assets/img/person/indiana.jpg
+      photo: /docs/assets/images/equipe/indiana.jpg
       page: /a-propos/equipe/#indiana-delsart-bibliothecaire
     jason:
       name: Jason Madooray
-      photo: /assets/img/person/jason.jpg
+      photo: /docs/assets/images/equipe/jason.jpg
       page: /a-propos/equipe/#jason-madooray-technicien-en-documentation
     yan:
       name: Yan Vallée
-      photo: /assets/img/person/yan.jpg
+      photo: /docs/assets/images/equipe/yan.jpg
       page: /a-propos/equipe/#yan-vallee-technicien-en-documentation
     guy:
       name: Guy Blondeau
-      photo: /assets/img/person/guy.jpg
+      photo: /docs/assets/images/equipe/guy.jpg
       page: /a-propos/equipe/#guy-blondeau-technicien-soutien-laboratoire-de-mediatisation
     melanie:
       name: Mélanie Lachapelle
-      photo: /assets/img/person/personne.jpg
+      photo: /docs/assets/images/equipe/melanie.jpg
       page: /a-propos/equipe/#melanie-lachapelle-technicienne-en-documentation
     eve:
       name: Ève Baribeau Marchand
-      photo: /assets/img/person/personne.jpg
+      photo: /docs/assets/images/equipe/eve.jpg
       page: /a-propos/equipe/#eve-baribeau-marchand-technicienne-en-documentation
     eric:
       name: Eric Romano
-      photo: /assets/img/person/personne.jpg
+      photo: /docs/assets/images/equipe/eric.jpg
       page: /a-propos/equipe/#eric-romano-technicien-de-soutien-en-laboratoire-informatique
     thierry:
       name: Thierry Caballero
-      photo: /assets/img/person/personne.jpg
+      photo: /docs/assets/images/equipe/thierry.jpg
       page: /a-propos/equipe/#thierry-caballero-technicien-de-soutien-en-laboratoire-informatique
 
     wassif:
       name: Wassif Cheikh
-      photo: /assets/img/person/personne.jpg
+      photo: /docs/assets/images/equipe/wassif.jpg
       page: /a-propos/equipe/#wassif-cheikh-technicien-de-soutien-en-laboratoire-informatique
