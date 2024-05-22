@@ -10,7 +10,7 @@
 
 Arduino est une marque de cartes électroniques matériellement libres sur lesquelles se trouve un microcontrôleur. Elles peuvent être programmées pour analyser et produire des signaux électriques afin d’effectuer des tâches diverses. Arduino est aussi le nom du logiciel utilisé pour programmer le microcontrôleur (Arduino IDE). C’est l’outil par excellence pour apprendre l’électronique et la programmation.
 
-![Une carte Arduino](../assets/images/arduino1.webp)
+![Une carte Arduino](../../../assets/images/creatives/arduino1.webp)
 
 Pour démarrer, il vous faut :
 
@@ -35,27 +35,27 @@ Utilisez le câble USB. Une petite lumière verte apparaîtra sur la carte lors 
 
 **1.** Ouvrez le logiciel **Arduino IDE**, allez dans **Outils → Type de carte → Arduino AVR Boards** et sélectionnez **Arduino Uno**.
 
-![Interface du logiciel Arduino IDE](../assets/images/arduino2.webp)
+![Interface du logiciel Arduino IDE](../../../assets/images/creatives/arduino2.webp)
 
 **2.** Sélectionnez le bon port pour pouvoir communiquer avec la carte. Généralement, l’identifiant de la carte est affiché.
 
 Si vous utilisez un Arduino générique (sans la mention de la marque sur la carte), l’identifiant de la carte ne s’affichera pas. Pour devinez quel port COM utiliser, débranchez la carte, vérifiez la liste des ports, ensuite branchez la carte, vous allez voir apparaître un nouveau port COM.
 
-![Interface du logiciel Arduino IDE](../assets/images/arduino3.webp)
+![Interface du logiciel Arduino IDE](../../../assets/images/creatives/arduino3.webp)
 
 **3.** Le logiciel est aussi une mine d’or d’exemples en tout genre. Pour tester votre carte et s’assurer que la communication entre cette dernière et l’ordinateur est fonctionnelle, allez vers **Fichier → Exemples → 01.Basics → Blink**. Ce programme va tout simplement faire clignoter une petite lumière orange sur la carte.
 
-![Interface du logiciel Arduino IDE](../assets/images/arduino4.webp)
+![Interface du logiciel Arduino IDE](../../../assets/images/creatives/arduino4.webp)
 
 **4.** Pour envoyer le code de **Blink** vers le microcontrôleur, cliquez sur **Téléverser**. Une fois l’opération complétée, le logiciel vous confirmera que le téléversement est terminé et la lumière de la **PIN 13** (L) clignotera une fois par seconde. Si une erreur survient, assurez-vous que la carte est bien branchée, que vous avez bien choisi le bon type d’Arduino et le bon port de communication.
 
-![Interface du logiciel Arduino IDE](../assets/images/arduino5.webp)
+![Interface du logiciel Arduino IDE](../../../assets/images/creatives/arduino5.webp)
 
-![La carte Arduino avec la lumière qui clignote](../assets/images/arduino6.webp)
+![La carte Arduino avec la lumière qui clignote](../../../assets/images/creatives/arduino6.webp)
 
 ## Anatomie d’une carte Arduino
 
-![Anatomie d’une carte Arduino](../assets/images/arduino7.webp)
+![Anatomie d’une carte Arduino](../../../assets/images/creatives/arduino7.webp)
 
 1. **Bouton RESET** : Sert à réinitialiser l’Arduino. N’efface pas le contenu qui est déjà programmé.
 2. **Port USB** : Sert à alimenter la carte de prototypage, à téléverser un sketch (programme) et communiquer via `Serial.println()`.

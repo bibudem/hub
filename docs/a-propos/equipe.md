@@ -12,7 +12,7 @@ glightbox: false
 
 ----------------
 
-![](../images/personne.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
 
 ### Eric Romano, technicien de soutien en laboratoire informatique
 
@@ -26,7 +26,7 @@ glightbox: false
 
 ----------------
 
-![](../images/personne.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
 
 ### Thierry Caballero, technicien de soutien en laboratoire informatique
 
@@ -40,7 +40,7 @@ glightbox: false
 
 ----------------
 
-![](../images/personne.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
 
 ### Wassif Cheikh, technicien de soutien en laboratoire informatique
 
@@ -58,7 +58,7 @@ glightbox: false
 
 ----------------
 
-![](../images/personne.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
 
 ### Eve Baribeau Marchand, technicienne en documentation
 
@@ -74,7 +74,7 @@ glightbox: false
 
 ----------------
 
-![](../images/indiana.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/indiana.jpg){ width=200rem align=left } 
 
 ### Indiana Delsart, bibliothécaire
 
@@ -90,7 +90,7 @@ glightbox: false
 
 ----------------
 
-![](../images/jason.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/jason.jpg){ width=200rem align=left } 
 
 ### Jason Madooray, technicien en documentation
 
@@ -106,7 +106,7 @@ glightbox: false
 
 ----------------
 
-![](../images/jeremy.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/jeremy.jpg){ width=200rem align=left } 
 
 ### Jérémy Prime, technicien en documentation
 
@@ -122,7 +122,7 @@ glightbox: false
 
 ----------------
 
-![](../images/personne.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
 
 ### Mélanie Lachapelle, technicienne en documentation
 
@@ -138,7 +138,7 @@ glightbox: false
 
 ----------------
 
-![](../images/yan.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/yan.jpg){ width=200rem align=left } 
 
 ### Yan Vallée, technicien en documentation
 
@@ -158,7 +158,7 @@ glightbox: false
 
 ----------------
 
-![](../images/guy.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/guy.jpg){ width=200rem align=left } 
 
 ### Guy Blondeau, technicien soutien laboratoire de médiatisation
 

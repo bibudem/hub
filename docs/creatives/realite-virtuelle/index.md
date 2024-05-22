@@ -14,7 +14,7 @@ icon : material/panorama-sphere-outline
 
 # Réalité virtuelle
 
-![Une personne avec un casque de réalité virtuelle](../images/vr-intro.jpg)
+![Une personne avec un casque de réalité virtuelle](../../assets/images/creatives/vr-intro.jpg)
 
 Laissez-vous transporter dans des mondes immersifs et captivants grâce aux casques de réalité virtuelle Meta Quest 3 et Oculus Go, disponibles en prêt aux bibliothèques UdeM.
 
@@ -50,5 +50,3 @@ Présentez-vous au comptoir d'accueil des bibliothèques ci-dessous, ou réserve
 
 - [Guide d'utilisation](oculus-go.md)
 - [Catalogue des expériences](catalogue.md)
-
-![Réalité virtuelle](../assets/images/indexvr.webp)
