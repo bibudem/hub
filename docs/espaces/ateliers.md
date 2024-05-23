@@ -40,7 +40,7 @@ Pavillon André-Aisenstadt, 2e étage, local 2432. [Voir sur la carte](https://m
 ### :octicons-location-16: Atelier de la Bibliothèque Thérèse-Gouin-Décarie
 Pavillon Marie-Victorin, 2e étage. [Voir sur la carte](https://maps.app.goo.gl/t8GE4RdMBEJiHJtd8).
 
-- Lundi au vendredi: 8 h à 23 h
+- Lundi au vendredi: 8 h à 22 h
 - Samedi : 11 h à 17 h
 - Dimanche : fermé
 
