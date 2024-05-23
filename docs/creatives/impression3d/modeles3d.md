@@ -27,7 +27,7 @@ Tinkercad est une application sur navigateur développé par Autodesk, permettan
 
 <iframe title="Impression et modélisation 3D" width="560" height="315" src="https://classe.iro.umontreal.ca/videos/embed/7967ad16-f87c-49ea-b5e6-519cb6e8a7bb" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
-## Blender
+### Blender
 
 - [Site officiel de Blender](https://www.blender.org/)
 - [Documentation](https://docs.blender.org/manual/fr/latest/)
@@ -35,7 +35,7 @@ Tinkercad est une application sur navigateur développé par Autodesk, permettan
 **Blender** est un logiciel de modélisation gratuit et open-source. Il permet de modéliser, d’animer, faire des simulations, et compositing. Il est utilisé par des professionnels du cinéma aux jeux vidéo. Ce logiciel possède une grande communauté de pratique, on retrouve beaucoup de tutoriel sur internet.
 ![Interface du logiciel Blender](../../assets/images/creatives/blender.jpg)
 
-## Fusion 360
+### Fusion 360
 
 - [Site officiel de Fusion 360](https://www.autodesk.com/ca-fr/products/fusion-360/overview?panel=buy&term=1-YEAR&tab=subscription&plc=FSN)
 - [Documentation](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-1C665B4D-7BF7-4FDF-98B0-AA7EE12B5AC2)

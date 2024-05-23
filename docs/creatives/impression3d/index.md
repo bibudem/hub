@@ -1,6 +1,5 @@
 ---
 hide : 
-- toc
 - feedback
 - footer
 glightbox: false
@@ -21,20 +20,20 @@ Que vous soyez novice ou expérimenté, vous pouvez bénéficier de :
 
 --------
 
-## Disponibilité des imprimantes 3D
+### Disponibilité des imprimantes 3D
 
 Les imprimantes 3D sont disponibles dans les bibliothèques suivantes :
 
-### :octicons-location-16: Bibliothèque mathématiques et informatique
+#### :octicons-location-16: Bibliothèque mathématiques et informatique
 - [Atelier de fabrication](../../espaces/ateliers.md), local 2432. [Voir sur la carte](https://maps.app.goo.gl/FHefa6pkavN4qBug6)
 - Modèle : Prusa i3 MK3s+, Ultimaker S3
-### :octicons-location-16: Bibliothèque des sciences
+#### :octicons-location-16: Bibliothèque des sciences
 - [Atelier de fabrication](../../espaces/ateliers.md), local A-x. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8)
 - Modèle : Prusa i3 MK3s+, Ultimaker S3
-### :octicons-location-16: Bibliothèque Thérèse-Gouin-Décarie
+#### :octicons-location-16: Bibliothèque Thérèse-Gouin-Décarie
 - [Atelier de fabrication](../../espaces/ateliers.md), local A-x. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8)
 - Modèle : Prusa i3 MK3s+, Ultimaker 2 & S3, Elegoo Saturn 3 Ultra
-### :octicons-location-16: Bibliothèque de la santé
+#### :octicons-location-16: Bibliothèque de la santé
 - 7ème étage, en face du comptoir de référence. [Voir sur la carte](https://maps.app.goo.gl/6HsLMAxoBWpQZgcD8)
 - Modèle : Ultimaker S3
 
@@ -49,12 +48,12 @@ Les imprimantes 3D sont disponibles dans les bibliothèques suivantes :
 
 <div class="grid cards" markdown>
 
-[Guide de l'impression 3D](introduction.md){ .md-button .md-button--stretch} 
-
-[Imprimante à dépôt de fil fondu (Prusa, Ultimaker)](prusa.md){ .md-button .md-button--stretch}
-
-[Imprimante à résine (Elegoo)](ultimaker.md){ .md-button .md-button--stretch}
+- [**Introduction à l'impression 3D**](introduction.md) :material-arrow-right-box:
+- [**Prusa i3 Mk3s+**](prusa.md) :material-arrow-right-box:
+- [**Ultimaker 2 & S3**](ultimaker.md) :material-arrow-right-box:
+- [**Elegoo Saturn 3 Ultra**](elegoo.md) :material-arrow-right-box:
+- [**Modélisation 3D**](modelisation.md) :material-arrow-right-box:
+- [**Trucs et techniques**](trucs.md) :material-arrow-right-box:
+- [**Règles d'utilisation**](regles.md) :material-arrow-right-box:
 
 </div>
-
---------

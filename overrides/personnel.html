@@ -10,7 +10,7 @@
         {% set person = config.extra.personnes[person_id] %}
         {% if person %}
           <div class="person-detail">
-            <img src="{{ person.photo }}" alt="Person Photo" class="person-photo">
+            <img src="{{ person.photo }}" alt="Photo du membre de l'équipe" class="person-photo">
             <p><a href="{{ person.page }}" class="md-nav__link">{{ person.name }}</a></p>
           </div>
         {% else %}

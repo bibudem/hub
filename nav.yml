@@ -49,6 +49,7 @@ nav:
         # - Stylos 3D : creatives/impression3d/stylos.md
       - Modélisation 3D : creatives/impression3d/modeles3d.md
       - Trucs et techniques : 
+        - creatives/impression3d/techniques/index.md
         - Réparation première couche : creatives/impression3d/premiere-couche.md
         - Mettre en pause une impression : creatives/impression3d/impression-pause.md
      
@@ -66,7 +67,11 @@ nav:
       - Internet des Objets : creatives/electroniques/ido/index.md
       - Pièces électroniques : creatives/electroniques/inventaire.md
 
-    - Découpeuse : creatives/decoupeuse/index.md
+    - Découpeuse : 
+      - creatives/decoupeuse/index.md
+      - Silhouette Cameo 4 : creatives/decoupeuse/silhouette.md
+      - Cricut Maker : creatives/decoupeuse/cricut.md
+      - Brother SDX225 : creatives/decoupeuse/brother.md
     
     - Art textile : creatives/textile.md
 

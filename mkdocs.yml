@@ -63,7 +63,7 @@ extra_css:
 
 extra_javascript:
   - https://secretariatgeneral.umontreal.ca/udem_consentement_temoins.js
-  - javascripts/extra.js
+  - assets/js/extra.js
   - https://unpkg.com/hyperscript.org@0.9.12
   - assets/js/clarity.js
   - https://bibumontreal.h5p.com/js/h5p-resizer.js
@@ -172,24 +172,6 @@ extra:
           note: >- 
             Merci pour votre rétroaction! Aidez-nous à améliorer la page en utilisant ce
             <a href="..." target="_blank" rel="noopener">formulaire</a>.
-  
-  personnes:
-    jeremy:
-      name: Jérémy Prime
-      photo: /assets/img/person/jeremy.jpg
-      page: /a-propos/equipe/#jeremy-prime-technicien-en-documentation
-    indiana:
-      name: Indiana Delsart
-      photo: /assets/img/person/indiana.jpg
-      page: /a-propos/equipe/#indiana-delsart-bibliothecaire
-    jason:
-      name: Jason Madooray
-      photo: /assets/img/person/jason.jpg
-      page: /a-propos/equipe/#jason-madooray-technicien-en-documentation
-    yan:
-      name: Yan Vallée
-      photo: /assets/img/person/yan.jpg
-      page: /a-propos/equipe/#yan-vallee-technicien-en-documentation
 
 # Réseaux sociaux
 

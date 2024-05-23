@@ -2,7 +2,7 @@
 search:
   boost: 2
 
-personnes:
+personnes :
   - jeremy
   - indiana
   - jason
