@@ -132,9 +132,11 @@ glightbox: false
 
 :octicons-calendar-16: [Prendre rendez-vous](https://test.com)
 
-- Intérêts : Impression 3D, Découpe numérique, balado
+- Intérêts : Impression 3D, découpe numérique, libre, IoT
 
-- Présentation : 
+- Présentation : Apprendre est une passion pour moi et mon arrivée dans l’équipe a tout simplement dynamisé mon quotidien.
+Mon diplôme en techniques de la documentation m’a permis de trouver ma place dans un environnement en constante évolution.
+Venez me rencontrer pour apprendre à utiliser nos appareils ou pour discuter des projets que vous souhaitez concrétiser, il me fera plaisir de vous accompagner dans l’utilisation de nos ressources.
 
 ----------------
 
