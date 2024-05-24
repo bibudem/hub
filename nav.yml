@@ -84,9 +84,8 @@ nav:
     - Postes d'édition : medias/postes-edition.md
     - Audio : 
       - medias/audio/index.md
-      - Studio audio : medias/audio/studio.md
-      - Montage audio : medias/audio/montage.md
-      - Guide : medias/audio/rodecasterpro.md
+      - Guide baladodiffusion : medias/audio/guide-balado.md
+      - RODECaster Pro : medias/audio/rodecasterpro.md
 
     - Vidéo :
       - medias/video/index.md
