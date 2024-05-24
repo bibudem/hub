@@ -54,6 +54,8 @@ En plus des consultations, des formations sont offertes aux studios. Pour les d�
 
 ### Bibliothèque des lettres et sciences humaines (BLSH)
 
+<iframe src="https://bibumontreal.h5p.com/content/1292280056091824628/embed" aria-label="BLSH - Studio d'enregistrement vidéo" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://bibumontreal.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ### Bibliothèque Thérèse-Gouin-Décarie (TGD)
 
 <iframe src="https://bibumontreal.h5p.com/content/1292270591587691388/embed" aria-label="Bibliothèque Thérèse-Gouin-Décarie - Studio d'enregistrement vidéo" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://bibumontreal.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
