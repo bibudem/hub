@@ -32,6 +32,12 @@ Les membres de la communauté UdeM peuvent inviter des non-membres à participer
 
 [:material-calendar-month:{ .lg .middle } **Réserver le studio à la Bibliothèque des sciences**](https://calendrier.bib.umontreal.ca/space/21911){ .md-button .md-button--primary }
 
+### :octicons-location-16: Studio de la Bibliothèque de mathématiques et informatique
+- Pavillon André-Aisenstadt, local 2477 [Voir sur la carte](https://maps.app.goo.gl/jJ4E8nj2TeAJJc3C7).
+- À votre arrivée, présentez-vous à l'accueil de la bibliothèque afin que le personnel puisse apporter le matériel d'enregistrement.
+
+[:material-calendar-month:{ .lg .middle } **Réserver le studio à la Bibliothèque maths-info**](https://calendrier.bib.umontreal.ca/space/24357){ .md-button .md-button--primary }
+
 ## Documentation
 
 De la documentation est disponible pour vous aider à utiliser le studio d'enregistrement audio :
@@ -48,7 +54,7 @@ Ce service de soutien, qui est optionnel, est réservé aux membres de la commun
 
 !!! Info "Le studio d'enregistrement doit aussi être réservé pour obtenir du soutien."
 
-Pour toute question ou demande particulière, n'hésitez pas à nous écrire à tech@bib.umontreal.ca
+Pour toute question ou demande particulière, n'hésitez pas à nous écrire à creanum@bib.umontreal.ca
 
 ## Formations
 En plus des consultations, des formations sont offertes aux studios. Pour les détails et les dates, consultez le [calendrier des formations des Bibliothèques](https://bib.umontreal.ca/formations/calendrier).
