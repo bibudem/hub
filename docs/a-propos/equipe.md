@@ -58,7 +58,7 @@ glightbox: false
 
 ----------------
 
-![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/eve.jpg){ width=200rem align=left } 
 
 ### Eve Baribeau Marchand, technicienne en documentation
 
@@ -122,7 +122,7 @@ glightbox: false
 
 ----------------
 
-![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
+![](../assets/images/equipe/melanie.jpg){ width=200rem align=left } 
 
 ### Mélanie Lachapelle, technicienne en documentation
 
