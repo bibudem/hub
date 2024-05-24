@@ -132,7 +132,7 @@ glightbox: false
 
 :octicons-calendar-16: [Prendre rendez-vous](https://test.com)
 
-- Intérêts : Impression 3D, découpe numérique, libre, IoT
+- Intérêts : Impression 3D, découpe numérique, libre, IoT, Arts textiles
 
 - Présentation : Apprendre est une passion pour moi et mon arrivée dans l’équipe a tout simplement dynamisé mon quotidien.
 Mon diplôme en techniques de la documentation m’a permis de trouver ma place dans un environnement en constante évolution.
