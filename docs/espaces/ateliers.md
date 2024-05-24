@@ -4,6 +4,13 @@ glightbox: false
 search:
   boost: 2
 cover : ateliers.jpg
+
+personnes:
+  - indiana
+  - melanie
+  - jason
+  - jeremy
+  - yan
 ---
 
 # Ateliers de fabrication

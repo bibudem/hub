@@ -1,4 +1,8 @@
+---
 
+personnes:
+  - melanie
+---
 # Silhouette Studio
 
 ## Guide de découpe

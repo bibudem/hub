@@ -1,7 +1,17 @@
 ---
 search:
   boost: 2
+
+
+personnes:
+  - melanie
+  - jason
+  - yan
+  - indiana
+  - jeremy
+  - eve
 ---
+
 
 
 # Ultimaker

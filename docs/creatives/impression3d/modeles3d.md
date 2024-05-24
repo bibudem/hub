@@ -1,7 +1,12 @@
 ---
 search:
   boost: 2
+
+personnes:
+  - jeremy
+
 ---
+
 
 # Modélisation 3D pour l'impression
 
