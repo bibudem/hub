@@ -6,7 +6,7 @@
 
 # Guide d’utilisation
 
-![Casque de réalité virtuelle Oculus GO](../../../assets/images/creatives/oculus1.webp)
+![Casque de réalité virtuelle Oculus GO](..//assets/images/creatives/oculus1.webp)
 
 ## Présentation du casque
 
@@ -14,13 +14,13 @@ Le casque Oculus Go est un casque de réalité virtuelle autonome. On peut navig
 
 Ce casque offre 3 degrés de liberté (3DoF) : Grâce aux trois capteurs, l'accéléromètre, le gyroscope et le magnétomètre, le casque détecte les mouvements de la tête qui penche de gauche à droite, en arrière et en avant et qui tourne de gauche à droite.
 
-![Différents degrés de liberté](../../../assets/images/creatives/oculus2.webp)
+![Différents degrés de liberté](..//assets/images/creatives/oculus2.webp)
 
 Contrairement aux casques plus avancés comme le HTC Vive ou Oculus Rift S, qui offrent une plus grande liberté de mouvement, il est recommandé d'utiliser ce casque dans une position assise ou debout. Inutile de bouger dans l'espace : ce casque ne pourra pas suivre votre mouvement.
 
 ## Contenu du boîtier
 
-![Contenu du boîtier Oculus GO](../../../assets/images/creatives/oculus3.webp)
+![Contenu du boîtier Oculus GO](..//assets/images/creatives/oculus3.webp)
 
 1. Une lingette en microfibre
 2. La manette
@@ -42,7 +42,7 @@ La durée du prêt est de 7 jours renouvelable.
 
 ### Casque
 
-![Les boutons du casque de réalité virtuelle Oculus GO](../../../assets/images/creatives/oculus4.webp)
+![Les boutons du casque de réalité virtuelle Oculus GO](..//assets/images/creatives/oculus4.webp)
 
 1. Bouton de mise en marche/veille
 2. Boutons de volume
@@ -51,7 +51,7 @@ La durée du prêt est de 7 jours renouvelable.
 
 ### Manette
 
-![La manette du casque de réalité virtuelle Oculus GO](../../../assets/images/creatives/oculus5.webp)
+![La manette du casque de réalité virtuelle Oculus GO](..//assets/images/creatives/oculus5.webp)
 
 1. Touchpad : à utiliser avec le pouce. Vous pouvez presser dessus comme un bouton. S’utilise comme le trackpad d’un ordinateur.
 2. Bouton de retour en arrière.
@@ -89,7 +89,7 @@ Vous pouvez connecter le casque Oculus Go à n’importe quel WIFI à l’extér
 
 Dans **Paramètres**, sélectionner **WI-FI**. Choisissez la borne de votre choix, ensuite, entrez le mot de passe associé.
 
-![Capture d'écran de l'environnement virtuel d'Oculus GO](../../../assets/images/creatives/oculus6.webp)
+![Capture d'écran de l'environnement virtuel d'Oculus GO](..//assets/images/creatives/oculus6.webp)
 
 ### Changer la position de la manette
 
