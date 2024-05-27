@@ -1,3 +1,9 @@
+---
+personnes:
+  - guy
+---
+
+
 # Les bases du montage audio avec Audacity
 
 Audacity est un logiciel libre de traitement audio. Il permet de réaliser des enregistrements, de les éditer, de les mixer, de les modifier, de les analyser, de les convertir et de les publier sur Internet. Il est disponible pour Windows, macOS et Linux.

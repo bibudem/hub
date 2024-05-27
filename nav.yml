@@ -92,8 +92,11 @@ nav:
 
     - Vidéo :
       - medias/video/index.md
-      - Studio vidéo : medias/video/studio.md
-      - Montage : medias/video/montage.md
+      - Édition vidéo : 
+        - medias/video/montage.md
+        - Adobe Premiere Rush : medias/video/rush.md
+        - Adobe Premiere Pro : medias/video/premiere.md
+        - DaVinci Resolve : medias/video/davinci.md
 
     - Édition :
       - medias/edition/index.md

@@ -1,7 +1,17 @@
+---
+personnes:
+  - guy
+  - melanie
+  - jeremy
+  - indiana
+---
+
+
+
 # Guide d'utilisation du RodeCaster Pro I & II
 ![Studio audio](/assets/images/medias/studioaudiolsh.jpg){ .skip-lightbox }
 
-Ce guide vous permet une première prise en main de la console d’enregistrement **RODECaster Pro** et **RODECaster Pro II**. Vous avez des questions? N’hésitez pas à contacter un [membre de notre équipe](https://www.notion.so/3928eea82c9140a29666f1158b164d0f?pvs=21).
+Ce guide vous permet une première prise en main de la console d’enregistrement **RODECaster Pro** et **RODECaster Pro II**. Vous avez des questions? N’hésitez pas à contacter un [membre de notre équipe](/a-propos/equipe).
 
 !!! Warning "Attention" 
     Il est important de ne pas modifier la configuration depuis le menu de la console de mixage.
