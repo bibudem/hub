@@ -1,8 +1,7 @@
 ---
 
 personnes:
-  - yan
-  - jason
+  - jeremy
 ---
 
 # Cricut Design Space
