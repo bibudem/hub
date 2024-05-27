@@ -1,5 +1,10 @@
 ---
 
+personnes:
+  - indiana
+  - jeremy
+  - jason
+  - yan
 ---
 
 # Arduino 
