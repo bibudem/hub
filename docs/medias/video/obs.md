@@ -26,7 +26,7 @@ OBS est gratuit, libre et compatible Windows, MacOS et Linux. [Télécharger la 
     ![Capture d’écran 2022-11-21 100231.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e701541e-c2d3-432f-8d48-cc63c0245cf2/Capture_dcran_2022-11-21_100231.webp)
     
     <aside>
-    💡 Si la fenêtre ne s’affiche pas au démarrage, vous pouvez lancer l’assistant en cliquant dans le menu en haut sur **Outils > Assistant de configuration automatique.**
+    💡 Si la fenêtre ne s’affiche pas au démarrage, vous pouvez lancer l’assistant en cliquant dans le menu en haut sur **Outils → Assistant de configuration automatique.**
     
     </aside>
     

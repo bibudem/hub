@@ -20,7 +20,7 @@ Télécharger la dernière version d'Audacity sur le site officiel : [https://ww
 ## Aide
 
 ### Importer 
-Commencez par importer votre fichier audio. Si vous avez enregistré votre extrait dans un de nos studios d’enregistrement, c’est le fichier nommé Stereo Mix que vous allez importer (en format .wav). L’importation se fait dans le menu **Fichier** > **Importer** > **Audio**
+Commencez par importer votre fichier audio. Si vous avez enregistré votre extrait dans un de nos studios d’enregistrement, c’est le fichier nommé Stereo Mix que vous allez importer (en format .wav). L’importation se fait dans le menu **Fichier** → **Importer** → **Audio**
 
 <video controls>
 <source src="../assets/videos/audacity1.mp4" type="video/mp4">

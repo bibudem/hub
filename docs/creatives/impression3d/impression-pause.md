@@ -22,7 +22,7 @@ Lors de l’impression, l’imprimante se mettra en pause à la couche souhaité
 
 ## Ultimaker Cura
 
-Comme dans PrusaSlicer, commencer par faire les réglages comme d’habitude et découper. Ensuite, en prévisualisant les couches, trouver le numéro de la couche où on voudrait pauser l’impression. Aller dans **Extensions** > **Post Processing** > **Modify G-Code** . 
+Comme dans PrusaSlicer, commencer par faire les réglages comme d’habitude et découper. Ensuite, en prévisualisant les couches, trouver le numéro de la couche où on voudrait pauser l’impression. Aller dans **Extensions** → **Post Processing** → **Modify G-Code** . 
 
 ![](../../assets/images/creatives/ultimaker-pause-1.png)
 

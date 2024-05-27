@@ -21,7 +21,7 @@ Ce guide se veut être un rappel de l’utilisation du logiciel Silhouette Studi
 
 ---
 
-1. Cliquez sur **Fichier > Ouvrir**, ou glissez votre image au format PNG pour l’ouvrir dans le logiciel. Cliquez sur un coin de la sélection pour redimensionner l’image. 
+1. Cliquez sur **Fichier → Ouvrir**, ou glissez votre image au format PNG pour l’ouvrir dans le logiciel. Cliquez sur un coin de la sélection pour redimensionner l’image. 
 Cliquez sur l’image pour la déplacer.
     
 ![Capture d'écran du logiciel Silhouette Studio](../../assets/images/creatives/cameo2.webp)

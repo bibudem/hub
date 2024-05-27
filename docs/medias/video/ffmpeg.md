@@ -8,7 +8,7 @@
 
 ### sur Windows
 
-[Télécharger la dernière version pour Windows](https://www.gyan.dev/ffmpeg/builds/), décompresser et renommer le dossier en ffmpeg et le mettre sur c:\ (à côté de program files et windows). Ensuite, clic droit sur l’icône **Ordinateur > Propriétés Systèmes > Variable d’environnements**. Chercher **PATH** et ajouter à la fin (sans effacer le contenu) **;C:\ffmpeg**. Pour tester, il suffit d’ouvrir MS-DOS et taper **ffmpeg**.
+[Télécharger la dernière version pour Windows](https://www.gyan.dev/ffmpeg/builds/), décompresser et renommer le dossier en ffmpeg et le mettre sur c:\ (à côté de program files et windows). Ensuite, clic droit sur l’icône **Ordinateur → Propriétés Systèmes → Variable d’environnements**. Chercher **PATH** et ajouter à la fin (sans effacer le contenu) **;C:\ffmpeg**. Pour tester, il suffit d’ouvrir MS-DOS et taper **ffmpeg**.
 
 Il existe deux tutoriels très pratique sur comment installer ffmpeg sur Windows. Nous vous recommandons le premier lien.
 

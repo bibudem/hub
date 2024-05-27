@@ -41,7 +41,7 @@ Onglet général et cliquer sur « Ouvrir quand même ».
 10. Cliquer Installer et entrer le mot de passe administrateur de l’ordinateur
 11. Dans la fenêtre Extension système bloquée, cliquer OK chaque fois qu’on vous le demande.
 12. Cliquer Redémarrer, OK, Placer dans la corbeille
-13. Après avoir redémarré l’ordinateur ouvrir Pomme > Préférences système > Sécurité et confidentialité
+13. Après avoir redémarré l’ordinateur ouvrir Pomme → Préférences système → Sécurité et confidentialité
 14. Déverrouiller le cadenas (au besoin, entrer votre nom d'utilisateur et mot de passe de votre Mac et cliquer déverrouiller), puis
 cliquer sur l’onglet Général, ensuite Détails.
 15. Cocher les deux cases Microsoft Defender et cliquer OK.
@@ -73,7 +73,7 @@ La mise à jour du produit est automatique (si activé)
 
 ### McAfee sans installation de Microsoft Defender
 
-1. Ouvrez une fenêtre de terminal Applications > Utilitaires > Terminal
+1. Ouvrez une fenêtre de terminal Applications → Utilitaires → Terminal
 2. Saisissez la commande suivante : sudo /usr/local/McAfee/uninstall EPM
 3. Appuyer sur le bouton du clavier Entrer. Patienter jusqu’à sa désinstallation.
 4. Lorsque vous y êtes invités, saisissez le mot de passe administrateur de votre ordinateur et taper la touche Retour

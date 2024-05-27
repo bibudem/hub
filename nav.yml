@@ -86,6 +86,9 @@ nav:
       - medias/audio/index.md
       - Guide baladodiffusion : medias/audio/guide-balado.md
       - RODECaster Pro : medias/audio/rodecasterpro.md
+      - Édition audio : 
+        - medias/audio/edition.md
+        - Audacity : medias/audio/audacity.md
 
     - Vidéo :
       - medias/video/index.md
