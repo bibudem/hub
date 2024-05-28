@@ -28,7 +28,7 @@ cocher la case **J’accepte les termes de la directive** et **Valider**.
 Désinstaller tout autre antivirus et redémarrer l’ordinateur*.
 *Si présent, l’ancien antivirus institutionnel McAfee sera automatiquement désinstallé
 2. Accéder la logithèque : logitheque.ti.umontreal.ca
-3. S’authentifier en utilisant le code d'accès et son UNIP / mot de passe
+3. S’authentifier en utilisant le code d'accès et son mot de passe
 4. Lire la directive de téléchargement des logiciels,
 cocher la case J’accepte les termes de la directive et Valider
 5. Dans la liste déroulante, sélectionner Microsoft Defender (macOS) et Valider

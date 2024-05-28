@@ -110,7 +110,7 @@ Il est important de noter que cette méthode n'est valable que pour les versions
 - Dans le champ **Authentification**, sélectionnez **EAP sécurisé (PEAP**).
 - Dans le champ **Certificat CA**, indiquez l'emplacement où vous avez sauvegardé la clé de chiffrement.
 - Dans le champ **Nom d'utilisateur**, inscrivez votre **code d'accès TI** .
-- Dans le champ **Mot de passe**, entrez votre **mot de passe/UNIP** de votre compte.
+- Dans le champ **Mot de passe**, entrez votre **mot de passe** de votre compte.
 
 ### Pour aller plus loin
 

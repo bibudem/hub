@@ -39,7 +39,7 @@ Les bibliothèques offrent à la **communauté étudiante de l'UdeM** la possibi
     3. Exécuter le fichier et cliquer sur **Connexion**.
     4. S’authentifier de la façon suivante :
     - Nom : sim\votre code d’accès (ex. sim\p1234567 ou sim\ab12345)
-    - Mot de passe : UNIP / mot de passe
+    - Mot de passe : votre mot de passe
     !!! Tip
         Si on vous demande d’entrer uniquement votre mot de passe, cliquer **Plus d’options**, ensuite **Utiliser un autre compte** et ensuite vous authentifier.
 
@@ -50,7 +50,7 @@ Les bibliothèques offrent à la **communauté étudiante de l'UdeM** la possibi
     4. Exécuter le fichier et cliquer sur **Connexion**.
     5. S’authentifier de la façon suivante :
     - Nom : sim\votre code d’accès (ex. sim\p1234567 ou sim\ab12345)
-    - Mot de passe : UNIP / mot de passe
+    - Mot de passe : votre mot de passe
 
 === "Chromebook"
     1. [Installer le VPN](../numerique/acces-hors-campus/vpn.md#chromebook).
@@ -60,7 +60,7 @@ Les bibliothèques offrent à la **communauté étudiante de l'UdeM** la possibi
     5. Clique droit avec la souris sur le fichier téléchargé > Ouvrir avec > RD Client.
     6. S’authentifier de la façon suivante :
     - Nom : sim\votre code d’accès (ex. sim\p1234567 ou sim\ab12345)
-    - Mot de passe : UNIP / mot de passe
+    - Mot de passe : votre mot de passe
 
 === "Linux"
     1. [Installer le VPN](../numerique/acces-hors-campus/vpn.md#linux).
@@ -68,7 +68,7 @@ Les bibliothèques offrent à la **communauté étudiante de l'UdeM** la possibi
     3. Entrer l'adresse complète du poste voulu dans la barre d’adresse de **Reminna**, tel qu'il s'affiche sur notre site (ex. ssp314-bib.fil.umontreal.ca)
     4. S’authentifier de la façon suivante :
     - Nom d’ utilisateur : Votre code d’accès (ex. p1234567 ou ab12345)
-    - Mot de passe : UNIP/mot de passe
+    - Mot de passe : votre mot de passe
     - Domaine : sim
 
 === "iOS"
@@ -78,7 +78,7 @@ Les bibliothèques offrent à la **communauté étudiante de l'UdeM** la possibi
     4. Exécuter le fichier et cliquer sur **Connexion**.
     5. S’authentifier de la façon suivante :
     - Nom : sim\votre code d’accès (ex. sim\p1234567 ou sim\ab12345)
-    - Mot de passe : UNIP / mot de passe
+    - Mot de passe : votre mot de passe
 
 !!! Tip "Les fois suivantes"
 

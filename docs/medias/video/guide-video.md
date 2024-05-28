@@ -77,7 +77,7 @@ Cadrage de l’image
 2. Préparer votre enregistrement
 
 - Allumer la télé (bouton à l’arrière de la télé ou avec la télécommande).
-- Utiliser le clavier pour ouvrir une session avec votre code d’accès (ex. ab12345 ou p1234567) et votre UNIP/mot de passe.
+- Utiliser le clavier pour ouvrir une session avec votre code d’accès (ex. ab12345 ou p1234567) et votre mot de passe.
 - Utiliser la prise USB du mur pour y transférer vos fichiers de présentation. Ceux-ci apparaissent automatiquement sur l’écran télé.
 
 ![prise-usb.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/214f35df-b40d-494d-aae5-95a6255c10c5/prise-usb.webp)

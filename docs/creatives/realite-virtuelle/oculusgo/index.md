@@ -81,7 +81,7 @@ Dans **Paramètres**, sélectionner **WI-FI**. Choisissez **UdeM avec cryptage**
 | CA certificate | Sélectionner Ne pas valider |
 | Identité | Votre code d’accès (ex. AB12345 ou p1234567) |
 | Anonyme | le laisser vide |
-| Mot de passe | Votre UNIP / mot de passe |
+| Mot de passe | Votre mot de passe |
 
 ### Autre WIFI
 
