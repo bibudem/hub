@@ -38,12 +38,17 @@ Seuls les titres 2 sont affichés dans la table des matières.
 
 [Texte du lien](https://www.google.com)
 
+## Lien vers une section de la page
+
+[Page actuelle](#liste-a-puces)
+
+[Autre page](/espaces/amphitheatre/#visite-360)
+
+
 ## Bouton
 
 [Bouton primaire](#){ .md-button .md-button--primary}
 [Bouton secondaire](#){ .md-button }
-
-
 
 ## Image
 
@@ -95,3 +100,4 @@ print("Hello, World!")
 
 ??? Question "Titre de l'accordéon"
     Contenu de l'accordéon
+
