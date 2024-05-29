@@ -52,7 +52,7 @@ Sert à mesurer l’intensité (en ampère) d’un circuit. Utile pour connaitre
 2. Tourner le bouton pour aligner avec le symbole mA.
 3. L’ampèremètre doit être brancher en série dans le circuit, pour mesurer le courant qui le traverse. C’est à dire, l’entrée dans le multimètre doit être branché à la sortie d’un élément, et la sortie du multimètre doit être branché à l’entrée de l’élément suivant.
 
-!!! Warnin " "
+!!! Warning " "
   Il est important de ne pas dépasser la limite de 600mA. Si l’intensité est supérieur, brancher le câble sur le symbole A et aligner le bouton avec le symbole A.
 
 Exemple de l’intensité dans un circuit.

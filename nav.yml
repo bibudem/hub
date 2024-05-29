@@ -65,7 +65,7 @@ nav:
       - Arduino : creatives/electroniques/arduino/index.md
       - Raspberry Pi : creatives/electroniques/raspberrypi/index.md
       - Internet des Objets : creatives/electroniques/ido/index.md
-      - Pièces électroniques : creatives/electroniques/inventaire.md
+      - Pièces électroniques : creatives/electroniques/composantes.md
 
     - Découpeuse : 
       - creatives/decoupeuse/index.md

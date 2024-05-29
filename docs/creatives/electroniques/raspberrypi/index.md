@@ -1,6 +1,3 @@
----
-
----
 
 # Raspberry Pi
 

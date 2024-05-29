@@ -18,9 +18,7 @@ Les bibliothèques UdeM offrent des studios entièrement équipés pour vous aid
 
 ## :material-school: Suivre une formation
 
-L’équipe des bibliothèques organise des formations sur la création, la production et la diffusion des baladodiffusions. Si vous voulez y participer, [inscrivez-vous à une de nos formations](https://bib.umontreal.ca/formations/calendrier?cid=7690&t=g&cal=7690&d=0000-00-00&ct=34766&inc=0). En suivant la formation sur la baladodiffusion, vous allez apprendre quels sont les différents formats des balados, à manipuler le matériel et comment diffuser sur les différentes plateformes. Cette formation n’est pas obligatoire pour réserver le studio mais est fortement recommandée. [Cliquez ici pour voir les diapositives de la formation](https://hackmd.io/@creanum/balado). 
-
-
+L’équipe des bibliothèques organise des formations sur la création, la production et la diffusion des baladodiffusions. Si vous voulez y participer, [inscrivez-vous à une de nos formations](https://bib.umontreal.ca/formations/calendrier?cid=7690&t=g&cal=7690&d=0000-00-00&ct=34766&inc=0). En suivant la formation, vous allez apprendre quels sont les différents formats des balados, à manipuler le matériel et comment diffuser sur les différentes plateformes. Cette formation n’est pas obligatoire pour réserver le studio mais est fortement recommandée. [Cliquez ici pour voir les diapositives de la formation](https://hackmd.io/@creanum/balado). 
 
 ## :material-television-guide: Guide d’utilisation de la console RODECaster Pro
 
@@ -52,6 +50,6 @@ Nous serions ravis d’écouter votre création et de la mettre en avant dans la
 
 ## :material-help-rhombus: Besoin d’aide?
 
-### Consultation individuelle
+Vous pouvez prendre rendez-vous avec [un membre de notre équipe](../../a-propos/equipe.md) pour une consultation individuelle en ligne ou sur place. Si vous avez des questions, n'hésitez pas à envoyer un courriel à tech@bib.umontreal.ca
 
-Vous pouvez prendre rendez-vous avec [un membre de notre équipe](../../a-propos/equipe.md) pour une consultation individuelle en ligne ou sur place. 
+

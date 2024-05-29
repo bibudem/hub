@@ -20,6 +20,16 @@ Banque spécialisée en musique classique. La licence d’utilisation est spéci
 - [Audio Library de YouTube](https://www.youtube.com/@audiolibrary_/playlists)
 Banque de musiques organisées par genre ou par ambiance (*mood*). Vous devez contacter les artistes pour utiliser les musiques en dehors de YouTube. [Voir les détails des conditions d’utilisation](https://www.youtube.com/@audiolibrary_/about).
 
+- [Free Music Archive](https://freemusicarchive.org/)
+
+- [Jamendo](https://www.jamendo.com/start)
+
+- [Freeplay Music](https://www.freeplaymusic.com/)
+
+- [Bensound](https://www.bensound.com/)
+
+- [Incompetech](https://incompetech.com/music/royalty-free/music.html)
+  
 ## Effets sonores
 
 - [La sonothèque](https://lasonotheque.org/)
