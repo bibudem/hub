@@ -18,13 +18,13 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
     === "macOS"
         1. Sélectionner le réseau sans fil : UdeM avec cryptage
         2. Entrer les informations suivantes :
-              - Identité : Votre code d’accès
+              - Identité : Votre code d’accès ou courriel UdeM
               - Mot de passe : Votre mot de passe
   
     === "Windows"
         3. Sélectionner le réseau sans fil : UdeM avec cryptage
         4. Entrer les informations suivantes :
-              - Identité : Votre code d’accès
+              - Identité : Votre code d’accès ou courriel UdeM
               - Mot de passe : Votre mot de passe
 
     === "iOS"
@@ -44,7 +44,7 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
             |Méthode EAP | PEAP|
             |Phase 2 authentification | MSCHAPV2|
             | Certificat CA | (non spécifié) ou ne pas valider ou ne pas vérifier|
-            |Identité | Votre code d’accès (ex. ab12345 ou p1234567)|
+            |Identité | Votre code d’accès ou courriel UdeM|
             |Anonyme | le laisser vide|
             |Mot de passe | Votre mot de passe|
 
@@ -57,7 +57,7 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
             | Version TLS minimale | TLS v1.0 (si demandé Android 14 seulement)
             | État du certificat en ligne | Demander l’état du certificat ou Request certificate status |
             | Domaine | umontreal.ca |
-            | Identité | Votre code d’accès (ex. ab12345 ou p1234567) |
+            | Identité | Votre code d’accès ou courriel UdeM |
             | Anonyme | le laisser vide |
             | Mot de passe  | Votre mot de passe |
 
@@ -67,7 +67,7 @@ L'université de Montréal offre plusieurs réseaux Wi-Fi à travers les campus 
         |Méthode EAP | PEAP |
         |Phase 2 authentification | MSCHAPV2|
         |CA certificate | (non spécifié) ou ne pas valider ou ne pas vérifier|
-        |Identité | Votre code d’accès (ex. ab12345 ou p1234567)|
+        |Identité | Votre code d’accès ou courriel UdeM|
         |Anonyme | le laisser vide |
         |Mot de passe | Votre mot de passe|
 
