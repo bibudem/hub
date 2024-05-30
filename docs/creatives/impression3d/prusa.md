@@ -22,17 +22,17 @@ personnes :
 |-----|-----|
 |Volume d'impression|	25×21×21cm (9.84"×8.3"×8.3")|
 |Buses disponibles|	0.4mm|
-|Hauteur des couches|	0.05 - 0.35 mm|
+|Hauteur des couches|	0.05 - 0.30 mm|
 |Diamètre du filament|	1.75 mm|
 |Matériaux supportés|	PLA, PETG, ASA, ABS, PC, CPE, PVA/BVOH, PVB, HIPS, PP, Flex, nGen, Nylon, Carbon filled, Woodfill et autres.|
-|Surface d'impression|	Removable magnetic steel sheets(*) with different surface finishes|
+|Surface d'impression|	Feuille d'acier magnétique amovible(*) avec différentes finitions de surface|
 |Impression multi-filament|	Possible en modifiant le gcode, ou en ajoutant le module MMU2S|
 |Logiciel de découpe (*slicer*)|	PrusaSlicer|
 
 Chaque imprimante a été montée par l'équipe des bibliothèques et quelques unes par la commaunauté étudiante. Toutes les parties en plastique ont été fabriquées par des imprimantes 3D, de sorte que ces pièces peuvent facilement être remplacées. Ce principe est appelé RepRap. 
 
 Le bloc d’extrusion est monté sur deux axes (X et Z), le plateau est monté sur l’axe Y.
-Le plateau d’impression est une feuille magnétique texturée. La première couche de l’impression aura une texture granuleuse.
+Le plateau d’impression est une feuille magnétique amovible qui se nettoie à l'alcool isopropylique.
 
 Le *feeder* se trouve directement sur le dessus du bloc d’extrusion.
 
@@ -51,7 +51,7 @@ Le *feeder* se trouve directement sur le dessus du bloc d’extrusion.
     
 ![Menu de la Prusa](/assets/images/creatives/prusa-filament-1.webp)
     
-1. Sélectionnez **PLA 215/60**. La buse va se chauffer afin que le filament se retire facilement.
+1. Sélectionnez **PLA 215/60**. La buse va chauffer afin que le filament se retire facilement.
     
 ![Menu de la Prusa](/assets/images/creatives/prusa-filament-2.webp)
     
