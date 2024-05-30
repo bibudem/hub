@@ -12,8 +12,8 @@ nav:
     - Ateliers de fabrication : espaces/ateliers.md
     - Laboratoires informatiques : espaces/labo-info.md
     - Laboratoire de visualisation : espaces/labo-visualisation.md
-    - Studios audio : espaces/studios-audio.md
-    - Studios vidéo : espaces/studios-video.md
+    - Studios d'enregistrement audio : espaces/studios-audio.md
+    - Studios d'enregistrement vidéo : espaces/studios-video.md
 
   - Ressources informatiques :
     - informatique/index.md
@@ -76,6 +76,8 @@ nav:
     - Art textile : creatives/textile.md
 
     - Programmation : creatives/programmation.md
+
+    - Robots : creatives/robots.md
 
     - Réalisations : realisations/index.md
     
