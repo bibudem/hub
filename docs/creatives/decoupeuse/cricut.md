@@ -26,33 +26,33 @@ Tout d’abord, il faut choisir une image! Dans ce guide l’image source provie
 
 3.1. Pour débuter un nouveau projet, cliquer sur le menu **Accueil** en haut à gauche de l’écran.
 
-![Untitled](/assets/images/creatives/cricut3.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut3.webp){ width=600rem} 
 
 3.2. Sélectionner **Toile.**    
 
-![Untitled](/assets/images/creatives/cricut4.webp){ width=300rem} 
+![Untitled](../../assets/images/creatives/cricut4.webp){ width=300rem} 
 
 ### 4. Importation de l’image-source
 
 4.1. Une fois votre choix d’image fait, cliquer sur l’option **Télécharger** afin de pouvoir l’importer sur la toile.
 
-![Untitled](/assets/images/creatives/cricut5.webp){ width=300rem} 
+![Untitled](../../assets/images/creatives/cricut5.webp){ width=300rem} 
 
 4.2. Sélectionner l’option **Télécharger image**.
 
-![Untitled](/assets/images/creatives/cricut6.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut6.webp){ width=600rem} 
 
 4.3. Récupérer l’image afin de l’ajouter à la toile en la glissant et déposant ou en utilisant le menu **Parcourir.**
 
-![Untitled](/assets/images/creatives/cricut7.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut7.webp){ width=600rem} 
 
 4.4. Cliquer sur **Télécharger.** Cette action renvoie automatiquement à la page précédente.
 
-![Untitled](/assets/images/creatives/cricut8.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut8.webp){ width=600rem} 
 
 4.5. Sélectionner l’image téléchargée et cliquer sur **Ajouter à la toile.**
 
-![Untitled](/assets/images/creatives/cricut9.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut9.webp){ width=600rem} 
 
 ---
 
@@ -64,25 +64,25 @@ Tout d’abord, il faut choisir une image! Dans ce guide l’image source provie
 
 #### Paramètres de base
 
-![Untitled](/assets/images/creatives/cricut10.webp){ width=50rem align=left} 
+![Untitled](../../assets/images/creatives/cricut10.webp){ width=50rem align=left} 
 Supprimer l’image
 
 <br>
 
 
-![Untitled](/assets/images/creatives/cricut11.webp){ width=50rem align=left} 
+![Untitled](../../assets/images/creatives/cricut11.webp){ width=50rem align=left} 
 
 Permet d’effectuer une rotation de l’image
 
 <br>
 
-![Untitled](/assets/images/creatives/cricut12.webp){ width=50rem align=left} 
+![Untitled](../../assets/images/creatives/cricut12.webp){ width=50rem align=left} 
 
 Redimensionner l’image
 
 <br>
 
-![Untitled](/assets/images/creatives/cricut13.webp){ width=50rem align=left} 
+![Untitled](../../assets/images/creatives/cricut13.webp){ width=50rem align=left} 
 
 Permet de redimensionner les axes de l’image de manière indépendante
 
@@ -90,13 +90,13 @@ Permet de redimensionner les axes de l’image de manière indépendante
 
 5.1. Sélectionner l’image et cliquer sur l’option **Dégrouper**. Cela permettra de séparer la machine à espresso de la signature afin de retirer cette dernière de la découpe.
 
-![Untitled](/assets/images/creatives/cricut14.webp){ width=100rem} 
+![Untitled](../../assets/images/creatives/cricut14.webp){ width=100rem} 
 
 5.2. **Sélectionner** la signature, en glissant le curseur sur l’ensemble des éléments puis sur le **X** apparaissant dans l’encadré.
 
-![Untitled](/assets/images/creatives/cricut15.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut15.webp){ width=600rem} 
 
-![Untitled](/assets/images/creatives/cricut16.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut16.webp){ width=600rem} 
 
 ### 6. Choix de la lame
 
@@ -106,13 +106,13 @@ Permet de redimensionner les axes de l’image de manière indépendante
     Pour plus d’informations sur les lames disponibles, consulter le guide des [Lames et outils]().
 
 
-![Untitled](/assets/images/creatives/cricut17.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut17.webp){ width=600rem} 
 
 ---
 
 6.2. Cliquer sur **Créer** pour lancer la découpe.
 
-![Untitled](/assets/images/creatives/cricut18.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut18.webp){ width=600rem} 
 
 !!! note
     Notez que les tapis de découpe disponibles à l’atelier sont d’un format de 30.5 cm par 30.5 cm. Assurez-vous que votre projet ne dépasse pas cette taille pour éviter de mauvaises découpes ainsi que le bris de l’équipement.
@@ -123,34 +123,34 @@ Permet de redimensionner les axes de l’image de manière indépendante
 
 7.2. Coller un morceau de vinyle sur le tapis ayant le même format que votre modèle vis à vis l’emplacement dans le logiciel.
 
-![Untitled](/assets/images/creatives/cricut19.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut19.webp){ width=600rem} 
 
 
 Pour obtenir une mesure exacte de taille nécessaire et ainsi ne pas gaspiller les matériaux, on peut se fier sur les mesures du canevas dans le logiciel.
 
-![Untitled](/assets/images/creatives/cricut20.webp){ width=600rem} 
-![Untitled](/assets/images/creatives/cricut21.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut20.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut21.webp){ width=600rem} 
 
 
 7.3. Déposer le tapis sur la découpeuse, sous les roulettes sans effectuer de pression.
 
-![Untitled](/assets/images/creatives/cricut22.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut22.webp){ width=600rem} 
 
 7.4. Appuyer sur la **flèche** pour insérer le tapis.
 
-![Untitled](/assets/images/creatives/cricut23.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut23.webp){ width=600rem} 
 
 7.5. Sélectionner l’option **Sur le tapis,** **30.5 cm x 30.5 cm** pour la taille du tapis et cocher **Garder la sélection** puis cliquer sur **Continuer.**
 
-![Untitled](/assets/images/creatives/cricut24.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut24.webp){ width=600rem} 
 
 7.6. Appuyer de nouveau sur **Continuer**
 
-![Untitled](/assets/images/creatives/cricut25.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut25.webp){ width=600rem} 
 
 7.7. Sélectionner le matériel utilisé. Dans le cas présent on sélectionne **Vinyle.**
 
-![Untitled](/assets/images/creatives/cricut26.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut26.webp){ width=600rem} 
 
 !!! note
     Il existe une liste non-exhaustive des [Matériaux]() compatible avec nos découpeuses numériques comprenant même un inventaire.
@@ -158,19 +158,19 @@ Pour obtenir une mesure exacte de taille nécessaire et ainsi ne pas gaspiller l
 
 7.8. On s’assure que la lame dans la mâchoire B est la bonne.
 
-![Untitled](/assets/images/creatives/cricut27.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut27.webp){ width=600rem} 
 
-![Untitled](/assets/images/creatives/cricut28.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut28.webp){ width=600rem} 
 
 7.9. Appuyer sur le **bouton de mise en marche (logo de cricut)** de l’appareil et patientez pendant la durée de la découpe. Le logiciel fera état de la progression.
 
-![Untitled](/assets/images/creatives/cricut29.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut29.webp){ width=600rem} 
 
-![Untitled](/assets/images/creatives/cricut30.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut30.webp){ width=600rem} 
 
 7.10. Une fois la découpe terminé. Retirer le tapis de découpe de la machine en appuyant sur la flèche. Appuyer sur **Terminé** pour revenir à l’accueil du logiciel.
 
-![Untitled](/assets/images/creatives/cricut31.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut31.webp){ width=600rem} 
 
 ### 8. Installation et Finition
 
@@ -178,27 +178,27 @@ Pour obtenir une mesure exacte de taille nécessaire et ainsi ne pas gaspiller l
 
 8.2. Retirer l’excédant de vinyle à l’aide des outils disponibles à l’atelier (pinces, crochet etc.). Soyez prudent! Le vinyle peut facilement se déchirer à cette étape et le résultat sera beaucoup moins satisfaisant.
 
-![Untitled](/assets/images/creatives/cricut32.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut32.webp){ width=600rem} 
 
-![Untitled](/assets/images/creatives/cricut33.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut33.webp){ width=600rem} 
 
 8.3. Tailler un calque de papier transfert couvrant la surface entière du motif.
 
-![Untitled](/assets/images/creatives/cricut34.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut34.webp){ width=600rem} 
 
 8.4. Coller le papier transfert sur le motif en appuyant et frottant l’ensemble de la surface pour augmenter l’adhérence.  La spatule est utile pour cette étape. Les bulles entre le vinyle et le papier transfert doivent être réduite au maximum.
 
-![Untitled](/assets/images/creatives/cricut35.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut35.webp){ width=600rem} 
 
 8.5. Retirer le papier transfert du papier ciré de base, de manière à ce que le vinyle soit exclusivement sur la papier transfert.
 
 8.6. Coller le vinyle à l’endroit désiré en effectuant le même processus que pour l’adhésion au papier transfert puis retirer le papier transfert de manière à ce que le vinyle n’y adhère pas.
 
-![Untitled](/assets/images/creatives/cricut36.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut36.webp){ width=600rem} 
 
 Voilà, vous avez désormais un modèle personnalisé en vinyle!
 
-![Untitled](/assets/images/creatives/cricut37.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut37.webp){ width=600rem} 
 
 ## Tapis de découpe
 
@@ -209,7 +209,7 @@ Les tapis sont des planches adhésives qui servent à maintenir le matériel en 
 
 ### Le StandardGrip
 
-![Untitled](/assets/images/creatives/cricut38.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut38.webp){ width=600rem} 
 
 Le tapis le plus communément utilisé pour les matériaux standards tel que : 
 
@@ -219,7 +219,7 @@ Le tapis le plus communément utilisé pour les matériaux standards tel que :
 
 ### Le LightGrip
 
-![Untitled](/assets/images/creatives/cricut39.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut39.webp){ width=600rem} 
 
 Conçu pour les découpes de matériaux légers tel que :
 
@@ -231,7 +231,7 @@ Conçu pour les découpes de matériaux légers tel que :
 
 ### Le StrongGrip
 
-![Untitled](/assets/images/creatives/cricut40.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut40.webp){ width=600rem} 
 
 Conçu pour les découpes de matériaux résistants
 
@@ -243,7 +243,7 @@ Conçu pour les découpes de matériaux résistants
 
 ### Le fabricgrip
 
-![Untitled](/assets/images/creatives/cricut41.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut41.webp){ width=600rem} 
 
 Conçu pour les découpes de tissus
 
@@ -258,7 +258,7 @@ Conçu pour les découpes de tissus
 
 - Retirer les résidus de matériaux à l'aide d'un grattoir
 
-![Untitled](/assets/images/creatives/cricut42.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut42.webp){ width=600rem} 
 
 - Pour les tissus, il est possible d'utiliser un rouleau anti-peluche
 - Lingette sans alcool
@@ -272,9 +272,9 @@ Conçu pour les découpes de tissus
 
 ### Les lames
 
-![Untitled](/assets/images/creatives/cricut43.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut43.webp){ width=600rem} 
 
-![Untitled](/assets/images/creatives/cricut44.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut44.webp){ width=600rem} 
 
 #### Lame à pointe fine
 
@@ -289,7 +289,7 @@ La lame à point fine effectue des découpes standard. Elle est munie d'un angle
 - Ruban adhésif de type Washi tape
 - Vinyle (temporaire ou permanent)
 
-![Untitled](/assets/images/creatives/cricut45.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut45.webp){ width=600rem} 
 
 #### Lame à pointe profonde
 
@@ -304,7 +304,7 @@ La lame à point profonde est munie d'un angle plus prononcé de 60 degrés. Ell
 - Feuille magnétisée - 0.6 mm
 - Papier aluminium
 
-![Untitled](/assets/images/creatives/cricut46.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut46.webp){ width=600rem} 
 
 #### Lame pour tissus non-tissé
 
@@ -323,7 +323,7 @@ Cette lame est l'équivalent de la lame à pointe fine, elle est cependant rése
 - Toile de jute
 - etc.
 
-![Untitled](/assets/images/creatives/cricut47.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut47.webp){ width=600rem} 
 
 #### Lame de découpe
 
@@ -337,7 +337,7 @@ Tilleul
 - Matboard 4 plis
 - Planche cartonné 2.0 mm
 
-![Untitled](/assets/images/creatives/cricut48.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut48.webp){ width=600rem} 
 
 #### Lame rotative
 
@@ -363,7 +363,7 @@ Découpe pratiquement tous les types de tissus. Cette lame nécessite un motif d
 
 ### Autres embouts
 
-![Untitled](/assets/images/creatives/cricut49.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut49.webp){ width=600rem} 
 
 #### Pointe de gravure
 
@@ -382,7 +382,7 @@ Idéal pour les gravures de plus de 2.5cm. Ne convient pas au verre. Permet la g
 - Papier avec paillettes
 - Plastique
 
-![Untitled](/assets/images/creatives/cricut50.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut50.webp){ width=600rem} 
 
 #### Pointe de débossage
 
@@ -400,9 +400,9 @@ Permet la mise en relief des matériaux, en créant une concavité.
 - Papier cartonné épais
 - Velin
 
-![Untitled](/assets/images/creatives/cricut51.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut51.webp){ width=600rem} 
 
-![Untitled](/assets/images/creatives/cricut52.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut52.webp){ width=600rem} 
 
 #### Pointe de transfert pour feuille métallisée
 
@@ -420,7 +420,7 @@ Permet le transfert de feuilles métallisées sur une surface. Cet outil est mun
 - Faux cuir
     
     
-![Untitled](/assets/images/creatives/cricut53.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut53.webp){ width=600rem} 
 
 #### Embout de compatibilité pour crayons à dessin
     
@@ -428,19 +428,19 @@ Il existe une multitude de crayons compatibles avec la Cricut Maker. Cette fonct
     
 Noter qu'il est aussi possible d'utiliser des crayons qui ne sont pas de la marque Cricut. Cependant, plusieurs tests sont encore nécessaires. Nous vous demandons donc de **ne pas utiliser de crayons provenant de marques autres que Cricut pour le moment**.
     
-![Untitled](/assets/images/creatives/cricut54.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut54.webp){ width=600rem} 
 
 #### Crayon de rainures / stries
     
 Cet outil permet d'effectuer des rainures sur les matériaux. Ceci permet ensuite de les plier plus facilement.
 
-![Untitled](/assets/images/creatives/cricut55.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut55.webp){ width=600rem} 
 
 #### Pointe de rainures / stries (unique et double) - Indisponible
 
 Ces embouts permettent d'effectuer des rainures jusqu'à 10 fois plus prononcées que le crayon. Cela permet de plier des matériaux plus facilement. L'embout double est nécessaire pour les matériaux plus résistants.
 
-![Untitled](/assets/images/creatives/cricut56.webp){ width=600rem} 
+![Untitled](../../assets/images/creatives/cricut56.webp){ width=600rem} 
 
 #### Lame de perforation - Indisponible
 
@@ -453,7 +453,7 @@ Permet la coupe en pointillé afin de facilité la déchirure (par exemple des b
 - Papier
 - Papier cartonné
     
-![Untitled](/assets/images/creatives/cricut57.webp){ width=600rem}     
+![Untitled](../../assets/images/creatives/cricut57.webp){ width=600rem}     
 
 #### Lame vaguée - Indisponible
 

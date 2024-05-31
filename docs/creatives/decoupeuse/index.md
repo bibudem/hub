@@ -4,7 +4,7 @@ icon : material/checkbox-intermediate-variant
 
 # Découpeuse
 
-![Illustration pour la découpe numérique](/assets/images/creatives/decoupe.webp){ width=300rem align=left } 
+![Illustration pour la découpe numérique](../../assets/images/creatives/decoupe.webp){ width=300rem align=left } 
 
 Les découpeuses numériques permettent de créer des motifs 2D sur divers matériaux. Les utilisations les plus fréquentes sont la découpe de vinyle et de tissu variés. Il est également possible de graver du métal et de dessiner sur du papier ou du carton. 
 

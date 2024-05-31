@@ -9,7 +9,7 @@ personnes:
 
 
 # Guide d'utilisation du RodeCaster Pro I & II
-![Studio audio](/assets/images/medias/studioaudiolsh.jpg){ .skip-lightbox }
+![Studio audio](../../assets/images/medias/studioaudiolsh.jpg){ .skip-lightbox }
 
 Ce guide vous permet une première prise en main de la console d’enregistrement **RODECaster Pro** et **RODECaster Pro II**. Vous avez des questions? N’hésitez pas à contacter un [membre de notre équipe](/a-propos/equipe).
 
@@ -30,30 +30,30 @@ Ce guide vous permet une première prise en main de la console d’enregistremen
 Allumer la console avec le bouton rouge qui se trouve derrière.
 
 === "RODECaster Pro"
-    ![Studio audio](/assets/images/medias/rode1-1.jpg)
+    ![Studio audio](../../assets/images/medias/rode1-1.jpg)
 === "RODECaster Pro II"
-    ![Studio audio](/assets/images/medias/rode2-1.jpg)
+    ![Studio audio](../../assets/images/medias/rode2-1.jpg)
 
 ## 2. Niveau d’enregistrement et volume des casques d’écoute
 
 1 - Ajuster le niveau d’enregistrement selon les micros utilisés environ à la mi-course de la glissière (les micros sont identifiés ainsi : MIC #1, MIC #2, etc.)
 
 === "RODECaster Pro"
-    ![Studio audio](/assets/images/medias/rode1-2.jpg)
+    ![Studio audio](../../assets/images/medias/rode1-2.jpg)
 === "RODECaster Pro II"
-    ![Studio audio](/assets/images/medias/rode2-2.jpg)
+    ![Studio audio](../../assets/images/medias/rode2-2.jpg)
 2 - Enfin, ajuster le volume des casques d’écoute de chaque participant (Les casques sont identifiés ainsi : Casque #1, Casque #2, etc.)
 
 === "RODECaster Pro"
-    ![Studio audio](/assets/images/medias/rode1-3.jpg)
+    ![Studio audio](../../assets/images/medias/rode1-3.jpg)
 === "RODECaster Pro II"
-    ![Studio audio](/assets/images/medias/rode2-3.jpg)
+    ![Studio audio](../../assets/images/medias/rode2-3.jpg)
 3 - Parler face au micro et observer le niveau sonore qui s’affiche à l’écran. Ajuster légèrement le niveau d’enregistrement jusqu’avoir des pics autour de -15db. Le micro doit être à une distance d’au plus 10 cm.
 
 === "RODECaster Pro"
-    ![Studio audio](/assets/images/medias/rode1-4.jpg)
+    ![Studio audio](../../assets/images/medias/rode1-4.jpg)
 === "RODECaster Pro II"
-    ![Studio audio](/assets/images/medias/rode2-4.jpg)
+    ![Studio audio](../../assets/images/medias/rode2-4.jpg)
 4 - Régler maintenant le volume des casques d’écoute selon le confort des participants.
 
 !!! Warning " "
@@ -66,11 +66,11 @@ L’enregistrement se fait directement sur la console, pas besoin de le brancher
 Le nombre d’heures d’enregistrement disponible est indiqué en haut de l’écran. Si l’espace n’est pas suffisant, formater la mémoire en appuyant sur l’icône de la carte SD en haut de l’écran.
 
 === "RODECaster Pro"
-    ![Studio audio](/assets/images/medias/rode1-5.jpg)
-    ![Studio audio](/assets/images/medias/rode1-6.jpg)
+    ![Studio audio](../../assets/images/medias/rode1-5.jpg)
+    ![Studio audio](../../assets/images/medias/rode1-6.jpg)
 === "RODECaster Pro II"
-    ![Studio audio](/assets/images/medias/rode2-5.jpg)
-    ![Studio audio](/assets/images/medias/rode2-6.jpg)
+    ![Studio audio](../../assets/images/medias/rode2-5.jpg)
+    ![Studio audio](../../assets/images/medias/rode2-6.jpg)
 ## 4. Connecter un périphérique Bluetooth / USB
 
 Vous pouvez connecter votre téléphone intelligent ou votre PC/Mac via Bluetooth ou USB afin de pouvoir enregistrer des invité.e.s via des logiciels de visioconférence (Teams, Zoom ou autres) ou via le réseau cellulaire.
@@ -94,7 +94,7 @@ Brancher le câble USB à votre ordinateur. Lors de votre appel en visioconfére
 - Pensez à apporter de l’eau pour vous et vos invité.es.
 
 ## 6. Lancer l’enregistrement
-![Studio audio](/assets/images/medias/rode2-7.jpg)
+![Studio audio](../../assets/images/medias/rode2-7.jpg)
 Pour lancer ou arrêter l’enregistrement, appuyer sur le bouton REC. Il n’est pas nécessaire d’arrêter l’enregistrement si vous voulez reprendre une partie, il vaut mieux avoir un seul fichier à traiter par la suite que plusieurs.
 
 ## 7. Transfert des enregistrements
@@ -122,7 +122,7 @@ Pour lancer ou arrêter l’enregistrement, appuyer sur le bouton REC. Il n’es
 === "RODECaster Pro"
     1. Au lancement du logiciel, aller vers l’onglet **Podcasts** et activer **Mode de transfert des podcasts**.
         
-    ![Studio audio](/assets/images/medias/rode1-8.jpg)
+    ![Studio audio](../../assets/images/medias/rode1-8.jpg)
 
     2. Cliquer sur le dernier enregistrement en haut de la liste. Une nouvelle fenêtre s’affichera à côté.
     3. Dans **Sélectionnez votre plateforme**, choisir **Custom***.*
@@ -136,7 +136,7 @@ Pour lancer ou arrêter l’enregistrement, appuyer sur le bouton REC. Il n’es
 === "RODECaster Pro II"
 
     1. Au lancement du logiciel, cliquer sur **Transfer Recordings**. La console va passer en mode transfert. Cliquer sur **Continue**.
-    ![Studio audio](/assets/images/medias/rode2-8-1.jpg)
+    ![Studio audio](../../assets/images/medias/rode2-8-1.jpg)
         
     2. Sélectionner l’enregistrement à transférer et suivre ces paramètres :
         - Custom
@@ -144,7 +144,7 @@ Pour lancer ou arrêter l’enregistrement, appuyer sur le bouton REC. Il n’es
         - Sample Rate : **48 kHz**
         - Bit Depth : **24 bits PCM**
         - Loudness : **-14 LuFs**
-    ![Studio audio](/assets/images/medias/rode2-8-2.jpg)
+    ![Studio audio](../../assets/images/medias/rode2-8-2.jpg)
 
 
 --------------

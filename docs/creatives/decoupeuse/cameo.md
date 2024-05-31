@@ -17,27 +17,27 @@ Ce guide se veut être un rappel de l’utilisation du logiciel Silhouette Studi
     4. Cochez **Constrain Media to Cutting Mat**.
     5. Cochez **Afficher les limites de découpe**.
         
-![Capture d'écran du logiciel Silhouette Studio](/assets/images/creatives/cameo1.webp)
+![Capture d'écran du logiciel Silhouette Studio](../../assets/images/creatives/cameo1.webp)
 
 ---
 
 1. Cliquez sur **Fichier → Ouvrir**, ou glissez votre image au format PNG pour l’ouvrir dans le logiciel. Cliquez sur un coin de la sélection pour redimensionner l’image. 
 Cliquez sur l’image pour la déplacer.
     
-![Capture d'écran du logiciel Silhouette Studio](/assets/images/creatives/cameo2.webp)
+![Capture d'écran du logiciel Silhouette Studio](../../assets/images/creatives/cameo2.webp)
 
 ---
 
 4. Cliquez sur **Envoyer (1)** pour aller dans le menu de découpe.
     1. Choisissez le matériau **Vinyle Oracal 651 (2)**. Si la découpeuse n’est pas démarrée, vous verrez un écran semblable.
         
-![Capture d'écran du logiciel Silhouette Studio](/assets/images/creatives/cameo3.webp)
+![Capture d'écran du logiciel Silhouette Studio](../../assets/images/creatives/cameo3.webp)
         
 ---
 
 Démarrez la découpeuse **(1)** et démarrez le Bluetooth **(2)** (le bouton doit être bleu).
     
-![Capture d'écran du logiciel Silhouette Studio](/assets/images/creatives/cameo4.webp)
+![Capture d'écran du logiciel Silhouette Studio](../../assets/images/creatives/cameo4.webp)
     
 5. La sélection **Auto (Découper) (1)**, ainsi que la lame **AutoLame (détecté)** **(2)** devrait être automatique. Mettez la roulette sur **4**, la force à **10**, et la vitesse à **2 (3)**. 
 La découpeuse indique qu’elle est prête à être chargée **(4)**. Coupez un morceau de vinyle et placez-le sur le tapis de coupe. Chargez-le dans la découpeuse. Cliquez sur **Envoyez (5)** pour lancer la découpe.
@@ -47,19 +47,19 @@ La découpeuse indique qu’elle est prête à être chargée **(4)**. Coupez un
 
 ---
 
-![La découpeuse Cameo 4](/assets/images/creatives/cameo5.webp)
+![La découpeuse Cameo 4](../../assets/images/creatives/cameo5.webp)
 
 Lors du chargement du vinyle, assurez-vous que la partie encerclé en rouge **(1)** soit placée à l’extrémité du tapis de coupe et que la partie noire soit tournée vers le haut. Puis appuyez sur la flèche montante **(2)** pour charger le vinyle. Appuyez sur l’autre flèche pour décharger le vinyle. Accotez le tapis de coupe au guide en plastique qui se trouve sur la gauche alignée au trait blanc, afin que le tapis de coupe soit bien droit.
 
 ---
 
-![La découpeuse Cameo 4](/assets/images/creatives/cameo6.webp)
+![La découpeuse Cameo 4](../../assets/images/creatives/cameo6.webp)
 
 Vous pouvez mettre pause à tout moment en appuyant sur le bouton **Pause** en cas de mal fonction.
 
 ---
 
-![La découpeuse Cameo 4](/assets/images/creatives/cameo7.webp)
+![La découpeuse Cameo 4](../../assets/images/creatives/cameo7.webp)
 
 Retirez les parties qui ne doivent pas être collées, puis collez le papier transfert sur le vinyle. Assurez-vous qu’il n’y a pas de bulle et passant plusieurs fois le grattoir.
 
@@ -68,19 +68,19 @@ Retirez les parties qui ne doivent pas être collées, puis collez le papier tra
 
 ---
 
-![La découpeuse Cameo 4](/assets/images/creatives/cameo8.webp)
+![La découpeuse Cameo 4](../../assets/images/creatives/cameo8.webp)
 
 Retirez le papier transfert avec le vinyle collé dessus. Puis collez-le où vous le souhaitez. Passez le grattoir pour enlever les bulles et pour que le vinyle soit bien collé à la surface.
 
 ---
 
-![La découpeuse Cameo 4](/assets/images/creatives/cameo9.webp)
+![La découpeuse Cameo 4](../../assets/images/creatives/cameo9.webp)
 
 Retirez le papier transfert doucement et le roulant vers l’extérieur. Tadam !
 
 ---
 
-![La découpeuse Cameo 4](/assets/images/creatives/cameo10.webp)
+![La découpeuse Cameo 4](../../assets/images/creatives/cameo10.webp)
 
 ## Paramètres de découpe
 
@@ -99,7 +99,7 @@ Retirez le papier transfert doucement et le roulant vers l’extérieur. Tadam !
 
 #### Auto Lame
 
-![Auto Lame](/assets/images/creatives/cameo11.webp){ width=180rem align=left } 
+![Auto Lame](../../assets/images/creatives/cameo11.webp){ width=180rem align=left } 
 Utilisée pour les coupes standard, la profondeur de coupe se règle sur le logiciel SilhouetteStudio et aucune manipulation directe n’est nécessaire. Cette lame peut couper les matériaux fins comme le vinyle, le papier d’imprimante, l’acétate, le papier cartonné, etc.
 
 Cette lame doit être insérée dans le chariot numéro 1.
@@ -109,7 +109,7 @@ Cette lame doit être insérée dans le chariot numéro 1.
 
 #### Lame rotative
 
-![Lame rotative](/assets/images/creatives/cameo18.webp){ width=180rem align=left } 
+![Lame rotative](../../assets/images/creatives/cameo18.webp){ width=180rem align=left } 
 
 Utilisée pour les coupes difficiles et les matériaux épais. La lame est protégée par une partie plastique qui doit être vissée vers le haut pour libérer la lame. Cette lame peut couper les matériaux difficiles comme le tissu, la feutrine, etc. Pour ces types de matériaux, il est fortement recommandé d’utiliser un tapis de coupe à forte adhérence. 
 
@@ -119,26 +119,26 @@ Cette lame doit être insérée dans le chariot numéro 2.
 
 #### Adaptateur pour stylo Silhouette
 
-![Adaptateur stylo](/assets/images/creatives/cameo12.webp)
+![Adaptateur stylo](../../assets/images/creatives/cameo12.webp)
 
 L’adaptateur bleu est utilisé pour les stylos Silhouette uniquement. Il doit être manipulé avec précaution, car le plastique qui le compose est fragile. 
 
 Cet outil doit être inséré dans le chariot numéro 1.
 
-![Adaptateur stylo installé sur la Cameo 4](/assets/images/creatives/cameo13.webp)
+![Adaptateur stylo installé sur la Cameo 4](../../assets/images/creatives/cameo13.webp)
 
 #### Adaptateur pour crayon/stylo générique
-![Adaptateur pour crayon/stylo générique](/assets/images/creatives/cameo14.webp)
+![Adaptateur pour crayon/stylo générique](../../assets/images/creatives/cameo14.webp)
 L’adaptateur permet d’utiliser des crayons et des stylos communs. Trois tailles d’embouts sont fournies pour s’adapter au mieux au diamètre du crayon utilisé. 
 
 Ne forcez jamais pour insérer l’outil dans le chariot. Il est possible que la mine dépasse trop de l’outil ce qui empêche de bloquer le chariot. La mine doit à peine dépasser de l’outil.
 
 Cet outil doit être inséré dans le chariot numéro 1.
-![Adaptateur pour crayon/stylo générique installé sur la Cameo 4](/assets/images/creatives/cameo15.webp)
+![Adaptateur pour crayon/stylo générique installé sur la Cameo 4](../../assets/images/creatives/cameo15.webp)
 
 #### Pointes de gravure
 
-![3 pointes de gravure : large, standard et fine](/assets/images/creatives/cameo16.webp)
+![3 pointes de gravure : large, standard et fine](../../assets/images/creatives/cameo16.webp)
 
 1. **Pointe large** : Le bout aplati permet d’embosser les matériaux.
 
@@ -152,4 +152,4 @@ Pour assurer une bonne adhérence du matériau à graver, utilisez le tapis de c
 
 Cet outil doit être inséré dans le chariot numéro 1.
 
-![une pointe de gravure installé sur la Cameo 4](/assets/images/creatives/cameo17.webp)
+![une pointe de gravure installé sur la Cameo 4](../../assets/images/creatives/cameo17.webp)

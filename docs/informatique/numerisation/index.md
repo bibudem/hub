@@ -7,7 +7,7 @@ search:
 ---
 
 # Numérisation
-![](/assets/images/informatique/numeriseur.jpg)
+
 Un service de numérisation gratuit est offert sur certains ordinateurs des bibliothèques munis d'un numériseur.
 
 ## Disponibilité :fontawesome-solid-location-dot:

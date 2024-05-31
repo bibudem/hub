@@ -219,7 +219,7 @@ L'utilisateur ne peut pas accéder aux sites de l'UdeM (Studium, umontreal.ca, e
 
 ## Réseau filaire en accès libre
 
-Impossible de se connecter au réseau sans fil? Les bibliothèques proposent des prises réseaux en accès libre. Elles sont représentées par cette icône : ![icône orange de la prise réseau en accès libre](images/prise-reseau.png){ width=40rem }
+Impossible de se connecter au réseau sans fil? Les bibliothèques proposent des prises réseaux en accès libre. Elles sont représentées par cette icône : ![icône orange de la prise réseau en accès libre](../assets/images/informatique/prise-reseau.png){ width=40rem }
 
 ### Disponibilité
 

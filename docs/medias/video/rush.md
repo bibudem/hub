@@ -29,7 +29,7 @@ personnes:
 - Cliquer sur l’icône **Ciseau** située à gauche de la Timeline.
 - Sélectionner l’élément encadrée en jaune et cliquer sur l’Icône de la corbeille.
 
-![](/assets/images/medias/rush-1.png)
+![](../../assets/images/medias/rush-1.png)
 
 !!! Tips
     Il est possible de déplacer l’ordre des médias sur la Timeline. Il suffit de cliquer sur le média et de le faire glisser à l’emplacement désiré.
@@ -52,7 +52,7 @@ Adobe Premiere Rush n’offre pas l’effet Incrustation sur fond de couleur. Po
 2. Ouvrir le logiciel Adobe Premiere Pro. 
 3. À gauche au bas de l’interface, cliquer sur **Ouvrir un projet Premiere Rush**.
     
-    ![](/assets/images/medias/rush-2.png)
+    ![](../../assets/images/medias/rush-2.png)
     
 4. Sélectionner ****votre projet sur fond vert. 
 5. L’interface de montage de Premiere Pro s’ouvre automatiquement. 
@@ -70,7 +70,7 @@ Sélectionner votre projet.
 4. Cliquer sur **Exporter.**
 5. Une fois l’exportation complétée, cliquer sur **Terminer.**
 
-![](/assets/images/medias/rush-3.png)
+![](../../assets/images/medias/rush-3.png)
 
 ## Sauvegarde de projet
 
@@ -79,7 +79,7 @@ Sélectionner votre projet.
 1. Adobe Premiere Rush conserve localement les projets. Ceux-ci s’affichent à l’ouverture de l’application.
 2. Lors de sa création, le projet se synchronise dans votre compte Creative Cloud. Il devient accessible sur tablette, téléphone intelligent ou autre ordinateur afin de poursuivre un montage.
     
-    ![](/assets/images/medias/rush-4.png)
+    ![](../../assets/images/medias/rush-4.png)
     
 
 ## Qualité du son
@@ -90,13 +90,13 @@ Certains environnements sont moins propices à une bonne prise de son. Pour éli
 
 1. Sur la Timeline, cliquer sur la piste sonore. Un encadré jaune s’inscrit.
     
-    ![](/assets/images/medias/rush-5.png)
+    ![](../../assets/images/medias/rush-5.png)
     
     1. Sélectionner ****l’icône de son à la droite de l’interface.
     2. Activer **Voix** et les diverses options se trouvant juste dessous. 
     3. À l’écoute, évaluer les options qui procurent une plus grande richesse de la voix.  
     
-    ![](/assets/images/medias/rush-6.png)
+    ![](../../assets/images/medias/rush-6.png)
     
 ### Ressources en ligne
 

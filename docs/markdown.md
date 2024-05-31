@@ -52,9 +52,9 @@ Seuls les titres 2 sont affichés dans la table des matières.
 
 ## Image
 
-![Texte alternatif](/assets/images/creatives/arduino-intro.jpg)
+![Texte alternatif](assets/images/creatives/arduino-intro.jpg)
 
-Les images doivent être hébergées dans le dossier /docs/assets/images/ selon la catégorie de la page (informatique, créatives, etc.)
+Les images doivent être hébergées dans le dossier /docs../../assets/images/ selon la catégorie de la page (informatique, créatives, etc.)
 
 ## Code
 

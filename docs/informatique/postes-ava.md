@@ -25,13 +25,14 @@ Les bibliothèque UdeM mettent à votre disposition des postes Apportez Votre Ap
 
 4) Commencez à travailler!
 
-## Disponibilité
-
-| Localisation   |      Nombre      |
-|----------|:-------------|
-| Droit | 11 postes |
-| Lettres et sciences humaines | 10 postes |
-| Mathématiques et informatique| 1 poste |
-| Sciences | 2 postes |
+## Localisation
+### Bibliothèque des lettres et sciences humaines
+7 postes, disponible à tous les étages.
+### Bibliotheque des sciences
+2 postes.
+### Bibliothèque mathématiques et informatique
+1 poste à la zone de silence.
+### Bibliothèque de droit
+11 postes.
 
 ## Aide
