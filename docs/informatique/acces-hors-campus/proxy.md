@@ -25,7 +25,7 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
     4. Sélectionner l'onglet **Serveurs mandataires**.
     5. Activer **Configuration de serveur mandataire automatique**.
     6. Dans la case URL, taper au complet et sans espace `http://proxy.umontreal.ca` ![Fenêtre macOS pour activer le serveur mandataire](../../assets/images/informatique/proxy-macos.png)
-    7. Cliquer sur **OK** ensuite **Appliquer**.
+    7. Cliquer sur **OK** ensuite **Appliquer** (si demandé).
 
     Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
 
