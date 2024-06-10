@@ -46,19 +46,19 @@ Si vous utilisez un Arduino générique (sans la mention de la marque sur la car
 
 ![Interface du logiciel Arduino IDE](../../../assets/images/creatives/arduino3.webp)
 
-**3.** Le logiciel est aussi une mine d’or d’exemples en tout genre. Pour tester votre carte et s’assurer que la communication entre cette dernière et l’ordinateur est fonctionnelle, allez vers **Fichier → Exemples → 01.Basics → Blink**. Ce programme va tout simplement faire clignoter une petite lumière orange sur la carte.
+**3.** Le logiciel est aussi une mine d’or d’exemples en tout genre. Pour tester votre carte et s’assurer que la communication entre cette dernière et l’ordinateur est fonctionnelle, allez vers **Fichier → Exemples → 01.Basics → Blink**. Ce programme va tout simplement faire clignoter une petite lumière sur la carte.
 
 ![Interface du logiciel Arduino IDE](../../../assets/images/creatives/arduino4.webp)
 
 **4.** Pour envoyer le code de **Blink** vers le microcontrôleur, cliquez sur **Téléverser**. Une fois l’opération complétée, le logiciel vous confirmera que le téléversement est terminé et la lumière de la **PIN 13** (L) clignotera une fois par seconde. Si une erreur survient, assurez-vous que la carte est bien branchée, que vous avez bien choisi le bon type d’Arduino et le bon port de communication.
 
-![Interface du logiciel Arduino IDE](../../assets/images/creatives/arduino5.webp)
+![Interface du logiciel Arduino IDE](../../../assets/images/creatives/arduino5.webp)
 
-![La carte Arduino avec la lumière qui clignote](../../assets/images/creatives/arduino6.webp)
+![La carte Arduino avec la lumière qui clignote](../../../assets/images/creatives/arduino6.webp)
 
 ## Anatomie d’une carte Arduino
 
-![Anatomie d’une carte Arduino](../../assets/images/creatives/arduino7.webp)
+![Anatomie d’une carte Arduino](../../../assets/images/creatives/arduino7.webp)
 
 1. **Bouton RESET** : Sert à réinitialiser l’Arduino. N’efface pas le contenu qui est déjà programmé.
 2. **Port USB** : Sert à alimenter la carte de prototypage, à téléverser un sketch (programme) et communiquer via `Serial.println()`.
