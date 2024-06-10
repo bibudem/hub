@@ -42,7 +42,7 @@ Les membres de la communauté UdeM peuvent inviter des non-membres à participer
 
 De la documentation est disponible pour vous aider à utiliser le studio d'enregistrement audio :
 
-[:material-book-open-variant:{ .lg .middle } **Consulter la documentation**](../medias/audio/guide-balado.md){ .md-button  }
+[:material-book-open-variant:{ .lg .middle } **Consulter la documentation**](../medias/audio/guide-balado){ .md-button  }
 
 ## Consultation et soutien
 
