@@ -19,14 +19,14 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
     === "macOS 10.13 à 12"
     !!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
 
-    1. Cliquer sur l'icône Wi-Fi en haut à droite de l'écran.
+    1. Cliquer l'icône Wi-Fi en haut à droite de l'écran.
     2. Cliquer **Préférences réseau**. Si un cadenas fermé s’affiche en bas à gauche, cliquer pour le débarrer avec le mot de passe du compte administrateur de votre ordinateur.
 
-    3. Cliquer sur **Avancé**.
+    3. Cliquer **Avancé**.
     4. Sélectionner l'onglet **Serveurs mandataires**.
     5. Activer **Configuration de serveur mandataire automatique**.
     6. Dans la case URL, taper au complet et sans espace `http://proxy.umontreal.ca` ![Fenêtre macOS pour activer le serveur mandataire](../../assets/images/informatique/proxy-macos.png)
-    7. Cliquer sur **OK** ensuite **Appliquer** (si demandé).
+    7. Cliquer **OK** ensuite **Appliquer** (si demandé).
 
     Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
 
@@ -35,14 +35,14 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
     === "macOS 13 eu ultérieur"
     !!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
 
-    1. Cliquer sur l'icône Wi-Fi en haut à droite de l'écran.
+    1. Cliquer l'icône Wi-Fi en haut à droite de l'écran.
     2. Cliquer **Réglages Wi-Fi**. Si un cadenas fermé s’affiche en bas à gauche, cliquer pour le débarrer avec le mot de passe du compte administrateur de votre ordinateur.
 
-    3. Cliquer sur **Détails**.
+    3. Cliquer **Détails**.
     4. Sélectionner l'onglet **Serveurs mandataires**.
     5. Activer **Configuration de serveur mandataire automatique**.
     6. Dans la case URL, taper au complet et sans espace `http://proxy.umontreal.ca` ![Fenêtre macOS pour activer le serveur mandataire](../../assets/images/informatique/proxy-macos.png)
-    7. Cliquer sur **OK** ensuite **Appliquer** (si demandé).
+    7. Cliquer **OK** ensuite **Appliquer** (si demandé).
 
     Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
 
