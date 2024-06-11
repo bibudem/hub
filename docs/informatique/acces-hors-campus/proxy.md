@@ -30,8 +30,9 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
 		Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
 
 		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DQy5FlukamTM?si=B9KGpraq8qG1N-y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    === "macOS 13 et ultérieur"       
+		
+		
+		=== "macOS 13 et ultérieur"
 		!!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
 
 		1. Cliquer l'icône Wi-Fi en haut à droite de l'écran.
@@ -39,12 +40,14 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
 		3. Cliquer **Détails**.
 		4. Sélectionner l'onglet **Serveurs mandataires**.
 		5. Activer **Configuration de serveur mandataire automatique**.
+		6. Dans la case URL, taper au complet et sans espace `http://proxy.umontreal.ca` ![Fenêtre macOS pour activer le serveur mandataire](../../assets/images/informatique/proxy-macos.png)
 		7. Cliquer **OK** ensuite **Appliquer** (si demandé).
-		Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
 		
+		Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
+
 		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dk1oUdLo84Y?si=YmrEseW783rcbQNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+		
 === "Windows"
 
     === "Windows 10"
