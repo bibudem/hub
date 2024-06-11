@@ -16,37 +16,33 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
 
 === "macOS"
 
-    === "macOS 10.13 à 12"
-    !!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
+=== "macOS 10.13 à 12"       
+		!!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
 
-    1. Cliquer sur l'icône Wi-Fi en haut à droite de l'écran.
-    2. Cliquer **Préférences réseau**. Si un cadenas fermé s’affiche en bas à gauche, cliquer pour le débarrer avec le mot de passe du compte administrateur de votre ordinateur.
+		1. Cliquer l'icône Wi-Fi en haut à droite de l'écran.
+		2. Cliquer **Préférences réseau**. Si un cadenas fermé s’affiche en bas à gauche, cliquer pour le débarrer avec le mot de passe du compte administrateur de votre ordinateur.
+		3. Cliquer **Avancé**.
+		4. Sélectionner l'onglet **Serveurs mandataires**.
+		5. Activer **Configuration de serveur mandataire automatique**.
+		6. Dans la case URL, taper au complet et sans espace `http://proxy.umontreal.ca` ![Fenêtre macOS pour activer le serveur mandataire](../../assets/images/informatique/proxy-macos.png)
+		7. Cliquer **OK** ensuite **Appliquer** (si demandé).
 
-    3. Cliquer sur **Avancé**.
-    4. Sélectionner l'onglet **Serveurs mandataires**.
-    5. Activer **Configuration de serveur mandataire automatique**.
-    6. Dans la case URL, taper au complet et sans espace `http://proxy.umontreal.ca` ![Fenêtre macOS pour activer le serveur mandataire](../../assets/images/informatique/proxy-macos.png)
-    7. Cliquer sur **OK** ensuite **Appliquer** (si demandé).
+		Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
 
-    Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
+		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DQy5FlukamTM?si=B9KGpraq8qG1N-y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DQy5FlukamTM?si=B9KGpraq8qG1N-y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    === "macOS 13 et ultérieur"       
+		!!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
 
-    === "macOS 13 eu ultérieur"
-    !!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
-
-    1. Cliquer sur l'icône Wi-Fi en haut à droite de l'écran.
-    2. Cliquer **Réglages Wi-Fi**. Si un cadenas fermé s’affiche en bas à gauche, cliquer pour le débarrer avec le mot de passe du compte administrateur de votre ordinateur.
-
-    3. Cliquer sur **Détails**.
-    4. Sélectionner l'onglet **Serveurs mandataires**.
-    5. Activer **Configuration de serveur mandataire automatique**.
-    6. Dans la case URL, taper au complet et sans espace `http://proxy.umontreal.ca` ![Fenêtre macOS pour activer le serveur mandataire](../../assets/images/informatique/proxy-macos.png)
-    7. Cliquer sur **OK** ensuite **Appliquer** (si demandé).
-
-    Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D5VeqdvUNdM?si=B9KGpraq8qG1N-y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		1. Cliquer l'icône Wi-Fi en haut à droite de l'écran.
+		2. Cliquer **Réglages Wi-Fi**. Si un cadenas fermé s’affiche en bas à gauche, cliquer pour le débarrer avec le mot de passe du compte administrateur de votre ordinateur.
+		3. Cliquer **Détails**.
+		4. Sélectionner l'onglet **Serveurs mandataires**.
+		5. Activer **Configuration de serveur mandataire automatique**.
+		7. Cliquer **OK** ensuite **Appliquer** (si demandé).
+		Pour désinstaller le Proxy, refaire les étapes précédentes puis à l'étape 5, désactiver **Configuration de serveur mandataire automatique**, ensuite **OK** et **Appliquer**.
+		
+		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dk1oUdLo84Y?si=YmrEseW783rcbQNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 === "Windows"
