@@ -17,6 +17,7 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
 === "macOS"
 
 	=== "macOS 10.13 à 12"
+		
 		!!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
 
 		1. Cliquer l'icône Wi-Fi en haut à droite de l'écran.
@@ -32,6 +33,7 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
 		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dk1oUdLo84Y?si=YmrEseW783rcbQNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	
 	=== "macOS 13 et ultérieur"
+		
 		!!! Warning "Il est recommandé d'utiliser le navigateur Chrome ou Firefox."
 
 		1. Cliquer l'icône Wi-Fi en haut à droite de l'écran.
