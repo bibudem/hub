@@ -5,7 +5,7 @@ glightbox: false
 
 # L'équipe
 
-!!! info "Pour des questions d'ordre général, écrivez-nous à tech@bib.umontreal.ca"
+!!! info "Pour des questions d'ordre général, écrivez-nous à techslib@bib.umontreal.ca"
 
 ## Équipe Techniciens en informatique
 
