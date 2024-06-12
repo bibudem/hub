@@ -14,43 +14,43 @@ glightbox: false
 
 ![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
 
-### Eric Romano, technicien de soutien en laboratoire informatique
+### Eric Romano, technicien en soutien de laboratoire informatique
 
 :octicons-location-16: Bibliothèque lettres et sciences humaines
 
 :octicons-mail-16: eric.romano@umontreal.ca
 
-- Intérêts : Linux, LaTeX
+- Intérêts : Proxy, Windows, Mac, iOS, Android, Linux, Microsoft Office 365, modèle de thèse, formation
 
-- Présentation : 
+- Présentation : Je travaille à la Bibliothèque Lettres et sciences humaines depuis 2002. Assurant la permanence du soutien informatique en bibliothèque et en clavardage, je réponds aux besoins de la clientèle étudiante du début à la fin de leur parcours. J’initie également les étudiants en rédaction à l’utilisation modèle de mémoire et de thèse par le biais de formation de groupe.
 
 ----------------
 
 ![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
 
-### Thierry Caballero, technicien de soutien en laboratoire informatique
+### Thierry Caballero, technicien en soutien de laboratoire informatique
 
 :octicons-location-16: Bibliothèque lettres et sciences humaines
 
 :octicons-mail-16: thierry.caballero@umontreal.ca
 
-- Intérêts : Windows
+- Intérêts : Proxy, Windows, Mac, iOS, Android, Linux, Microsoft Office 365, modèle de thèse
 
-- Présentation : 
+- Présentation : Je travaille en Bibliothèque depuis 2017. Assurant la permanence du soutien informatique en bibliothèque et en clavardage, je réponds aux besoins de la clientèle étudiante du début à la fin de leur parcours. 
 
 ----------------
 
 ![](../assets/images/equipe/personne.jpg){ width=200rem align=left } 
 
-### Wassif Cheikh, technicien de soutien en laboratoire informatique
+### Wassif Cheikh, technicien de soutien de laboratoire informatique
 
 :octicons-location-16: Bibliothèque lettres et sciences humaines
 
 :octicons-mail-16: wassif.cheikh@umontreal.ca
 
-- Intérêts : Linux, macOS, LaTeX
+- Intérêts : Proxy, Windows, Mac, iOS, Android, Linux, Microsoft Office 365, modèle de thèse
 
-- Présentation : 
+- Présentation : Je travaille en Bibliothèque depuis 2013. Assurant la permanence du soutien informatique en bibliothèque et en clavardage, je réponds aux besoins de la clientèle étudiante du début à la fin de leur parcours.
 
 ----------------
 
