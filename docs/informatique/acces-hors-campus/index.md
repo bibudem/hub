@@ -22,7 +22,7 @@ L'accès à ces ressources est possible via un ordinateur du campus, vos apparei
 
 Préalables :
 
-- Être membre de la communauté UdeM.
+- Être membre actif de la communauté UdeM.
 - [Avoir ses informations d'authentification.](../authentification.md){ data-preview }
 
 <div class="grid cards" markdown>
