@@ -62,14 +62,15 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dk1oUdLo84Y?si=YmrEseW783rcbQNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     === "Windows 11"
-        7. Cliquer sur le bouton **Démarrer**, puis sur **Paramètres**
-        8.  Cliquer sur **Réseau & Internet**
-        9.  Cliquer sur **Proxy**
-        10. Dans **Utiliser un script d'installation**, cliquer **Configurer**
-        11. Activer **Utiliser un script de configuration**
-        12. Dans **Adresse du script**, taper sans espace `http://proxy.umontreal.ca`
+        1. Cliquer sur le bouton **Démarrer**, puis sur **Paramètres**
+        2. Cliquer sur **Réseau & Internet**
+        3. Cliquer sur **Proxy**
+        4. Détecter automatiquement les paramètres doit être **désactivé**
+        5. Dans **Utiliser un script d'installation**, cliquer **Configurer**
+        6. Activer **Utiliser un script de configuration**
+        7. Dans **Adresse du script**, taper sans espace `http://proxy.umontreal.ca`
         ![Fenêtre Windows 11 pour activer le serveur mandataire](../../assets/images/informatique/proxy-w11-utiliser-script.jpg)
-        13. Cliquer sur **Enregistrer**
+        8. Cliquer sur **Enregistrer**
 
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IApth7W-yzw?si=hL5dUYtCGjHqpRrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
