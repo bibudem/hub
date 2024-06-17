@@ -82,6 +82,15 @@ Le serveur mandataire agit comme un canal facilitant l'accès aux ressources él
     4. Appuyer sur **Enregistrer**
 
 === "Android"
+    1. Glisser le doigt du haut vers le bas (2 fois) et toucher le nom du réseau Wi-Fi sur lequel vous êtes présentement connecté.
+    2. Toucher **Plus de paramètres**
+    3. Appuyer longuement sur le **nom de la connexion réseau** qui sera utilisé pour accéder au Proxy 
+    4. Toucher **Modifier le réseau**
+    5. Toucher **Potions avancées**
+    6. Sous **serveur mandataire** (ou Proxy), toucher à la petite flèche pointant vers le bas
+    7. Toucher **Config. auto du mandataire** (ou Proxy)
+    8. Dans **URL config auto mand.** (ou Proxy), taper sans espace `http://proxy.umontreal.ca`
+    9. Appuyer **Enregistrer**
 
 
 
