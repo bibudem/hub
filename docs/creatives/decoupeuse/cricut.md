@@ -24,11 +24,11 @@ Tout d’abord, il faut choisir une image! Dans ce guide l’image source provie
 
 ### 3. Créer un nouveau projet
 
-3.1. Pour débuter un nouveau projet, cliquer sur le menu **Accueil** en haut à gauche de l’écran.
+3.1. Pour débuter un nouveau projet, cliquer sur le menu **Nouveau projet** en haut à gauche de l’écran.
 
 ![Untitled](../../assets/images/creatives/cricut3.webp){ width=600rem} 
 
-3.2. Sélectionner **Toile.**    
+3.2. Sélectionner **Toile personnalisable.**    
 
 ![Untitled](../../assets/images/creatives/cricut4.webp){ width=300rem} 
 
@@ -50,7 +50,14 @@ Tout d’abord, il faut choisir une image! Dans ce guide l’image source provie
 
 ![Untitled](../../assets/images/creatives/cricut8.webp){ width=600rem} 
 
-4.5. Sélectionner l’image téléchargée et cliquer sur **Ajouter à la toile.**
+Vous avez ensuite la possibilité de modifier (effacer, dessiner).
+![Untitled](../../assets/images/creatives/cricut58.png){ width=600rem}
+
+4.5. Sélectionner **Monocalque**, puis continuer.
+
+![Untitled](../../assets/images/creatives/cricut59.png){ width=600rem}
+
+4.6 Sélectionner l’image téléchargée et cliquer sur **Ajouter à la toile.**
 
 ![Untitled](../../assets/images/creatives/cricut9.webp){ width=600rem} 
 
